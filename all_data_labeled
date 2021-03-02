@@ -1,0 +1,1925 @@
+,Clip_Name,sentence,label_desc,use,label
+0,Ses01F_impro01_F000,Excuse me.,Neutral,train,1
+1,Ses01F_impro01_F001,Yeah.,Neutral,validation,1
+2,Ses01F_impro01_F002,Is there a problem?,Neutral,train,1
+3,Ses01F_impro01_F012,That's out of control.,Negative,train,0
+4,Ses01F_impro01_M011,I don't understand why this is so complicated for people when they get here. It's just a simple form. I just need an ID.,Negative,train,0
+5,Ses01F_impro01_M013,Yeah. Do you want to see my supervisor? Huh? Yeah. Do you want to see my supervisor? Fine. I'll be right back.,Negative,test,0
+6,Ses01F_impro02_F000,Did you get the mail? So you saw my letter?,Negative,validation,0
+7,Ses01F_impro02_F001,Yeah. I know.,Negative,test,0
+8,Ses01F_impro02_F002,I don't know. I put in that. request too. They didn't...,Negative,train,0
+9,Ses01F_impro02_F003,"I guess, you know, everybody has to make sacrifices.",Neutral,train,1
+10,Ses01F_impro02_F004,"There's people that have given more though, you know?",Negative,test,0
+11,Ses01F_impro02_F005,I know.,Negative,train,0
+12,Ses01F_impro02_F006,"There's babies over there, though, that need mothers.",Neutral,train,1
+13,Ses01F_impro02_F008,"Just, you know, kicking myself.",Negative,test,0
+14,Ses01F_impro02_F010,things just aren't what they seem.,Negative,train,0
+15,Ses01F_impro02_F012,"If not me then, who?",Negative,train,0
+16,Ses01F_impro02_F013,"You'll videotape everything, yeah?",Negative,train,0
+17,Ses01F_impro02_F014,"Maybe you can send it to me, like stream it, yeah?",Negative,train,0
+18,Ses01F_impro02_F015,Last month-- Yeah.,Negative,test,0
+19,Ses01F_impro02_F016,I have to find sitters.,Neutral,train,1
+20,Ses01F_impro02_F017,"We've got friends, that's why we moved here, huh? Because there is a day care down the street.",Negative,test,0
+21,Ses01F_impro02_F018,And your mother is close by.,Neutral,train,1
+22,Ses01F_impro02_F019,I'll send you lots of letters.,Negative,train,0
+23,Ses01F_impro02_F020,And I want lots and lots and lots of pictures.,Negative,validation,0
+24,Ses01F_impro02_M001,"I don't understand. You've already done so much, I don't know why do you have to go back.",Negative,train,0
+25,Ses01F_impro02_M005,I don't know how you can be okay with this? I don't know why you're not-- you're fine with it.,Negative,validation,0
+26,Ses01F_impro02_M009,I just don't see why it has to be you.,Negative,train,0
+27,Ses01F_impro02_M010,What am I going to do? Huh?,Negative,train,0
+28,Ses01F_impro02_M011,Yeah.,Negative,train,0
+29,Ses01F_impro02_M012,Don't you guys have access to computers over there.,Neutral,train,1
+30,Ses01F_impro02_M013,I just don't know how I'm going to do it without you.,Negative,train,0
+31,Ses01F_impro02_M014,I can't raise a baby by myself. How?,Negative,validation,0
+32,Ses01F_impro02_M015,I know.,Neutral,train,1
+33,Ses01F_impro03_F000,Well Vegas was awesome.,Positive,train,2
+34,Ses01F_impro03_F001,"And, um, I got married.",Positive,train,2
+35,Ses01F_impro03_F002,Yeah. In the old town part.,Positive,train,2
+36,Ses01F_impro03_F004,Um- Yes. It was very romantic.,Positive,test,2
+37,Ses01F_impro03_F005,It was at the slot machines.,Positive,train,2
+38,Ses01F_impro03_F006,"Uhuh, uhuh. He won big and he-and he realized that the only thing that would make it better was me as his bride.",Positive,test,2
+39,Ses01F_impro03_F008,"Yeah. Well. You know, because he's leaving the next day.",Positive,test,2
+40,Ses01F_impro03_F009,But we're going to have a honeymoon cruise.,Positive,validation,2
+41,Ses01F_impro03_F010,Oh. I hadn't even thought about that.,Positive,test,2
+42,Ses01F_impro03_F012,Oh. Totally.,Positive,validation,2
+43,Ses01F_impro03_F013,I guess I'll- I guess I'll have an internet husband.[LAUGHTER],Positive,train,2
+44,Ses01F_impro03_F016,"He likes to keep tabs, you know.",Positive,test,2
+45,Ses01F_impro03_F017,"Uh, I think seven hundred and fifty dollars.",Neutral,train,1
+46,Ses01F_impro03_F018,Penny slots. That's what he plays.,Neutral,train,1
+47,Ses01F_impro03_F019,Yeah.,Neutral,train,1
+48,Ses01F_impro03_F021,Yeah. We played Wheel of Fortune pennies. It's like a giant thing with like-,Positive,train,2
+49,Ses01F_impro03_F022,Fifty bucks. Mmhmm.,Neutral,train,1
+50,Ses01F_impro03_F023,Yeah.,Neutral,train,1
+51,Ses01F_impro03_F024,Well so now we're married. We have cat children.,Positive,train,2
+52,Ses01F_impro03_F025,"We renamed Brenda, Lumber Janet.",Positive,validation,2
+53,Ses01F_impro03_F026,She needs a new name each state that we go into. [LAUGHTER],Positive,test,2
+54,Ses01F_impro03_M000,So what's up? What's new?,Neutral,train,1
+55,Ses01F_impro03_M001,Yeah. I heard.,Neutral,train,1
+56,Ses01F_impro03_M006,He turned to you and was like...,Neutral,train,1
+57,Ses01F_impro03_M007,[LAUGHTER] That's really romantic.,Positive,train,2
+58,Ses01F_impro03_M008,Yeah.,Neutral,test,1
+59,Ses01F_impro03_M013,Like you need another one of those.[LAUGHTER],Positive,train,2
+60,Ses01F_impro03_M014,Is that your phone?,Positive,train,2
+61,Ses01F_impro03_M015,He loves you.,Positive,train,2
+62,Ses01F_impro03_M019,I'm a big fan of the Wheel of Fortune quarters. But it just costs so much. I don't know.,Neutral,validation,1
+63,Ses01F_impro03_M020,"But the pennies always get you because you end up spending like, you know, fifty bucks.",Neutral,validation,1
+64,Ses01F_impro03_M021,"like, wait, but it's just pennies. You're like, wait a minute I'm on to you.",Neutral,train,1
+65,Ses01F_impro03_M023,[LAUGHTER] Cat babies.,Positive,train,2
+66,Ses01F_impro03_M024,That's fair enough.,Neutral,test,1
+67,Ses01F_impro04_F000,"Uh, what? Craig's List? Oh the internet thing?",Neutral,test,1
+68,Ses01F_impro04_F001,I don't know. Isn't that-- that's all like escort services and things like that.,Neutral,train,1
+69,Ses01F_impro04_F005,He just...,Neutral,train,1
+70,Ses01F_impro04_F006,you know what? I heard about that job. I applied for that.,Neutral,train,1
+71,Ses01F_impro04_F009,Yeah.,Neutral,train,1
+72,Ses01F_impro04_F013,I just- I mean I call people up and I tell them what I'm good at.,Neutral,validation,1
+73,Ses01F_impro04_F014,Yeah.,Neutral,train,1
+74,Ses01F_impro04_F028,I'm not frustrated.,Negative,validation,0
+75,Ses01F_impro04_F029,Who do you think you are?,Negative,validation,0
+76,Ses01F_impro04_F030,You are so high and mighty. I just--,Negative,test,0
+77,Ses01F_impro04_F031,Oh. I'm saving the environment. I'm riding this car because I- I want to.,Negative,test,0
+78,Ses01F_impro04_F032,"The bus, I'm riding the bus because I want to.",Negative,train,0
+79,Ses01F_impro04_F033,I can not-- you are not here by choice. Nobody would ride this bus by choice.,Negative,train,0
+80,Ses01F_impro04_M002,No. There's regular jobs on there.,Neutral,train,1
+81,Ses01F_impro04_M003,Uh huh.,Neutral,train,1
+82,Ses01F_impro04_M004,I'm just saying I have a friend that got a good job on it so I was just recommending it.,Neutral,test,1
+83,Ses01F_impro04_M005,He's like a manager for a theatre.,Neutral,train,1
+84,Ses01F_impro04_M026,"To save the environment, carpool.",Neutral,validation,1
+85,Ses01F_impro04_M027,Yes. One less car at a time.,Neutral,train,1
+86,Ses01F_impro05_F008,Flight seven fourteen.,Negative,train,0
+87,Ses01F_impro05_F009,"Am I going to be getting, like, free tickets, free mileage. When can I expect my bag here?",Negative,train,0
+88,Ses01F_impro05_F011,Is this a joke?,Negative,test,0
+89,Ses01F_impro05_F012,"Are there candid cameras? Is this that movie? There's that show, right? Airplane, airline.",Negative,validation,0
+90,Ses01F_impro05_F014,"You're kidding me, this is a joke.",Negative,test,0
+91,Ses01F_impro05_F015,Do you have any idea-- fifty dollars? That's supposed to replace everything that I have? Do you understand how much I have packed in there? Not only does it have sentimental value; it can't be replaced like that. It was incredibly expensive.,Negative,train,0
+92,Ses01F_impro05_F016,We flew in from Paris. I've been shopping for three weeks.,Negative,test,0
+93,Ses01F_impro05_F017,I don't care what you're freaking sign says. Somebody- Somebody needs to replace everything I've got there and give me money for my inconvenience.,Negative,validation,0
+94,Ses01F_impro05_F018,Do you understand who my husband is?,Negative,train,0
+95,Ses01F_impro05_F019,"If you're- if you're- if you're looking for a lawsuit, baby, you've found it.",Negative,train,0
+96,Ses01F_impro05_F020,Oh-Oh. It's a gift. You're-You're helping me out here?,Negative,train,0
+97,Ses01F_impro05_F021,You are cruising for a bruising. You are in so much trouble.,Negative,train,0
+98,Ses01F_impro05_F022,Who's in charge? Who is the president of Jet Blue?,Negative,train,0
+99,Ses01F_impro05_F023,Because I probably know him.,Negative,train,0
+100,Ses01F_impro05_F024,Yeah.,Negative,train,0
+101,Ses01F_impro05_F025,"I don't want money, I want my clothes.",Negative,test,0
+102,Ses01F_impro05_F026,What's your name?,Negative,train,0
+103,Ses01F_impro05_F028,Okay. I'll do that.,Negative,train,0
+104,Ses01F_impro05_F029,I don't think you have done everything you could do because I don't have my bag here yet.,Negative,train,0
+105,Ses01F_impro05_F030,A letter? I'll make a personal phone call.,Negative,train,0
+106,Ses01F_impro05_M000,Hi. Thanks for waiting.,Neutral,train,1
+107,Ses01F_impro05_M001,Can I help you?,Positive,test,2
+108,Ses01F_impro05_M002,Uh huh.,Positive,test,2
+109,Ses01F_impro05_M014,"No, no.",Neutral,test,1
+110,Ses01F_impro05_M015,"No, no. This is real.",Neutral,train,1
+111,Ses01F_impro05_M030,"Right now all I can do is just give you this fifty dollars, I'm really sorry.",Neutral,train,1
+112,Ses01F_impro05_M031,Oh. My name is Sean. Hi.,Neutral,train,1
+113,Ses01F_impro05_M034,"If you want, you can write a letter. I can give you the address. Yes. An angry--",Neutral,validation,1
+114,Ses01F_impro05_M035,"Or you can make a phone call. But I think a letter might be a little more-- in my impression, letters have more...",Neutral,validation,1
+115,Ses01F_impro06_F002,No.,Negative,test,0
+116,Ses01F_impro06_F003,That's sweet.,Neutral,train,1
+117,Ses01F_impro06_F004,Thank you.,Neutral,validation,1
+118,Ses01F_impro06_F005,I went to see her headstone a week or two ago.,Negative,train,0
+119,Ses01F_impro06_F006,"I used to go to cemeteries a lot before she died. I just, you know, I felt like they were urban oasis, you know, there is always this green in the city.",Negative,validation,0
+120,Ses01F_impro06_F007,So I was like wandering around before. It takes forever to find her headstone; I always lose it. You know.,Negative,train,0
+121,Ses01F_impro06_F008,So I was looking at this other one and there was like a piece of candy there and I thought that I would take the candy and put it on her headstone. And-,Negative,train,0
+122,Ses01F_impro06_F009,"this woman came up and, you know, it was hers. It was her person that was there.",Neutral,train,1
+123,Ses01F_impro06_F010,"Yeah. And she was like, that's pathetic, I hope you enjoy it.",Negative,validation,0
+124,Ses01F_impro06_F011,"And I, you know, I mean, I said I was sorry and I brought it back to her kind of and I like put it on the ground and she was like, no, it's fine. She was like, I would rather have her back, honestly.",Negative,train,0
+125,Ses01F_impro06_F012,"I don't know. It just, like, I felt so bad because I shouldn't have done it. I don't know. Whatever.",Negative,validation,0
+126,Ses01F_impro06_F013,I don't know.,Negative,validation,0
+127,Ses01F_impro06_F014,At the cemetery?,Negative,test,0
+128,Ses01F_impro06_F015,couple hours.,Negative,train,0
+129,Ses01F_impro06_F016,"I brought- I brought Chuck with me. He went to Redlands, yeah, for the day. We ran through the sprinklers.",Neutral,train,1
+130,Ses01F_impro06_F018,Yeah. It's huge. Redlands is an old city so they have lots and lots of stones.,Neutral,train,1
+131,Ses01F_impro06_F019,Yeah.,Neutral,train,1
+132,Ses01F_impro06_F020,"It's weird. Whenever I go back to town, I think of her. I mean, it's like ... I mean we grew up together and she died when we were twenty one. And yeah. She had cancer, she had two brain tumors.",Negative,validation,0
+133,Ses01F_impro06_F021,"My best friend Heather. She's got a- we have a- we built this like little-- There's a park, Prospect Park. And there is like a garden section of it that we set up for her.",Negative,validation,0
+134,Ses01F_impro06_F022,She used to have these poetry parties on Memorial Day.,Negative,train,0
+135,Ses01F_impro06_F023,Umm. Yeah.,Negative,train,0
+136,Ses01F_impro06_F024,"And the last time before she died, I remember she couldn't really stand, umm...",Negative,train,0
+137,Ses01F_impro06_F025,"But I mean she could, but it was- so it was kind of sitting at her feet holding her up and she had these poems she had memorized. And I remember looking up, she had curly red hair and there was this palm tree right behind her and it was like a crown growing right out of her head. It was cool.",Negative,validation,0
+138,Ses01F_impro06_F026,"Some, I guess. She memorized this one, John Dunn, it's called, Death Be Not Proud. and-",Negative,train,0
+139,Ses01F_impro06_F027,"There's another one, I can't remember.",Neutral,test,1
+140,Ses01F_impro06_F028,"I remember, too, when we were-- she died at U.C.L.A. She had brain surgery and there was not much hope to begin with, but I gave blood for her surgery, her mom and I before, so we dropped her off in the waiting room and then we were giving blood and came back. And she, in her wheelchair, like can hardly do anything, reciting her poetry for these people like in the waiting room. All she needs is a God damn audience. You know?",Negative,train,0
+141,Ses01F_impro06_M000,"I'm sorry, Joy.",Negative,train,0
+142,Ses01F_impro06_M001,Is there anything I can get you? Do you want me to take care of anything for you or...?,Neutral,train,1
+143,Ses01F_impro06_M002,...pick up anything?,Neutral,train,1
+144,Ses01F_impro06_M003,You know you are welcome to stay at my house if you want to just check out for a couple days and hang out.,Negative,validation,0
+145,Ses01F_impro06_M004,Hmm.,Neutral,validation,1
+146,Ses01F_impro06_M005,Oh. She was there?,Neutral,train,1
+147,Ses01F_impro06_M007,Yeah.,Negative,validation,0
+148,Ses01F_impro06_M016,So she wrote a lot of poetry?,Neutral,test,1
+149,Ses01F_impro07_M012,Is this a Masters or a P.h.D.? Or can you...? Nice,Neutral,test,1
+150,Ses01F_impro07_M013,"That's good. Don't you have to like teach a class, too, when you do that?",Neutral,train,1
+151,Ses01F_impro07_M018,"Of course, right. That's where the real money is, being a student.",Neutral,validation,1
+152,Ses01F_impro07_M019,That's how you get the big bucks. Are you messing with the chair? Don't ruin it.,Positive,validation,2
+153,Ses01F_script01_1_F005,"He's dreaming of him again, walking around.",Neutral,train,1
+154,Ses01F_script01_1_F015,"Well I got an idea, but what's your story?",Neutral,train,1
+155,Ses01F_script01_1_F034,Just give it some more thought.,Neutral,validation,1
+156,Ses01F_script01_1_F035,What the hell is this?,Negative,train,0
+157,Ses01F_script01_1_F037,You have a business here. What the hell is this?,Negative,test,0
+158,Ses01F_script01_1_F038,Oh. Must you be inspired?,Negative,validation,0
+159,Ses01F_script01_1_F041,"All right. But you don't want to think like that because what the hell are we working for, Chris? It's all for you. This whole shooting match is for you.",Negative,train,0
+160,Ses01F_script01_1_F042,Just don't think like that.,Negative,train,0
+161,Ses01F_script01_1_M000,He saw it.,Neutral,train,1
+162,Ses01F_script01_1_M001,He was out here when it broke.,Neutral,validation,1
+163,Ses01F_script01_1_M002,Four o clock this morning. I heard a crack and I woke up and looked out. He was standing right over there when it cracked.,Neutral,validation,1
+164,Ses01F_script01_1_M016,You know it's not just my business.,Neutral,train,1
+165,Ses01F_script01_1_M019,"You know sometimes you infuriate me. you know that? Isn't it your business if I tell father and he throws a fit about it? God, you have such a talent for ignoring things.",Negative,train,0
+166,Ses01F_script01_1_M034,"I'll get out. I'll get married and I'll move somewhere else, maybe New York.",Neutral,train,1
+167,Ses01F_script01_1_M039,"On this, I would.",Neutral,validation,1
+168,Ses01F_script01_1_M040,Then help me stay here.,Neutral,train,1
+169,Ses01F_script01_2_F003,He's not going to marry her.,Negative,train,0
+170,Ses01F_script01_2_F004,It's got that about it.,Negative,validation,0
+171,Ses01F_script01_2_F005,"What is going on here, Joe?",Negative,train,0
+172,Ses01F_script01_2_F006,She is not his girl. She knows she's not.,Negative,train,0
+173,Ses01F_script01_2_F007,"Then why is she still single? New York is full of men, why is she still single? Probably a hundred people told her she's foolish, but she waited.",Negative,train,0
+174,Ses01F_script01_2_F008,"Because she knows what I know, that's why. She's faithful as a rock. In my darkest moments, I think of her waiting and I know that I'm right.",Negative,train,0
+175,Ses01F_script01_2_F009,"Nobody in this house dares take away her faith, Joe. You know strangers might, but not his father, not his brother.",Negative,train,0
+176,Ses01F_script01_2_F010,"I want you to-- I want you to act like he is coming back, both of you. Don't think I haven't noticed you since Chris invited her here.",Negative,train,0
+177,Ses01F_script01_2_F011,I won't stand for any nonsense.,Negative,train,0
+178,Ses01F_script01_2_F012,"Because if he's not coming back, I'll kill myself. Oh laugh, laugh all you like but why does this happen the very night he comes back. She goes to sleep in his room and his memorial breaks in pieces. Look at it, Joe, look.",Negative,train,0
+179,Ses01F_script01_2_F013,"Just believe with me, Joe. Only last week a man came back in Detroit missing longer than Larry. Believe with me. You, above all, have got to believe. Just believe.",Negative,train,0
+180,Ses01F_script01_2_M001,Well maybe...maybe he just wanted to see her.,Neutral,train,1
+181,Ses01F_script01_2_M004,How do you know he's even thinking about it?,Neutral,validation,1
+182,Ses01F_script01_2_M008,How do you know why she waited?,Neutral,train,1
+183,Ses01F_script01_2_M017,"What have I got to hide? What the hell is the matter with you, Kate?",Negative,train,0
+184,Ses01F_script01_3_F000,You're the only one who still loves his parents.,Neutral,train,1
+185,Ses01F_script01_3_F003,"I'm not sorry, no. But I'm...I can't stay.",Neutral,test,1
+186,Ses01F_script01_3_F007,I knew they would.,Neutral,train,1
+187,Ses01F_script01_3_F008,"Well sure, from your mother's point of view. Why else would I come?",Neutral,test,1
+188,Ses01F_script01_3_F009,"I, umm. I guess, I guess that's kind of why I came.",Neutral,train,1
+189,Ses01F_script01_3_F010,[BREATHING],Positive,validation,2
+190,Ses01F_script01_3_F011,[LAUGHTER],Positive,test,2
+191,Ses01F_script01_3_F012,[LAUGHTER],Positive,test,2
+192,Ses01F_script01_3_F013,No. No,Positive,train,2
+193,Ses01F_script01_3_F014,"Chris, I've been ready a long, long, time.",Neutral,train,1
+194,Ses01F_script01_3_F017,Every day since.,Positive,test,2
+195,Ses01F_script01_3_F019,beating around the bush.,Positive,train,2
+196,Ses01F_script01_3_F020,"I will never forgive you. All I'd done was sit around wondering if I was crazy waiting so long, wondering if you were thinking about me.",Positive,train,2
+197,Ses01F_script01_3_F021,Not like that you're not.,Positive,test,2
+198,Ses01F_script01_3_F028,"Yeah, sure.",Neutral,train,1
+199,Ses01F_script01_3_F029,How many?,Neutral,test,1
+200,Ses01F_script01_3_F030,"Aw, geez.",Negative,train,0
+201,Ses01F_script01_3_F031,Mmhmm.,Neutral,test,1
+202,Ses01F_script01_3_F035,What would I do with a fortune?,Positive,validation,2
+203,Ses01F_script01_3_M000,"I know. It kind of went out of style, didn't it?",Neutral,test,1
+204,Ses01F_script01_3_M001,You're not sorry you came.,Neutral,test,1
+205,Ses01F_script01_3_M003,Well.,Neutral,test,1
+206,Ses01F_script01_3_M004,What?,Neutral,train,1
+207,Ses01F_script01_3_M005,Well I was kind of planning of sneaking up on you over the course of a week or so. They just take it for granted that we're all set.,Neutral,validation,1
+208,Ses01F_script01_3_M008,"I love you. Annie, I love you.",Positive,train,2
+209,Ses01F_script01_3_M009,"I don't really have any imagination, that's all I know how to say.",Positive,train,2
+210,Ses01F_script01_3_M010,"Am I embarrassing you? Are you - See, I didn't want to do it here with this yard, on this porch. I wanted it to be somewhere new, some place fresh for both of us.",Positive,train,2
+211,Ses01F_script01_3_M015,Why didn't you let me know?,Positive,train,2
+212,Ses01F_script01_3_M016,Give me a...,Positive,validation,2
+213,Ses01F_script01_3_M017,Give me a kiss.,Positive,train,2
+214,Ses01F_script01_3_M019,"Oh Annie, we are going to live now. I am going to make you so happy.",Positive,train,2
+215,Ses01F_script01_3_M020,I kissed you.,Positive,validation,2
+216,Ses01F_script01_3_M021,"Hey, let's drive some place. Huh? Let's get out of here.",Negative,train,0
+217,Ses01F_script01_3_M022,No it's nothing like that. It's-,Negative,train,0
+218,Ses01F_script01_3_M023,Yeah. I suppose I have been. But it's going from me.,Negative,train,0
+219,Ses01F_script01_3_M024,I don't even know how to start.,Negative,train,0
+220,Ses01F_script01_3_M025,"It's just all mixed up with so many other things, you know? You know overseas I was in command of a company?",Negative,train,0
+221,Ses01F_script01_3_M026,Well I lost them.,Negative,train,0
+222,Ses01F_script01_3_M027,Pretty much all.,Negative,train,0
+223,Ses01F_script01_3_M028,You can't just toss off a thing like that because they weren't just men. You know?,Negative,train,0
+224,Ses01F_script01_3_M029,"Like for instance, there was this one time it had been raining for several days and this kid he just came up to me and he gave me his last pair of dry socks. He just put them in my pocket. That's a little thing, you know, but that's what kind of guys I had.",Negative,train,0
+225,Ses01F_script01_3_M030,"They didn't die, they killed themselves for each other. I mean that, exactly. Just a little more selfish and they would all be here today.",Negative,test,0
+226,Ses01F_script01_3_M032,"To bring that on to the earth again, you know, is like some kind of monument and I thought I would just make a difference to them.",Negative,test,0
+227,Ses01F_script01_3_M033,"But then I came home and it was incredible, you know? The whole thing was just kind of this random bus accident. You know, I went back to the rat race again, I went to work.",Negative,validation,0
+228,Ses01F_script01_3_M036,And I didn't want any of it. I guess that included you.,Negative,train,0
+229,Ses01F_script01_3_M037,I just want you to know Annie.,Neutral,validation,1
+230,Ses01F_script02_1_F000,Fine.,Neutral,train,1
+231,Ses01F_script02_1_F006,You keep saying my flashlight like it's just yours.,Negative,train,0
+232,Ses01F_script02_1_F007,How's that supposed to make me feel?,Negative,train,0
+233,Ses01F_script02_1_F009,[LAUGHTER],Positive,validation,2
+234,Ses01F_script02_1_F010,I'm cold.,Negative,test,0
+235,Ses01F_script02_1_F024,That's the wind.,Neutral,test,1
+236,Ses01F_script02_1_F025,About what?,Neutral,train,1
+237,Ses01F_script02_1_M007,"The flashlight, the silver one. There's only one, isn't there?",Neutral,train,1
+238,Ses01F_script02_1_M008,Whose is it?,Neutral,train,1
+239,Ses01F_script02_1_M009,"Oh...well. Yeah, of course.",Neutral,train,1
+240,Ses01F_script02_1_M014,"Huh. Are you cold? Do you want my jacket? No? you know, we should have brought the blanket? Our blanket.",Neutral,train,1
+241,Ses01F_script02_1_M029,"There's like mystery here, there's magic. It's like a little bit of the unexplainable. I just can't see how you're not interested.",Neutral,test,1
+242,Ses01F_script02_1_M031,"God, I don't get it. you know the first time we came here, you said it was the best night of your life?",Neutral,test,1
+243,Ses01F_script02_1_M032,"And last year, I remember distinctly you said, you were so excited to get here that you don't remember you stubbed your toe until we were in the car.",Neutral,validation,1
+244,Ses01F_script02_1_M033,Ahh...we weren't in a good spot.,Neutral,train,1
+245,Ses01F_script02_1_M034,"We just weren't in a good spot. I'm telling you, this is a much better spot. I have instincts for these things.",Neutral,train,1
+246,Ses01F_script02_1_M036,"God, this is great. Think about this. I know you are not interested, but just think about this.",Positive,train,2
+247,Ses01F_script02_1_M043,So what do you think?,Positive,test,2
+248,Ses01F_script02_1_M044,"About all of that, about all I was talking about.",Positive,validation,2
+249,Ses01F_script02_2_F000,That's the wind.,Neutral,train,1
+250,Ses01F_script02_2_F001,About what?,Neutral,validation,1
+251,Ses01F_script02_2_F006,"Don't ask me that. I hate it when you ask me that, you always ask me that. It's insulting.",Negative,train,0
+252,Ses01F_script02_2_F008,"For God- Grow up, Augie. The fish are not going to arrive.",Negative,train,0
+253,Ses01F_script02_2_F009,Because they never do. Have they...Have they ever?,Negative,test,0
+254,Ses01F_script02_2_F010,Twice is every time we have tried; that's ever.,Negative,validation,0
+255,Ses01F_script02_2_F015,"I feel like I'm always just standing here waiting. I feel like this night is going to be the night, but it never is.",Negative,validation,0
+256,Ses01F_script02_2_F016,"For God's sake, this is not about fish.",Negative,test,0
+257,Ses01F_script02_2_F017,Do you remember the first year we came here? It was like four years after we got married.,Neutral,validation,1
+258,Ses01F_script02_2_F019,"You whispered the sweetest, most intimate things to me right into my ear so I could feel them as much as hear them. And I remember thinking, this is it. You know, finally, I am as happy as I'm supposed to be.",Positive,train,2
+259,Ses01F_script02_2_F022,I'd rather not remember some things. I'd rather not hope for some things.,Negative,train,0
+260,Ses01F_script02_2_F023,No.,Neutral,train,1
+261,Ses01F_script02_2_F026,No.,Neutral,train,1
+262,Ses01F_script02_2_F034,"I know you are Augie, I know.",Negative,train,0
+263,Ses01F_script02_2_F035,"I know you meant this to be special, I know that you wanted it to be right, but I just can't help thinking that, I can't help wishing that I was somewhere else.",Negative,train,0
+264,Ses01F_script02_2_F036,I didn't say that.,Negative,train,0
+265,Ses01F_script02_2_F040,"You're the one who probably wishes he was with somebody else. Somebody who doesn't take things so seriously, who could enjoy herself.",Negative,train,0
+266,Ses01F_script02_2_F041,"So maybe we are in the wrong spot, but we are with the right person.",Neutral,test,1
+267,Ses01F_script02_2_F042,"Hmm. I noticed that, it's pretty. Big old white moon.",Positive,train,2
+268,Ses01F_script02_2_F043,"Augie, you bought refreshments.",Positive,validation,2
+269,Ses01F_script02_2_F044,I guess we don't need glasses.,Positive,train,2
+270,Ses01F_script02_2_F045,I'm beginning to think this might be the right spot after all.,Positive,train,2
+271,Ses01F_script02_2_F046,"Augie, I'm sorry.",Negative,train,0
+272,Ses01F_script02_2_F047,Or not.,Neutral,test,1
+273,Ses01F_script02_2_M002,About what I was saying.,Neutral,train,1
+274,Ses01F_script02_2_M006,"Carla, can I ask you something? Now, don't take this the wrong way, but are you on your period?",Neutral,validation,1
+275,Ses01F_script02_2_M016,"Okay. So you were fine during that phone call from Marge and then dinner was okay. And doing the dishes was fine and then I was going to take a shower and you're watching the news and you said the grunions are running tonight, do you want to go? And I said, sure great, let's go.",Neutral,train,1
+276,Ses01F_script02_2_M024,Do you want to take off your shoes?,Positive,train,2
+277,Ses01F_script02_2_M026,Do you want to get married again?,Positive,validation,2
+278,Ses01F_script02_2_M037,"Maybe if you were with someone else, too.",Negative,train,0
+279,Ses01F_script02_2_M038,I just- I know I don't make you happy.,Negative,train,0
+280,Ses01F_script02_2_M042,"We have a great view of the moon from here, though, huh?",Neutral,validation,1
+281,Ses01F_script02_2_M043,[BREATHING],Neutral,train,1
+282,Ses01F_script02_2_M044,And look what I got here.,Positive,train,2
+283,Ses01F_script02_2_M046,[BREATHING],Positive,train,2
+284,Ses01F_script02_2_M047,Do you want to go home? Are you cold?,Neutral,train,1
+285,Ses01F_script02_2_M048,"Shh. If we're very quiet, the fish might come.",Neutral,train,1
+286,Ses01F_script02_2_M049,Or not.,Positive,validation,2
+287,Ses01F_script03_1_F005,[LAUGHTER] That sent shivers up my spine.,Positive,train,2
+288,Ses01F_script03_1_F010,Yes. Meaning just that.,Positive,train,2
+289,Ses01F_script03_1_F011,Don't laugh at me. I'm being serious.,Positive,train,2
+290,Ses01F_script03_1_F020,[LAUGHTER],Positive,validation,2
+291,Ses01F_script03_1_F021,"Oh Elliott, worms don't pop.",Positive,train,2
+292,Ses01F_script03_1_F022,"Aw. Thank you, darling. The same applies to you too, except that if you so much as look at another woman I'll kill you.",Positive,train,2
+293,Ses01F_script03_1_F029,"The manager came in, he found us rolling about the floor, biting and scratching like panthers. [LAUGHTER] How utterly, utterly ridiculous.",Positive,train,2
+294,Ses01F_script03_1_F030,[LAUGHTER] And very much sillier.,Positive,train,2
+295,Ses01F_script03_1_M007,No. Wrong number. [LAUGHTER],Positive,train,2
+296,Ses01F_script03_1_M008,What shall we do if they suddenly walk in on us.[LAUGHTER],Positive,train,2
+297,Ses01F_script03_1_M009,With perfect poise.,Positive,train,2
+298,Ses01F_script03_1_M010,"It's strange; things that ought to matter dreadfully, they just don't matter at all when one's happy. Do they?",Positive,train,2
+299,Ses01F_script03_1_M013,"Well what does it all mean? That's what I ask myself in my quest for ultimate truth. Dear God, what does it all mean?",Positive,train,2
+300,Ses01F_script03_1_M018,Who knows?,Positive,test,2
+301,Ses01F_script03_1_M025,Oh Come and kiss me darling before your body rots and worms pop out of your eye sockets.,Positive,validation,2
+302,Ses01F_script03_1_M026,"Oh See, I don't care what you do, see. You can paint yourself green and run naked through the Place Vendome and run off with all of the men of the world. I shan't say a word, just as long as you love me best.",Positive,train,2
+303,Ses01F_script03_1_M034,"That was a rouser, wasn't it?",Positive,validation,2
+304,Ses01F_script03_1_M036,[LAUGHTER] I'll never forget his face. [LAUGHTER],Positive,train,2
+305,Ses01F_script03_1_M037,[LAUGHTER] We were very much younger then.,Positive,train,2
+306,Ses01F_script03_2_F000,And very much sillier.,Positive,validation,2
+307,Ses01F_script03_2_F001,Oh. You knew there was nothing in that.,Positive,train,2
+308,Ses01F_script03_2_F002,"Presents? It was only a trivial, little brooch.",Positive,train,2
+309,Ses01F_script03_2_F004,I did not. You worked that whole thing up in your jealous imagination.,Neutral,test,1
+310,Ses01F_script03_2_F005,"Well, what of it?",Neutral,train,1
+311,Ses01F_script03_2_F013,Don't be stupid.,Negative,test,0
+312,Ses01F_script03_2_F014,What?,Negative,validation,0
+313,Ses01F_script03_2_F015,No. I am just making myself fascinating for you.,Negative,test,0
+314,Ses01F_script03_2_F016,Oh. It's a woman's duty to allure the man.,Negative,train,0
+315,Ses01F_script03_2_F017,No it isn't.,Negative,test,0
+316,Ses01F_script03_2_F018,You shut up.,Negative,validation,0
+317,Ses01F_script03_2_F021,They sting. I don't care. Do you understand? I don't care if they bark and they roll about like hoops.,Negative,train,0
+318,Ses01F_script03_2_F022,"Yes I did, quite a lot.",Negative,train,0
+319,Ses01F_script03_2_F023,Mind your own business.,Negative,train,0
+320,Ses01F_script03_2_F024,"You're quite insufferable, I expect it's because you are drunk.",Negative,train,0
+321,Ses01F_script03_2_F025,You've always had a weak head.,Negative,train,0
+322,Ses01F_script03_2_F026,"On the contrary, a child of two can get violently drunk on only one glass of brandy.",Negative,test,0
+323,Ses01F_script03_2_F027,Oh shut up.,Negative,validation,0
+324,Ses01F_script03_2_F028,Shut up.,Negative,test,0
+325,Ses01F_script03_2_F029,"Not very funny, darling. Why don't you have some more brandy.",Negative,test,0
+326,Ses01F_script03_2_F030,Why?,Neutral,train,1
+327,Ses01F_script03_2_F031,There are no people upstairs; it's a photographer's studio.,Neutral,train,1
+328,Ses01F_script03_2_F032,They are away in Tunis.,Neutral,train,1
+329,Ses01F_script03_2_F034,Fine if you insist on being boorish and idiotic.,Negative,validation,0
+330,Ses01F_script03_2_F035,"You are far too temperamental, try to control yourself.",Negative,train,0
+331,Ses01F_script03_2_F036,"I won't. Let go, let go of me. Listen, listen? I'm sick and tired of listening to you, you sadistic bully.",Negative,validation,0
+332,Ses01F_script03_2_F037,"Oh shut up. Let go. I hate you, I hate you. Do you hear? You are a conceited and overbearing and utterly impossible.",Negative,train,0
+333,Ses01F_script03_2_F038,This is the end. Do you hear me? Finally and forever.,Negative,train,0
+334,Ses01F_script03_2_F039,Oh. Yes I am.,Negative,train,0
+335,Ses01F_script03_2_F040,"Yes I am. Stop it. Stop it. Let go of me. Oh. You're a cruel fiend. I loathe and I hate you. Marry you again? Never, never, never. I hope you die in torment, you brute beast cad.",Negative,train,0
+336,Ses01F_script03_2_M001,However I believe the real cause of that row was Peter Burden.,Neutral,test,1
+337,Ses01F_script03_2_M002,I knew nothing of the sort. You took presents from him.,Neutral,train,1
+338,Ses01F_script03_2_M004,You went out of your way to torture me over Peter Burden.,Neutral,validation,1
+339,Ses01F_script03_2_M007,What about me?,Negative,test,0
+340,Ses01F_script03_2_M014,"Really, Amanda.",Negative,validation,0
+341,Ses01F_script03_2_M018,"Well as a matter of fact, yes, that's perfectly true.",Neutral,train,1
+342,Ses01F_script03_2_M019,Yes it is.,Neutral,train,1
+343,Ses01F_script03_2_M020,"Oh really. It's a pity you didn't have any brandy, it would have made you a little less disagreeable.",Negative,train,0
+344,Ses01F_script03_2_M021,"Snap, snap, snap. You know you are like a little adder.",Negative,validation,0
+345,Ses01F_script03_2_M022,Nonsense. They have a bag of venom behind their fangs and they snap. They snap.,Negative,train,0
+346,Ses01F_script03_2_M023,Did you see much of Peter Burden after our divorce?,Negative,train,0
+347,Ses01F_script03_2_M024,"And I suppose you let him kiss you a good deal more than, too. Yes. I suppose you guys had a riotous time, huh? All out, no restraint at all. Well, you never really had much anyhow.",Negative,train,0
+348,Ses01F_script03_2_M025,I think I am not in the least bit drunk.,Negative,train,0
+349,Ses01F_script03_2_M026,I think I mentioned once before that I've had three minute liquor glasses the whole evening long. A child of two cannot get drunk on that.,Negative,validation,0
+350,Ses01F_script03_2_M027,"That's very interesting Amanda. How about a child of four? Or a child of six? Or a child of nine? We can get a good little conversation going on about this, you know, intemperate tots.",Negative,train,0
+351,Ses01F_script03_2_M029,"Look, you better turn that off. I don't want to wake up the people upstairs.",Negative,test,0
+352,Ses01F_script03_2_M030,Well then you'll wake up the people downstairs.,Negative,train,0
+353,Ses01F_script03_2_M031,This is no time of year for Tunis.,Neutral,train,1
+354,Ses01F_script03_2_M032,I will do no such thing.,Negative,train,0
+355,Ses01F_script03_2_M033,"Will you turn that off, it's driving me mad.",Negative,train,0
+356,Ses01F_script03_2_M034,Turn it off.,Negative,test,0
+357,Ses01F_script03_2_M035,"Amanda, listen, listen.",Negative,validation,0
+358,Ses01F_script03_2_M036,Oh. That's very amusing indeed.,Negative,test,0
+359,Ses01F_script03_2_M037,"You are a vile, ill-tempered, loose living, wicked little beast and I never want to see you again as long as I live.",Negative,train,0
+360,Ses01F_script03_2_M038,You're not going like this.,Negative,train,0
+361,Ses01F_script03_2_M039,You're not.,Negative,validation,0
+362,Ses01F_script03_2_M040,"Shut up. Shut up. God, I wouldn't marry you again if you came crawling back to me on a bended knee. You are a vile, ill-tempered, mean little wench and I never want to see you again as long as I live.",Negative,validation,0
+363,Ses01M_impro01_F000,Next.,Negative,test,0
+364,Ses01M_impro01_F001,My window is open.,Negative,train,0
+365,Ses01M_impro01_F007,"No, I need your ID to give you a second ID.",Negative,test,0
+366,Ses01M_impro01_F008,It's really simple if you have a problem with it... Maybe you should--,Negative,validation,0
+367,Ses01M_impro01_F011,What do you expect me to do?,Negative,train,0
+368,Ses01M_impro01_F012,Probably.,Negative,train,0
+369,Ses01M_impro01_F019,Don't raise your voice with me.,Negative,train,0
+370,Ses01M_impro01_F020,Don't talk to me like I'm a child.,Negative,train,0
+371,Ses01M_impro01_F021,Do you know how long I've been working here? How long have you lived in California?,Negative,train,0
+372,Ses01M_impro01_F022,"Maybe you never been to the D.M.V. before, maybe you should get back in line. You know what? sit in line again and if you get my number ask for different one.",Negative,test,0
+373,Ses01M_impro01_F024,Uh huh. I didn't come here get in yelling match either.,Neutral,train,1
+374,Ses01M_impro01_F025,They don't pay me enough to deal people like you.,Neutral,train,1
+375,Ses01M_impro01_M003,"Yes, Jones.",Neutral,train,1
+376,Ses01M_impro01_M010,"No, I don't have a passport.",Neutral,validation,1
+377,Ses01M_impro01_M020,Did you even look at the form? I filled it out all these questions--,Negative,train,0
+378,Ses01M_impro01_M025,I am not...I'm not getting to back that line.,Negative,train,0
+379,Ses01M_impro01_M030,Why?,Negative,train,0
+380,Ses01M_impro01_M031,"Why, because I'm sick of talking to you.",Negative,train,0
+381,Ses01M_impro01_M032,"'Cause you're obviously not talking to me, you're just yelling at me, berating me and telling me I can't fill out forms right.",Negative,train,0
+382,Ses01M_impro02_F000,What's happening?,Neutral,train,1
+383,Ses01M_impro02_F009,I don't even know what to tell you.,Negative,train,0
+384,Ses01M_impro02_F010,What about the birthday party?,Negative,train,0
+385,Ses01M_impro02_F013,You're going with the same ones?,Negative,test,0
+386,Ses01M_impro02_F015,It's not the same though.,Negative,train,0
+387,Ses01M_impro02_F017,Mm hmm. We'll build a bunker and never come out.,Negative,train,0
+388,Ses01M_impro02_F019,Don't say that.,Negative,train,0
+389,Ses01M_impro02_M000,"Hey, Joy come in here.",Neutral,train,1
+390,Ses01M_impro02_M001,I have to go back.,Negative,train,0
+391,Ses01M_impro02_M002,I just got a letter I have to go back.,Negative,train,0
+392,Ses01M_impro02_M003,First thing tomorrow morning.,Negative,train,0
+393,Ses01M_impro02_M007,"The National Guard is I guess really spread thin and then everyone has to go. We all have to go back, my whole companies going back.",Negative,test,0
+394,Ses01M_impro02_M009,"So yeah, we leave tomorrow...",Negative,train,0
+395,Ses01M_impro02_M010,...we're all shipping out.,Negative,train,0
+396,Ses01M_impro02_M011,I just got I feel like I'm in shock actually.,Negative,train,0
+397,Ses01M_impro02_M012,I don't know.,Negative,test,0
+398,Ses01M_impro02_M013,I guess you're just going to have to have it without me.,Negative,train,0
+399,Ses01M_impro02_M014,"Hey listen, it's going to be okay though, all right?",Negative,train,0
+400,Ses01M_impro02_M015,You're going to be fine.,Negative,train,0
+401,Ses01M_impro02_M016,"I'm going to be fine too, okay?",Negative,train,0
+402,Ses01M_impro02_M017,I know I have a good... I have a really good group of guys with me.,Negative,test,0
+403,Ses01M_impro02_M018,We're going to be okay.,Negative,train,0
+404,Ses01M_impro02_M019,Do promise me you're going to take a lot of pictures.,Negative,train,0
+405,Ses01M_impro02_M020,I know.,Negative,validation,0
+406,Ses01M_impro02_M021,I just wish there was something I could do.,Negative,test,0
+407,Ses01M_impro02_M022,Run away?,Negative,train,0
+408,Ses01M_impro02_M023,"I really don't want to go, I don't want to go...",Negative,test,0
+409,Ses01M_impro02_M025,I love you.,Negative,validation,0
+410,Ses01M_impro03_F017,I don't know get it in cash.,Neutral,train,1
+411,Ses01M_impro03_F018,Yeah.,Neutral,train,1
+412,Ses01M_impro03_F021,"Oh yeah, absolutely, absolutely.",Neutral,train,1
+413,Ses01M_impro03_M003,"Well, she's not a citizen so she wants to get a visa.",Neutral,validation,1
+414,Ses01M_impro03_M006,"She's actually from England, I think. Well she- she spoke English but she had an accent. I didn't even ask.",Neutral,train,1
+415,Ses01M_impro03_M014,Yeah. Make her like open the bank account and stuff too.,Neutral,train,1
+416,Ses01M_impro03_M018,Just cash hardcore.,Neutral,test,1
+417,Ses01M_impro03_M021,And then we can honeymoon. I want to go tropical though like Bahamas- --or like Tahiti or something. I just want to like beach and like drink.,Neutral,test,1
+418,Ses01M_impro04_F000,You seem kind of down.,Neutral,train,1
+419,Ses01M_impro04_F002,What do you mean?,Neutral,train,1
+420,Ses01M_impro04_F003,There's a lot of people looking for jobs.,Neutral,train,1
+421,Ses01M_impro04_F004,"I don't know, I mean, I just don't think...",Neutral,test,1
+422,Ses01M_impro04_F005,Did you ever think it might be your attitude that's...,Neutral,validation,1
+423,Ses01M_impro04_F008,"Right, sure.",Neutral,train,1
+424,Ses01M_impro04_F009,"But I mean you kind of got to, you got to fake it 'til you feel it, right?",Neutral,train,1
+425,Ses01M_impro04_F010,I'm just saying that if I was looking to hire somebody in the--or kind of... No. No. No.,Neutral,test,1
+426,Ses01M_impro04_F018,We're trying to have a conversation and you seem extremely hostile. You keep cutting me off.,Neutral,train,1
+427,Ses01M_impro04_F019,I can't finish the sentence with you without you jumping in...,Neutral,test,1
+428,Ses01M_impro04_F020,...and you're always right.,Neutral,train,1
+429,Ses01M_impro04_F021,You have an excuse for everything.,Neutral,test,1
+430,Ses01M_impro04_F022,I'm just saying that maybe you should take in some information before you produce more of your own.,Neutral,validation,1
+431,Ses01M_impro04_F023,[BREATHING],Neutral,train,1
+432,Ses01M_impro04_F025,"Well, what kind of field are you looking to go into?",Neutral,validation,1
+433,Ses01M_impro04_M014,What?,Negative,train,0
+434,Ses01M_impro04_M018,"Okay. Okay no, no, no, no okay no, I need to hear this more. Come on, bring it.",Negative,train,0
+435,Ses01M_impro04_M023,I'm like a sponge I'm like soaked up with all this information for like three years I'm just dying for a job to like put it in to.,Negative,train,0
+436,Ses01M_impro04_M025,That's it.,Neutral,validation,1
+437,Ses01M_impro05_F000,Can I help you?,Neutral,validation,1
+438,Ses01M_impro05_F001,I need a little more information.,Neutral,validation,1
+439,Ses01M_impro05_F002,What- What flight did you come in on?,Neutral,test,1
+440,Ses01M_impro05_F003,Georgia?,Neutral,test,1
+441,Ses01M_impro05_F004,"There's no need for you to raise your voice, sir.",Neutral,train,1
+442,Ses01M_impro05_F005,I've been college educated.,Neutral,train,1
+443,Ses01M_impro05_F006,I speak your language.,Neutral,train,1
+444,Ses01M_impro05_F007,I'm just saying you don't need to talk to me like I-,Neutral,test,1
+445,Ses01M_impro05_F011,"Details, Details. Well, anyhow can I--",Neutral,test,1
+446,Ses01M_impro05_F012,so you flew in from Atlanta...,Neutral,test,1
+447,Ses01M_impro05_F026,people wouldn't Fly our airline.,Neutral,validation,1
+448,Ses01M_impro05_F027,What was that?,Neutral,validation,1
+449,Ses01M_impro05_F028,That's unfortunate.,Neutral,test,1
+450,Ses01M_impro05_F033,No.,Neutral,train,1
+451,Ses01M_impro05_F034,We have plenty of aggressive searching going on it's not there. Someone's taken it.,Neutral,validation,1
+452,Ses01M_impro05_M004,Are you insinuating that I don't have a college education and that- for some reason that makes you a better person than I am?,Negative,train,0
+453,Ses01M_impro05_M005,"Listen, shut your smug mouth, okay? I don't need that.",Negative,train,0
+454,Ses01M_impro05_M006,I've been sitting here for four hours.,Negative,validation,0
+455,Ses01M_impro05_M007,You people have just been tossing me around like a used hanky.,Negative,train,0
+456,Ses01M_impro05_M008,You work here.,Negative,train,0
+457,Ses01M_impro05_M015,Okay.,Neutral,train,1
+458,Ses01M_impro05_M020,Probably people that work for your company huh?,Negative,train,0
+459,Ses01M_impro05_M021,Do you know what was in that little bag that I could have just easily put in overhead compartment but no I had to check?,Negative,train,0
+460,Ses01M_impro05_M022,My computer which has all of my data which I'm collecting right now.,Negative,train,0
+461,Ses01M_impro05_M023,Yeah it's really unfortunate you know why because I'm going to get fired if I don't get that. So I need to have that back.,Negative,train,0
+462,Ses01M_impro05_M024,"Fifty dollars is not going to cover me for my job, okay?",Negative,test,0
+463,Ses01M_impro05_M025,Well you need to find it. Can I just go back there and look through the bags? Can I just go back there and just go through maybe I'll find it.,Negative,train,0
+464,Ses01M_impro05_M026,It'll be a lot more than what you're doing sitting here and just give me lip service. I'd like to go back at least do some aggressive searching for my stuff.,Negative,train,0
+465,Ses01M_impro05_M027,"Sure, yeah right you have plenty of aggressive searching going on, aggressive searching, drinking coffee and smoking cigarettes.",Negative,train,0
+466,Ses01M_impro05_M028,I know what you guys do when you're not working you're union people; you just sit around on your ass.,Negative,train,0
+467,Ses01M_impro05_M031,Thank you very much.,Negative,validation,0
+468,Ses01M_impro06_F000,You okay?,Neutral,train,1
+469,Ses01M_impro06_F003,I'm sorry to hear that.,Negative,validation,0
+470,Ses01M_impro06_F004,You've been taking care of it all?,Negative,train,0
+471,Ses01M_impro06_F005,Oh Jesus.,Negative,validation,0
+472,Ses01M_impro06_F006,He sick for awhile?,Negative,train,0
+473,Ses01M_impro06_F009,"Well, I'm confused. He was sick or it was an accident?",Neutral,train,1
+474,Ses01M_impro06_F010,Oh. Really fast? Oh.,Neutral,validation,1
+475,Ses01M_impro06_F011,Yeah.,Neutral,validation,1
+476,Ses01M_impro06_F012,Yeah.,Neutral,train,1
+477,Ses01M_impro06_F013,"Totally, yeah.",Neutral,validation,1
+478,Ses01M_impro06_F014,Mmhmm.,Neutral,test,1
+479,Ses01M_impro06_F015,Lock,Neutral,validation,1
+480,Ses01M_impro06_F016,Mmhmm.,Neutral,train,1
+481,Ses01M_impro06_F017,The plans you make [GARBAGE].,Neutral,train,1
+482,Ses01M_impro06_F018,It leaves a hole for you too.,Neutral,train,1
+483,Ses01M_impro06_F019,"It leaves a hole for you too, in your plans together.",Neutral,train,1
+484,Ses01M_impro06_F024,How long did you know each other?,Neutral,test,1
+485,Ses01M_impro06_M000,"Yeah, I'm just-- yeah",Negative,test,0
+486,Ses01M_impro06_M001,"Just kind of feel numb, you know.",Negative,test,0
+487,Ses01M_impro06_M002,You didn't even hear?,Negative,validation,0
+488,Ses01M_impro06_M003,[BREATHING] Umm.,Negative,train,0
+489,Ses01M_impro06_M004,God I've told this story so many times. Umm.,Negative,train,0
+490,Ses01M_impro06_M005,I just...I just basically lost someone that was really close to me.,Negative,train,0
+491,Ses01M_impro06_M006,"And I've kind of been dealing with all of the...the stuff, you know the hospital and people work because...",Negative,test,0
+492,Ses01M_impro06_M007,"He kind of didn't have anyone to take care of that for him, so--",Negative,validation,0
+493,Ses01M_impro06_M008,It's just really...really messed up.,Negative,train,0
+494,Ses01M_impro06_M009,No.,Negative,test,0
+495,Ses01M_impro06_M010,Just like it.,Negative,train,0
+496,Ses01M_impro06_M011,"No, I mean it just came on really quick, you know I mean it was a [GARBAGE] it was a sickness but it just --",Negative,train,0
+497,Ses01M_impro06_M012,What?,Negative,train,0
+498,Ses01M_impro06_M013,"He was sick. He got sick. He got sick but it happened really, really fast, you know.",Negative,train,0
+499,Ses01M_impro06_M014,It was kind of like boom... done,Negative,train,0
+500,Ses01M_impro06_M015,It's just really weird because he was really young you know and it kind of like...,Negative,test,0
+501,Ses01M_impro06_M016,#NAME?,Negative,train,0
+502,Ses01M_impro06_M017,So weird you know that like one days it's like you know sounds so stupid but like one day someone's here. And like next day you know they're not here and it just kind of makes you like think about like life and mortality and like that kind of stuff. You just like used to take for granted--you know.,Negative,train,0
+503,Ses01M_impro06_M018,"Exactly, you know, and like he had so many plans and he was going to do...",Negative,train,0
+504,Ses01M_impro06_M019,"so many things, you know?",Negative,train,0
+505,Ses01M_impro06_M020,What?,Negative,train,0
+506,Ses01M_impro06_M021,Yeah.,Negative,validation,0
+507,Ses01M_impro06_M022,"He was a really, really good guy.",Negative,validation,0
+508,Ses01M_impro06_M023,A lot of people loved him.,Negative,validation,0
+509,Ses01M_impro06_M024,"You know, it's like affecting a lot of people it's not just me, you know?",Negative,train,0
+510,Ses01M_impro06_M025,Umm...,Negative,train,0
+511,Ses01M_impro06_M026,For like eight years.,Negative,validation,0
+512,Ses01M_impro06_M027,Yeah.,Negative,test,0
+513,Ses01M_impro06_M028,"Yeah, I'm glad I was there. Glad I- glad I got to be there.",Negative,train,0
+514,Ses01M_impro06_M029,"So weird,",Negative,test,0
+515,Ses01M_impro06_M030,"like I can't...it's like you know it's like ""pinch me"" it's like I can't believe like I'm dealing with this, you know.",Negative,train,0
+516,Ses01M_impro07_F000,Yeah.,Neutral,train,1
+517,Ses01M_impro07_F010,Oh.,Neutral,train,1
+518,Ses01M_impro07_F012,Oh. Venice beach.,Neutral,validation,1
+519,Ses01M_impro07_F020,Oh. That is incredible. Is it--,Neutral,train,1
+520,Ses01M_impro07_F033,You're like the rookie? The new kid.,Positive,train,2
+521,Ses01M_impro07_F034,Just watch in five years you'll be like on the force. You carry around donuts in your back pocket... [LAUGHTER],Positive,train,2
+522,Ses01M_impro07_M006,"I don't know. I should ask. Yeah, I will.",Positive,test,2
+523,Ses01M_impro07_M011,Professional softball player Malibu. [LAUGHTER],Positive,validation,2
+524,Ses01M_impro07_M013,"Oh yeah, that would be. Well, depends on what type of car you had, though too. I guess it would be worth it. helicopter. Yeah, helicopter. There is a helipad there, right? Yeah, exactly.",Positive,train,2
+525,Ses01M_impro07_M017,They do it's--believe me it's huge.,Positive,train,2
+526,Ses01M_impro07_M019,It's pretty wild.,Positive,train,2
+527,Ses01M_impro07_M020,"Yeah, well I doubt [GARBAGE] ping pong [GARBAGE]",Neutral,train,1
+528,Ses01M_impro07_M026,Yeah we have like away games and stuff.,Neutral,train,1
+529,Ses01M_impro07_M030,But you know I'm like [GARBAGE].,Neutral,validation,1
+530,Ses01M_impro07_M032,I'm going to have a mustache...On the force...,Positive,train,2
+531,Ses01M_impro07_M033,Pull over..,Positive,validation,2
+532,Ses01M_script01_1_F004,Did you talk to him?,Negative,validation,0
+533,Ses01M_script01_1_F005,Cried hard?,Negative,test,0
+534,Ses01M_script01_1_F006,[BREATHING],Negative,train,0
+535,Ses01M_script01_1_F008,"He's dreaming about him again, walking the streets.",Negative,train,0
+536,Ses01M_script01_1_F011,What do you mean a mistake?,Negative,test,0
+537,Ses01M_script01_1_F014,"What, can you prove it? What proof do you have? Can you prove it?",Negative,validation,0
+538,Ses01M_script01_1_F015,"To you it is, to me it is. But to your father? You can talk yourself 'til you're blue in the face but there's was no grave and there is no body. So where are you?",Negative,test,0
+539,Ses01M_script01_1_F016,The trouble is those god damn news papers. Every month some boy comes back missing longer then Larry so--,Negative,test,0
+540,Ses01M_script01_1_F017,Why?,Negative,train,0
+541,Ses01M_script01_1_F020,"Well, what do you want me to do? You're old enough known your own business.",Negative,train,0
+542,Ses01M_script01_1_F023,I'm sorry. I ignore what I've got to ignore. That girl is Larry's girl.,Negative,test,0
+543,Ses01M_script01_1_F024,"From father's point of view he is not dead and you have no right to take his girl. I'm just saying that you can go on from there if you know where to go but I'm saying I don't know where to go. See, I don't know.",Negative,train,0
+544,Ses01M_script01_1_F025,You're a considerate fellow. There's nothing wrong in that.,Neutral,test,1
+545,Ses01M_script01_1_F026,Did you ask Annie yet?,Neutral,train,1
+546,Ses01M_script01_1_F029,I don't see why it has to be Annie.,Negative,train,0
+547,Ses01M_script01_1_F030,"That's a good answer but it doesn't answer anything. You haven't seen her since you went away to war, it's been five years.",Negative,validation,0
+548,Ses01M_script01_1_F031,"He thinks he's coming back, Chris. You marry that girl you're pronouncing him dead.",Negative,train,0
+549,Ses01M_script01_1_F032,"Do you know what that'll do to you, to your father, do you know? I don't.",Negative,validation,0
+550,Ses01M_script01_1_F035,Are you crazy?,Negative,train,0
+551,Ses01M_script01_1_F036,You have a business here. I said what the hell is this?,Negative,train,0
+552,Ses01M_script01_1_F037,"Oh, must you be inspired.",Negative,validation,0
+553,Ses01M_script01_1_F039,"Well, you don't want to think like that.",Negative,train,0
+554,Ses01M_script01_1_F040,"All right but you don't think like that because what the hell is this all for. This is all for you, what are we working for Chris? The whole shooting match is for you.",Negative,validation,0
+555,Ses01M_script01_1_F041,"Well, you don't think like that.",Negative,train,0
+556,Ses01M_script01_1_F042,"I don't understand you, do I?",Negative,train,0
+557,Ses01M_script01_1_F043,"Well, I can see that.",Negative,train,0
+558,Ses01M_script01_1_M000,He saw it.,Neutral,train,1
+559,Ses01M_script01_1_M002,I was out here at four this morning I heard a crack and I looked out the window and he was standing right over there.,Neutral,test,1
+560,Ses01M_script01_1_M003,I don't know. But he went back in the kitchen and he cried.,Negative,train,0
+561,Ses01M_script01_1_M004,No. I figured I'd just let it wait.,Negative,train,0
+562,Ses01M_script01_1_M005,"Yeah, I could hear him crying through the floorboards in my room.",Negative,train,0
+563,Ses01M_script01_1_M006,I don't know.,Negative,train,0
+564,Ses01M_script01_1_M007,I guess he is.,Negative,validation,0
+565,Ses01M_script01_1_M017,I'm going to ask her to marry me.,Neutral,validation,1
+566,Ses01M_script01_1_M020,"See. Then it's not just my business. Sometimes you infuriate me, you know that? You know it's just your business too if I tell father and he throws a fit about it, huh?",Negative,test,0
+567,Ses01M_script01_1_M021,She is not Larry's girl.,Negative,train,0
+568,Ses01M_script01_1_M023,To hell with that.,Negative,validation,0
+569,Ses01M_script01_1_M024,"No, I wanted to get this all sorted out first.",Negative,train,0
+570,Ses01M_script01_1_M034,Business? The business doesn't inspire me.,Negative,train,0
+571,Ses01M_script01_1_M035,"Yes, yes I like it for one hour a day. I don't care if I have to grub for money all day long when I come home I want it nice, I want a family, I want to kids and Annie is in the center of that.",Negative,validation,0
+572,Ses01M_script01_1_M037,"Yes, on this I would.",Neutral,test,1
+573,Ses01M_script01_1_M038,Then help me stay here mom.,Negative,validation,0
+574,Ses01M_script01_1_M040,Then help me stay.,Negative,train,0
+575,Ses01M_script01_1_M041,I am thinking like that.,Negative,train,0
+576,Ses01M_script01_1_M042,"No, you don't. I'm a pretty tough guy.",Negative,validation,0
+577,Ses01M_script01_2_F000,Why did he invite her here?,Negative,test,0
+578,Ses01M_script01_2_F001,It's been three and a half years. Why all of a sudden?,Negative,train,0
+579,Ses01M_script01_2_F004,"What is going on here, Joe?",Negative,validation,0
+580,Ses01M_script01_2_F005,The girl is not Larry's. If the girl is Larry's girl she's not his she know she's not.,Negative,validation,0
+581,Ses01M_script01_2_F009,"I want you to---act like he is coming back. Don't think I haven't noticed you, both of you since Chris invited her here. I won't stand for any nonsense.",Negative,train,0
+582,Ses01M_script01_2_F011,"Oh, laugh at me, laugh all you like but why does this happen to very night she comes back? She goes to sleep in his room and his memorial breaks in pieces. Look at it, Joe look.",Negative,train,0
+583,Ses01M_script01_2_F012,"Believe with me Joe, you got to believe. Only last week a boy came back missing longer then Larry you read it yourself.",Negative,train,0
+584,Ses01M_script01_2_F013,You above all have got to believe. Just don't stop believing.,Negative,test,0
+585,Ses01M_script01_2_M000,"Well, maybe he wanted see her.",Neutral,test,1
+586,Ses01M_script01_2_M001,"Well uh, He grew up next door to the girl, why wouldn't he want to see her?",Neutral,test,1
+587,Ses01M_script01_2_M007,And how do you know why she's waited.,Neutral,validation,1
+588,Ses01M_script01_2_M015,What does that mean? Me above all? What does that mean?,Negative,test,0
+589,Ses01M_script01_2_M016,Look at you. You're shaking.,Negative,train,0
+590,Ses01M_script01_2_M017,"What the hell do you want from me, Kate?",Negative,test,0
+591,Ses01M_script01_3_F000,The only one I know still love his parents.,Neutral,test,1
+592,Ses01M_script01_3_F001,Oh it's not bad thing it's good thing.,Neutral,train,1
+593,Ses01M_script01_3_F003,"Not sorry, no. I can't stay here.",Negative,train,0
+594,Ses01M_script01_3_F004,For one thing your mother as much as told me to go.,Neutral,train,1
+595,Ses01M_script01_3_F005,[BREATHING] And then you've been kind of...,Negative,train,0
+596,Ses01M_script01_3_F006,You've been kind of embarrassed ever since I got here.,Negative,train,0
+597,Ses01M_script01_3_F008,From her point of view why else would I come?,Neutral,train,1
+598,Ses01M_script01_3_F012,I almost got married two years ago.,Neutral,test,1
+599,Ses01M_script01_3_F016,I'll never forgive you for waiting so long. All I did was sit around and wonder if I was crazy for thinking about you.,Positive,validation,2
+600,Ses01M_script01_3_F018,"Chris, what's the matter?",Negative,train,0
+601,Ses01M_script01_3_F019,"No, what is it? Is your mother?",Negative,test,0
+602,Ses01M_script01_3_F021,You got to tell me.,Negative,train,0
+603,Ses01M_script01_3_F022,Wouldn't work like this.,Negative,test,0
+604,Ses01M_script01_3_F023,"Yeah, sure.",Negative,train,0
+605,Ses01M_script01_3_F024,How many?,Negative,test,0
+606,Ses01M_script01_3_F025,[BREATHING]. Geez.,Negative,train,0
+607,Ses01M_script01_3_F026,Do you still feel that way?,Negative,train,0
+608,Ses01M_script01_3_F030,What would I do with a fortune?,Positive,validation,2
+609,Ses01M_script01_3_M000,"Yeah, that kind of went out of style didn't it?",Positive,test,2
+610,Ses01M_script01_3_M001,You're not sorry you came?,Positive,train,2
+611,Ses01M_script01_3_M002,Why not?,Negative,test,0
+612,Ses01M_script01_3_M004,What?,Neutral,train,1
+613,Ses01M_script01_3_M006,You did?,Neutral,train,1
+614,Ses01M_script01_3_M007,Yeah--,Neutral,test,1
+615,Ses01M_script01_3_M009,"Ann, I love you. I love you.",Positive,train,2
+616,Ses01M_script01_3_M014,Why didn't you?,Neutral,test,1
+617,Ses01M_script01_3_M019,I kissed you.,Positive,validation,2
+618,Ses01M_script01_3_M020,Do you want to go somewhere? Let's go.,Negative,train,0
+619,Ses01M_script01_3_M021,"No, no, it's nothing like that.",Negative,train,0
+620,Ses01M_script01_3_M022,I don't know it's--it's complicated. But it's going from me now.,Negative,validation,0
+621,Ses01M_script01_3_M023,I don't know.,Negative,test,0
+622,Ses01M_script01_3_M024,It's kind of all mixed up with all these other things.,Negative,validation,0
+623,Ses01M_script01_3_M025,you know over seas I was in command of the company?,Negative,test,0
+624,Ses01M_script01_3_M026,Well I lost them.,Negative,validation,0
+625,Ses01M_script01_3_M027,Pretty much all.,Negative,test,0
+626,Ses01M_script01_3_M028,"Takes awhile to toss something like that off. I mean they weren't just men, you know.",Negative,train,0
+627,Ses01M_script01_3_M029,"For instance, there was this one time when this kid--it had been raining for like several days and he gave me his last pair of dry socks.",Negative,train,0
+628,Ses01M_script01_3_M030,He just put it in my pocket that's the kind of guys I had.,Negative,test,0
+629,Ses01M_script01_3_M031,"They didn't die they killed themselves for each other and I mean that exactly, you know a little more selfish and they'll all be here today...",Negative,train,0
+630,Ses01M_script01_3_M032,"And I had this idea as I was watching them go down like everything was being destroyed, you know. But I felt like this one new thing was being made, you know it's kind of like this. This monument...",Negative,validation,0
+631,Ses01M_script01_3_M033,"You know, that they were bringing something on to this earth, a kind of sacrifice you know.",Negative,train,0
+632,Ses01M_script01_3_M034,"I thought I would change everything you know, and I got back here and it was- it was like nothing had changed at all...",Negative,train,0
+633,Ses01M_script01_3_M035,You know. I went to work with dad and I started that whole rat race again...,Negative,train,0
+634,Ses01M_script01_3_M036,And no one had changed it was just like sort of random bus accident to them.,Negative,test,0
+635,Ses01M_script01_3_M037,Driving my new car and I felt guilty you know opening my bank book seeing a new refrigerator.,Negative,test,0
+636,Ses01M_script01_3_M038,'Cause you can take those things out of a war. But you have to realize that those things came out of the love that a man can have for another man...,Negative,train,0
+637,Ses01M_script01_3_M039,And if you can't see that then it's just loot and there's blood all over it.,Negative,validation,0
+638,Ses01M_script01_3_M040,I felt ashamed and I didn't want any part of it. I guess I included you too.,Negative,train,0
+639,Ses01M_script01_3_M041,I want you to know Annie.,Negative,train,0
+640,Ses01M_script01_3_M043,I'm going to make a fortune for you.,Positive,test,2
+641,Ses01M_script02_1_F005,"You keep saying ""my flashlight"" like somehow it's just yours. How's that supposed to make me feel?",Negative,train,0
+642,Ses01M_script02_1_F007,No.,Neutral,train,1
+643,Ses01M_script02_1_F008,I'm fine.,Neutral,train,1
+644,Ses01M_script02_1_F009,I wonder if they can hear me talk,Positive,train,2
+645,Ses01M_script02_1_F014,Then let's go.,Negative,test,0
+646,Ses01M_script02_1_F017,"Pass what up? These little fish swim out of the ocean, they flop around on the sand then they swim back and then they die.",Negative,train,0
+647,Ses01M_script02_1_F021,Yes.,Negative,train,0
+648,Ses01M_script02_1_F022,"Last year, you'll also remember we got--our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight and we did not see the grunions.",Negative,train,0
+649,Ses01M_script02_1_F023,We didn't see them the year before either.,Negative,validation,0
+650,Ses01M_script02_1_M007,Flashlight the silver one. There's only one isn't there?,Neutral,validation,1
+651,Ses01M_script02_1_M009,"Oh, well, yeah of course.",Neutral,train,1
+652,Ses01M_script02_1_M028,People in Kansas would have to get plane tickets and make hotel reservations to see this. It's only forty minutes away; it's just too good to pass up.,Negative,test,0
+653,Ses01M_script02_1_M030,"Yeah, they do.",Neutral,train,1
+654,Ses01M_script02_1_M037,We just weren't in a good spot though.,Neutral,train,1
+655,Ses01M_script02_1_M039,"Come on, trust me I got instincts for these things, okay? So just--just think about it all right? Okay, I know you're not interested, think about it...",Neutral,train,1
+656,Ses01M_script02_2_F000,That's the wind.,Neutral,train,1
+657,Ses01M_script02_2_F010,"Why do you ask me that? God damn it, I told you not to ask me that I hate it when you ask me that. It's insulting.",Negative,train,0
+658,Ses01M_script02_2_F011,"I just, we just have different ideas of what this evening is supposed to look like.",Negative,train,0
+659,Ses01M_script02_2_F013,"Because they never do. Do they, have they ever?",Negative,train,0
+660,Ses01M_script02_2_F014,Twice is every year we've tried that's ever.,Negative,train,0
+661,Ses01M_script02_2_F015,No we won't. It's pointless it's like a waiting up to see Santa Claus.,Negative,test,0
+662,Ses01M_script02_2_F016,"I feel like my whole life is going to be spent here on the beach with my eyes wide open and my hands clasped expectantly, waiting for fish to show up and the fish never show.",Negative,train,0
+663,Ses01M_script02_2_F019,Do you remember the first year we came here? It's about four years ago right after we got married.,Neutral,validation,1
+664,Ses01M_script02_2_F022,"And I remember thinking this is it. finally, finally I'm as happy as I'm supposed to be.",Negative,test,0
+665,Ses01M_script02_2_F024,I'd rather not remember some things. I'd rather not hope for some things.,Negative,validation,0
+666,Ses01M_script02_2_F025,No.,Negative,train,0
+667,Ses01M_script02_2_F026,No.,Negative,train,0
+668,Ses01M_script02_2_F030,I want something to turn out the way that it's supposed to.,Negative,validation,0
+669,Ses01M_script02_2_F031,This what? What is this? This isn't even anything.,Negative,validation,0
+670,Ses01M_script02_2_F032,"Oh, sure this is standing on the beach, this is waiting, fighting.",Negative,train,0
+671,Ses01M_script02_2_F033,This isn't anything like I thought anything would be.,Negative,train,0
+672,Ses01M_script02_2_F034,This is just this. I mean it includes a lot and everything but it's--do you understand what I'm saying?,Negative,train,0
+673,Ses01M_script02_2_F035,"I know that Augie, I really do.",Negative,validation,0
+674,Ses01M_script02_2_F036,"I just can't help wishing that I was somebody, somewhere else.",Negative,train,0
+675,Ses01M_script02_2_F037,I didn't say that.,Negative,validation,0
+676,Ses01M_script02_2_F040,"You are the one who probably wishes he was with somebody else, someone who didn't take everything so seriously, someone who would enjoy yourself.",Negative,test,0
+677,Ses01M_script02_2_F044,I guess we don't need glasses.,Positive,train,2
+678,Ses01M_script02_2_F045,I'm beginning to think you might be right. I think this might be the spot after all.,Positive,test,2
+679,Ses01M_script02_2_F046,"Augie, I'm sorry.",Negative,test,0
+680,Ses01M_script02_2_F047,Or not.,Neutral,test,1
+681,Ses01M_script02_2_M008,Can I ask you a question? Are you on your period?,Neutral,train,1
+682,Ses01M_script02_2_M013,We missed them twice.,Neutral,train,1
+683,Ses01M_script02_2_M019,"you were fine during the phone call from Marge, dinner was okay, doing the dishes was fine.",Neutral,train,1
+684,Ses01M_script02_2_M020,"Let's see, uh, I took a shower and, um, you were watching the news and you said the ""the Grunions are running tonight,"" and I said ""okay great, let's go.""",Neutral,validation,1
+685,Ses01M_script02_2_M027,You want me to go get some champagne?,Neutral,train,1
+686,Ses01M_script02_2_M033,"A new carpet, a poodle, a suicide pact, ice cream, a back rub, what? What? What the hell do you want?",Negative,train,0
+687,Ses01M_script02_2_M035,You think nothing turns out how it's supposed to. You think I had some grand idea going that four years down the line. We would come to this beach and argue over fish? No.,Negative,train,0
+688,Ses01M_script02_2_M037,"No, no I'm just like you, I thought it was going to be all rosy cheeks and the bills would pay themselves and fish will always come and--",Negative,train,0
+689,Ses01M_script02_2_M038,No. You know what you get? You know what you get? You get this.,Negative,train,0
+690,Ses01M_script02_2_M040,Right.,Neutral,train,1
+691,Ses01M_script02_2_M041,I know me neither.,Negative,train,0
+692,Ses01M_script02_2_M042,I'm doing the best I can.,Negative,test,0
+693,Ses01M_script02_2_M043,Maybe if you were with somebody else too?,Negative,test,0
+694,Ses01M_script02_2_M044,"No, I know but--I know I don't make you happy.",Negative,train,0
+695,Ses01M_script02_2_M045,Yeah?,Negative,validation,0
+696,Ses01M_script02_2_M049,Look what we got here.,Positive,train,2
+697,Ses01M_script02_2_M050,It's not champagne.,Neutral,train,1
+698,Ses01M_script02_2_M051,"Are you cold, huh? Do you want to go home?",Neutral,validation,1
+699,Ses01M_script02_2_M052,Shh...,Positive,train,2
+700,Ses01M_script02_2_M053,"If we are really quiet, the fish might come.",Positive,validation,2
+701,Ses01M_script02_2_M054,Or not.,Neutral,train,1
+702,Ses01M_script03_1_F003,Now and always sweet.,Positive,train,2
+703,Ses01M_script03_1_F004,It had to happen sooner or later.,Positive,train,2
+704,Ses01M_script03_1_F008,Oh. Behave exquisitely...,Positive,validation,2
+705,Ses01M_script03_1_F009,[LAUGHTER] I think I shall do a court curtsey.,Positive,validation,2
+706,Ses01M_script03_1_F010,[LAUGHTER],Positive,train,2
+707,Ses01M_script03_1_F011,Mmm...,Positive,train,2
+708,Ses01M_script03_1_F014,"Oh, yes meaning just that.",Positive,train,2
+709,Ses01M_script03_1_F015,[LAUGHTER] Don't laugh at me I'm being serious.,Positive,train,2
+710,Ses01M_script03_1_F017,"Mmhmm If I must laugh at everything, I must laugh at us too.",Positive,test,2
+711,Ses01M_script03_1_F018,"How long will it last, this ludicrous, overbearing love of ours?",Positive,test,2
+712,Ses01M_script03_1_F019,Shall we always want to bicker and fight?,Positive,train,2
+713,Ses01M_script03_1_F021,If one of us dies...,Positive,train,2
+714,Ses01M_script03_1_F024,I think you're talking nonsense.,Positive,train,2
+715,Ses01M_script03_1_F030,Which particular one?,Positive,train,2
+716,Ses01M_script03_1_F034,Cannes...mmhmm...,Positive,test,2
+717,Ses01M_script03_1_F036,The manager came in he found us rolling about the floor. [LAUGHTER],Positive,train,2
+718,Ses01M_script03_1_F037,Scratching and biting like panthers. [LAUGHTER] Oh...,Positive,validation,2
+719,Ses01M_script03_1_F038,"Utterly, utterly ridiculous.",Positive,train,2
+720,Ses01M_script03_1_F039,oh...[LAUGHTER],Positive,train,2
+721,Ses01M_script03_1_F040,Very much sillier.,Positive,train,2
+722,Ses01M_script03_1_M004,I don't care then.,Positive,train,2
+723,Ses01M_script03_1_M010,With perfect poise...,Positive,train,2
+724,Ses01M_script03_1_M011,Ah...,Positive,test,2
+725,Ses01M_script03_1_M012,Ah...Strange...,Positive,validation,2
+726,Ses01M_script03_1_M013,"Things that just ought to matter dreadfully, you know they just don't matter at all when one is happy, do they?",Positive,test,2
+727,Ses01M_script03_1_M014,"Darling, don't say that.",Negative,validation,0
+728,Ses01M_script03_1_M016,"Oh, dear god what is that all mean, dear god?",Positive,test,2
+729,Ses01M_script03_1_M017,"You mustn't be so serious, darling, it just what they want.",Positive,train,2
+730,Ses01M_script03_1_M019,Flippancy brings out the acid in their darn sweetness and light.,Positive,test,2
+731,Ses01M_script03_1_M021,We are figures of fun all right,Positive,train,2
+732,Ses01M_script03_1_M022,Ahh...who knows.,Positive,test,2
+733,Ses01M_script03_1_M030,before your body rots and worms pop out of your eye sockets.,Positive,train,2
+734,Ses01M_script03_1_M031,"See, you know I don't care what you do. You could paint yourself green and run naked to the Place Vendome.",Positive,train,2
+735,Ses01M_script03_1_M033,Do you remember that row we did have in Venice?,Positive,train,2
+736,Ses01M_script03_1_M039,I will never forget the look on his face.,Positive,train,2
+737,Ses01M_script03_1_M040,oh...,Positive,test,2
+738,Ses01M_script03_1_M041,We were very much younger then.,Positive,train,2
+739,Ses01M_script03_2_F006,"Well, what of it?",Neutral,train,1
+740,Ses01M_script03_2_F010,"No, thank you.",Neutral,train,1
+741,Ses01M_script03_2_F011,I don't see why you want any you already had two glasses.,Negative,validation,0
+742,Ses01M_script03_2_F015,"Don't be stupid, what?",Negative,train,0
+743,Ses01M_script03_2_F017,Well it's a woman's duty to allure the man. Watch me a minute will you?,Negative,train,0
+744,Ses01M_script03_2_F022,They sting.,Negative,train,0
+745,Ses01M_script03_2_F023,"I don't care. I don't care, do you understand? I don't mind if they bark and they roll about like hoops.",Negative,test,0
+746,Ses01M_script03_2_F024,"Yes, I did quite a lot.",Negative,train,0
+747,Ses01M_script03_2_F025,"Oh, mind you own business.",Negative,train,0
+748,Ses01M_script03_2_F026,"You're quite insufferable, I expect it's because you're drunk.",Negative,train,0
+749,Ses01M_script03_2_F027,You always had a weak head.,Negative,validation,0
+750,Ses01M_script03_2_F028,"On the contrary, a child two could get violently drunk on only one glass of brandy.",Negative,validation,0
+751,Ses01M_script03_2_F029,Shut up.,Negative,train,0
+752,Ses01M_script03_2_F030,Not very funny darling. Why don't you have some more brandy?,Negative,train,0
+753,Ses01M_script03_2_F031,Why?,Negative,train,0
+754,Ses01M_script03_2_F033,They are away in Tunis.,Negative,train,0
+755,Ses01M_script03_2_F034,"Turn it on again, please.",Negative,validation,0
+756,Ses01M_script03_2_F035,Very well if you insist on being boorish and idiotic.,Negative,validation,0
+757,Ses01M_script03_2_F036,I won't.,Negative,validation,0
+758,Ses01M_script03_2_F037,Stop it. No. Go away.,Negative,test,0
+759,Ses01M_script03_2_F038,"listen Oh I'm sick and tired of listening to you, you damn sadistic bully.",Negative,train,0
+760,Ses01M_script03_2_F039,"Oh you're cruel you're...you're...I hate you, I hate you. Go away. You're conceited. You're overbearing. You're utterly impossible.",Negative,train,0
+761,Ses01M_script03_2_F040,This is the end do you hear me? Finally and forever.,Negative,test,0
+762,Ses01M_script03_2_F041,"Oh yes I am...Oh yes I am. Let go of me. You let go. You...urgh...You're a cruel friend. I loathe and I hate you. Marry you again...Ha...Never, never, never, never. I hope you die in torment. You beast.",Negative,train,0
+763,Ses01M_script03_2_M012,"I'll have a little, I think.",Neutral,train,1
+764,Ses01M_script03_2_M013,"Oh, you know no particular reason besides they are very small glasses.",Neutral,train,1
+765,Ses01M_script03_2_M018,Are you going out somewhere dear?,Neutral,validation,1
+766,Ses01M_script03_2_M022,"You know, it's a pity you didn't have any more brandy. It would have made you just a little less disagreeable.",Negative,validation,0
+767,Ses01M_script03_2_M023,"You know what? You snap, you snap, you snap you're like a little adder.",Negative,train,0
+768,Ses01M_script03_2_M024,Nonsense. They have a bag of venom behind of fangs and they snap.,Negative,train,0
+769,Ses01M_script03_2_M025,Did you see much of Peter Burden after our divorce?,Negative,train,0
+770,Ses01M_script03_2_M026,I suppose you let him just kiss you or good deal more than too.,Negative,test,0
+771,Ses01M_script03_2_M027,"I suppose you two had a riotous time, huh? No restrain at all, very enjoyable, he never had much any how.",Negative,train,0
+772,Ses01M_script03_2_M028,I am not in the least bit drunk.,Negative,test,0
+773,Ses01M_script03_2_M029,I think I told you once before that I had three minute liquor glasses the whole evening long. A Child of two cannot get drunk on that.,Negative,train,0
+774,Ses01M_script03_2_M030,"Oh very, very interesting Amanda. How about the child of uh... four, six or maybe nine---you know, we could work up a splendid little debate about it, you know? Intemperate tots.",Negative,train,0
+775,Ses01M_script03_2_M031,That's a very good idea I think I will.,Negative,train,0
+776,Ses01M_script03_2_M032,Would you uh...turn that off please? You're going to wake the people upstairs.,Negative,test,0
+777,Ses01M_script03_2_M033,Well then you'll wake the people downstairs.,Negative,train,0
+778,Ses01M_script03_2_M034,This is no time a year for Tunis.,Negative,validation,0
+779,Ses01M_script03_2_M035,I will do no such thing.,Negative,validation,0
+780,Ses01M_script03_2_M036,Turn it off. It's driving me mad.,Negative,test,0
+781,Ses01M_script03_2_M037,Turn it off.,Negative,validation,0
+782,Ses01M_script03_2_M038,Amanda listen. Listen.,Negative,validation,0
+783,Ses01M_script03_2_M039,That's very amusing indeed.,Negative,test,0
+784,Ses01M_script03_2_M040,"You...You're an evil minded, self-centered little wench and I never want to see you again.",Negative,validation,0
+785,Ses01M_script03_2_M041,You're not going like this.,Negative,train,0
+786,Ses01M_script03_2_M042,No you're not.,Negative,train,0
+787,Ses01M_script03_2_M043,Shut up. Shut up. I wouldn't marry you again if you came crawling back to me on a bended knee. You are an evil tempered little vampire and I never want to see you again as long as I live.,Negative,test,0
+788,Ses02F_impro01_F000,"Hi. Excuse me. Um, I'd like to put in this application for my registration.",Neutral,train,1
+789,Ses02F_impro01_F018,"Well, why didn't the D.M.V. put that you needed your birth certificate on the application then?",Negative,test,0
+790,Ses02F_impro01_F019,"Yeah, but your birth certificate--I mean, who carries around their birth certificate? Nobody does that.",Negative,train,0
+791,Ses02F_impro01_F020,With your driver's license and your passport. Just like everybody else.,Negative,train,0
+792,Ses02F_impro01_F021,"Who--you always use your driver's license. I mean, you're not coming to the D.M.V. if you're not over sixteen and that's when you get your driver's license so you're never gonna need it anyway.",Negative,train,0
+793,Ses02F_impro01_M001,"Okay. Let me see here. Um, we need--we need your original birth certificate.",Neutral,validation,1
+794,Ses02F_impro01_M002,Right. Well. We still need it.,Neutral,test,1
+795,Ses02F_impro01_M017,"Ok, but you're right now you're holding up more people in line by standing here-- and letting",Negative,train,0
+796,Ses02F_impro01_M019,"You know, Official documentation--",Negative,test,0
+797,Ses02F_impro02_F001,"There's nothing I can do. I mean, the government you know--",Negative,train,0
+798,Ses02F_impro02_F002,"You're gonna have to. I mean, you're a great father. You can do it. I know you can.",Negative,train,0
+799,Ses02F_impro02_F003,I don't think so.,Negative,test,0
+800,Ses02F_impro02_F004,"Well, we can do the best we can and-and, with um, you know like wireless internet these days--I think that we could-- Talk every once in awhile.",Negative,train,0
+801,Ses02F_impro02_F005,You could send me pictures.,Negative,test,0
+802,Ses02F_impro02_F007,"and--I mean, my daughter--I don't want to put her in danger. You know? She has to stay.",Negative,test,0
+803,Ses02F_impro02_F008,"I know, but, she needs to be safe more. She needs to be around kids her age--own age. She needs to be able to play on the streets and--",Negative,train,0
+804,Ses02F_impro02_F009,You can just remember it for me.,Negative,validation,0
+805,Ses02F_impro02_F010,"Well, I need--I need you to be able to do this for me 'cause I can't do anything about it.",Negative,test,0
+806,Ses02F_impro02_F011,"I mean, it's just as hard for me, but--I know that we can do it, you know",Negative,validation,0
+807,Ses02F_impro02_F012,I don't want you in danger. And I don't want her in danger.,Negative,train,0
+808,Ses02F_impro02_F013,I have no choice. There's nothing I can do.,Negative,test,0
+809,Ses02F_impro02_M007,But she's--you're not gonna--you're not gonna be here for--for her first words. For her first steps. I mean--it's something that you're supposed to be here for that--,Negative,validation,0
+810,Ses02F_impro02_M012,All right.,Negative,validation,0
+811,Ses02F_impro03_F015,I know. So we're gonna take it--Like we're not gonna get married right away--'Cause we want to like have plenty of time to plan everything out,Positive,test,2
+812,Ses02F_impro03_F016,"...and, um, my parents want to like be part of it and help out and everything--So we want to give it lots of time to like--",Positive,train,2
+813,Ses02F_impro03_F017,"Yeah, yeah, I called them. I called them And, of course, they were so excited 'cause they love him. Like they always have. Um--",Positive,train,2
+814,Ses02F_impro03_F018,"So, yeah, I mean, it'll be good. We wanna like, uh, I think we're gonna have it in spring time, like early Spring--So it's no too hot yet. And um--",Positive,train,2
+815,Ses02F_impro03_F019,"I don't know. I mean, I kinda like the idea of having something outside, but--Like--is a- Yeah,",Positive,train,2
+816,Ses02F_impro03_F023,Thank you. Thank you so much.,Positive,validation,2
+817,Ses02F_impro03_F026,"Yeah, it's pretty good.",Positive,train,2
+818,Ses02F_impro03_F027,"Of course, of course--you'll be able to be a part of it. You can come help me pick my colors.",Positive,train,2
+819,Ses02F_impro03_F029,She'll be like--flowers and the--,Positive,validation,2
+820,Ses02F_impro03_F030,"Oh, thank you. [LAUGHTER]",Positive,validation,2
+821,Ses02F_impro03_M004,That is great. You look radiant. I should've guess.,Positive,train,2
+822,Ses02F_impro03_M009,"Yeah. I mean candles wouldn't stay--No, I didn't--I didn't know anything about it.",Positive,train,2
+823,Ses02F_impro03_M010,No. I'm just as happy as you are. This is--,Positive,train,2
+824,Ses02F_impro03_M011,"So, I mean--it's good though.",Positive,validation,2
+825,Ses02F_impro03_M017,Spring's nice though.,Neutral,train,1
+826,Ses02F_impro03_M019,Okay. All right. So-[LAUGHTER]-quite a while. I mean--That's- That's good. I'm so happy for you. [LAUGHTER],Positive,train,2
+827,Ses02F_impro03_M020,"Yeah, I'd love to be in that same situation some day, but, wow- so-",Positive,test,2
+828,Ses02F_impro03_M022,"Oh, I approve. I-[LAUGHTER]-I more than approve.",Positive,train,2
+829,Ses02F_impro03_M023,"I mean, I'm surprised he didn't, ya know--go get a plane to fly over and shine--But candles on the beach, that's okay too I guess--",Positive,validation,2
+830,Ses02F_impro03_M026,"It'll be good. Wow, that's great.",Positive,train,2
+831,Ses02F_impro04_F009,I feel so worthless.,Negative,train,0
+832,Ses02F_impro04_F016,"I just wanna crawl in a hole, you know. Like it just makes you not wanna even open your eyes in the morning.",Negative,train,0
+833,Ses02F_impro04_M000,"So, uh, so how's it been going? I mean, you have any needs or anything?",Neutral,train,1
+834,Ses02F_impro04_M001,"No. You can't think that way. I mean it's good--it's good that you're--that you're calling, you know. you can't",Neutral,validation,1
+835,Ses02F_impro04_M004,"I know. I know. It's hard, but you just--you gotta keep going. I mean, you've been going at it for so long, you know. Something is definitely going to come up. I-I know it will, because you're a good worker--",Neutral,train,1
+836,Ses02F_impro04_M008,"I know. It makes it harder. I mean it's definitely who you know in a lot of cases, but--",Neutral,train,1
+837,Ses02F_impro04_M012,"Because I know you. You know, and maybe once you get to know some more people, like talking to them and everything, they'll get to know you too and they'll realize they should've hired you three years ago. You know? but And- and they'll finally come around and believe me--it'll--you gotta-",Neutral,train,1
+838,Ses02F_impro04_M017,"Well, you've gotta live.",Neutral,train,1
+839,Ses02F_impro04_M019,"Well, come on, come on. Thinking about it like this is definitely not gonna help either though.",Neutral,train,1
+840,Ses02F_impro05_F000,"Hi, um, excuse me, I believe that the airline lost my baggage.",Neutral,train,1
+841,Ses02F_impro05_F006,"That's all, that's all, that's all you're going to do is just give me fifty dollars and say go have fun on your vacation without any of your stuff?",Negative,validation,0
+842,Ses02F_impro05_F010,"Because you don't seem to care very much, you know.",Negative,train,0
+843,Ses02F_impro05_F019,It sounds like it's such a little like oh well no big deal whatever. It's a big deal to me.,Negative,train,0
+844,Ses02F_impro05_M000,"Um, okay, it didn't--didn't come out on the carrousel--",Neutral,train,1
+845,Ses02F_impro05_M001,"Okay. Um, well, unfortunately yeah there was a some- some problems with the--",Neutral,train,1
+846,Ses02F_impro05_M002,"Uh, well some-some of the bags were--were lost on the way over here. uh-",Neutral,train,1
+847,Ses02F_impro05_M004,"Uh, But, we are willing to reimburse you for the bag and and for the contents--",Neutral,validation,1
+848,Ses02F_impro05_M006,"Right. Uh We realize, you know, that that it's a bad situation, but I'm sorry, there's nothing that we can really do.",Neutral,train,1
+849,Ses02F_impro05_M009,"Yes, I know. I know-. It's It's frustrating. Unfortunately though-- um",Neutral,train,1
+850,Ses02F_impro05_M012,"You paid for the flight and then your bags were checked at--it's a service that the airline provides for us. So so, really, it's really the risk was taken and, I'm sorry, but there's really nothing else we can do. So do you want--do you want the reimbursement?",Neutral,train,1
+851,Ses02F_impro05_M013,"Well, there are-there are some shops here in- in the airport--",Neutral,test,1
+852,Ses02F_impro05_M014,"No, um, like I said you can file a claim and, uh, maybe get reimbursed for more-- you",Neutral,validation,1
+853,Ses02F_impro05_M015,probably even talk to--,Neutral,train,1
+854,Ses02F_impro05_M016,"Right, that--that gets taken care of-- That gets taken care of. We get we do, you know, we investigate those and just make sure that um- they're not doing their own thing with them so--uh",Neutral,train,1
+855,Ses02F_impro05_M017,but Unfortunately sometimes is--,Neutral,test,1
+856,Ses02F_impro05_M018,"Well, that's--that's what I'm saying--",Neutral,validation,1
+857,Ses02F_impro05_M020,"All right, Miss, I-I know. I realize this. But Like I said, there are several people that are in your same situation, so, um, it's not--it's not totally uncommon and I'm actually gonna have to ask you to move so I can help the next person.",Neutral,validation,1
+858,Ses02F_impro06_F000,"Um, Johnny died yesterday.",Negative,train,0
+859,Ses02F_impro06_F001,"We knew that it was coming, but--",Negative,train,0
+860,Ses02F_impro06_F002,"It seemed like he had a little bit longer. Like just last week, he was doing was so well.",Negative,train,0
+861,Ses02F_impro06_F004,I just don't want him to be gone.,Negative,validation,0
+862,Ses02F_impro06_F007,"He was so young, you know. And all the stories he used to tell me about...",Negative,validation,0
+863,Ses02F_impro06_F008,...the way he wanted to live and he was gonna go to Africa and he was gonna--,Negative,train,0
+864,Ses02F_impro06_F009,Nobody's ever gonna forget him.,Negative,train,0
+865,Ses02F_impro06_F011,I'm gonna forget him.,Negative,train,0
+866,Ses02F_impro06_F012,I won't be able to hear his voice or his--,Negative,validation,0
+867,Ses02F_impro06_F014,Thanks.,Negative,train,0
+868,Ses02F_impro06_M000,"Hey, a what's up?",Neutral,train,1
+869,Ses02F_impro06_M001,"Wow, that's horrible.",Neutral,train,1
+870,Ses02F_impro06_M002,I'm sorry to hear about that.,Neutral,test,1
+871,Ses02F_impro06_M005,Yeah.,Neutral,train,1
+872,Ses02F_impro06_M007,"It's good, you know. you know It hurts I know. I know what it's like to lose someone like that.",Neutral,train,1
+873,Ses02F_impro06_M013,"'Cause, you know, you've got all the times that you guys did spend together, you know and that's something good that you can look back on.",Neutral,train,1
+874,Ses02F_impro06_M015,"And you'll always have that and--you should feel, you know, happy for him that he got to do so much before--I mean, and even after he found out last year. I mean--",Neutral,train,1
+875,Ses02F_impro06_M018,"But It's okay because now, you know, you'll just go on with your life and--",Neutral,train,1
+876,Ses02F_impro07_M000,"That will be, It'll be--it'll be better that way. I mean Time will tell. Time heals, you know, and it's good. It's okay. I mean, it wasn't anybody's fault or anything like that so .",Neutral,train,1
+877,Ses02F_impro07_M016,"So, how's it going?",Neutral,test,1
+878,Ses02F_impro07_M018,So...,Positive,train,2
+879,Ses02F_impro07_M019,That'll be awesome.,Positive,train,2
+880,Ses02F_impro08_F000,"I mean because you went to the campus before, right?",Neutral,train,1
+881,Ses02F_impro08_F004,"Hi, my name is Shiloh, welcome to--Airline Six. Hi, how may I help you?",Neutral,train,1
+882,Ses02F_impro08_F005,"Oh, yeah, absolutely. You know, and especially because you've been waiting so long and I know that, um, you've been having a difficult time.",Neutral,train,1
+883,Ses02F_impro08_F007,"I want to definitely give you our special package today, which um is usually only for valued customers who have a record of having previous,",Neutral,train,1
+884,Ses02F_impro08_F008,Is that all right?,Neutral,validation,1
+885,Ses02F_impro08_F009,"I can do that right now for you. No, absolutely. I can take care of you all the way through to the end.",Neutral,validation,1
+886,Ses02F_impro08_F015,All I'm going to need is your credit card number but just give me one moment. So-,Neutral,train,1
+887,Ses02F_impro08_F020,Okay.,Neutral,train,1
+888,Ses02F_impro08_F023,Okay. Great. What time of the day would you like?,Neutral,train,1
+889,Ses02F_impro08_F024,Absolutely. That actually goes in on the same package with our hotel. You just give me your address. We'll come and pick up a time that allows you to get to your flight with plenty of time to spare.,Neutral,train,1
+890,Ses02F_impro08_F026,And a there will also be a shuttle waiting for you to take you to the appropriate hotel.,Neutral,train,1
+891,Ses02F_impro08_M003,Absolutely. Thank you so much for calling and we hope that you will come to us again.,Neutral,validation,1
+892,Ses02F_impro08_M006,Okay.,Neutral,test,1
+893,Ses02F_impro08_M008,[BREATHING] that's good.,Neutral,validation,1
+894,Ses02F_impro08_M009,Okay. So--,Neutral,train,1
+895,Ses02F_impro08_M012,"Well, you know, we wanted to--we wanted to go to Maui and--That was a",Neutral,train,1
+896,Ses02F_impro08_M015,All right. And can they like all get together?,Neutral,test,1
+897,Ses02F_impro08_M016,"Uh, well, yeah, I think we were just--you know, whenever best available, I guess. You know--",Neutral,train,1
+898,Ses02F_impro08_M018,"And, like, there's there's shuttles or something that I can get to the hotel.",Neutral,train,1
+899,Ses02F_impro08_M019,All right. So we're confirmed then or do you--All right.,Neutral,train,1
+900,Ses02F_script01_1_F004,Okay.,Negative,train,0
+901,Ses02F_script01_1_F005,Did you talk to him?,Negative,validation,0
+902,Ses02F_script01_1_F006,He cried hard?,Negative,validation,0
+903,Ses02F_script01_1_F017,What was he doing out here at that hour?,Negative,train,0
+904,Ses02F_script01_1_F019,"I've got an idea, but what's the story?",Negative,validation,0
+905,Ses02F_script01_1_F027,What do you want me to do? You're old enough to know your own mind.,Neutral,train,1
+906,Ses02F_script01_1_F036,"Well, how do you know she'll marry you? Maybe she feels the same way your father does.",Negative,validation,0
+907,Ses02F_script01_1_F037,Are you crazy?,Negative,train,0
+908,Ses02F_script01_1_F038,What about the business? What the hell is this?,Negative,validation,0
+909,Ses02F_script01_1_F040,Must you be inspired?,Negative,train,0
+910,Ses02F_script01_1_F044,"Well, you don't want to think like that.",Negative,train,0
+911,Ses02F_script01_1_M011,I can see that.,Negative,train,0
+912,Ses02F_script01_1_M013,Why shouldn't he dream of him and walk the nights waiting for him? Do we contradict him? Do we say straight out that we don't have any hope anymore? That we haven't had hope for years now?,Negative,test,0
+913,Ses02F_script01_1_M021,"For God sakes, it's been three years. Nobody comes back after three years. It's insane.",Negative,train,0
+914,Ses02F_script01_1_M023,"Well, then it isn't just my business--",Negative,validation,0
+915,Ses02F_script01_1_M025,She's not Larry's girl.,Negative,test,0
+916,Ses02F_script01_1_M027,To hell with that.,Negative,train,0
+917,Ses02F_script01_1_M036,"Well, if she does, then that's the end of it. But from her letters, I think she's forgotten him. I'll find out. And then we'll thrash it out with Dad, right? Mom, don't avoid me.",Negative,validation,0
+918,Ses02F_script01_1_M037,I've been a good son too long. A good sucker. I'm through with it.,Negative,validation,0
+919,Ses02F_script01_1_M038,The business? The business doesn't inspire me.,Negative,test,0
+920,Ses02F_script01_1_M044,"Yes. I like it an hour a day. If I'm gonna grub for my money all day long, at least in the evening I want it beautiful.",Neutral,train,1
+921,Ses02F_script01_2_F005,"No, you don't. I'm a pretty tough guy.",Negative,train,0
+922,Ses02F_script01_2_F012,It's got that all about it.,Negative,train,0
+923,Ses02F_script01_2_F013,"Because if he's not coming back, I'll kill myself. I mean, laugh--laugh at me, but...",Negative,train,0
+924,Ses02F_script01_2_M016,But why did that happen the very night she came here? She sleeps in his room and his memorial breaks to pieces. Just look. Look at it.,Negative,train,0
+925,Ses02F_script01_2_M017,What does that mean? Me above all?,Negative,train,0
+926,Ses02F_script01_2_M018,Look at you. Look at you shaking.,Negative,train,0
+927,Ses02F_script01_3_F012,What have I got to hide? What the hell is the matter with you Kate?,Positive,train,2
+928,Ses02F_script01_3_F013,I almost got married two years ago.,Positive,train,2
+929,Ses02F_script01_3_F014,You started to write me and--,Positive,train,2
+930,Ses02F_script01_3_F016,Every day since.,Positive,validation,2
+931,Ses02F_script01_3_F021,I will never forgive you. Why did you wait all these years? All I did was sit and wonder if I was crazy for thinking of you.,Negative,train,0
+932,Ses02F_script01_3_F022,You've gotta tell me.,Negative,train,0
+933,Ses02F_script01_3_F023,It wouldn't work this way.,Negative,train,0
+934,Ses02F_script01_3_F024,"Yeah, sure.",Negative,test,0
+935,Ses02F_script01_3_F026,How many?,Negative,train,0
+936,Ses02F_script01_3_F029,You still feel that way?,Positive,train,2
+937,Ses02F_script01_3_M020,What'll I do with a fortune?,Negative,train,0
+938,Ses02F_script01_3_M021,No. Nothing like that.,Negative,train,0
+939,Ses02F_script01_3_M022,"Yeah, I suppose I have been. But it's going from me.",Negative,test,0
+940,Ses02F_script01_3_M023,I don't know how to start.,Negative,train,0
+941,Ses02F_script01_3_M025,"It's all mixed up with so many other things. You remember overseas, I was in command of a company?",Negative,train,0
+942,Ses02F_script01_3_M026,Just about all.,Negative,validation,0
+943,Ses02F_script01_3_M027,It takes some time for a guy to toss that off. 'Cause they weren't just men.,Negative,train,0
+944,Ses02F_script01_3_M031,"For instance, one time, it had been raining several days and this kid came to me and gave me his last pair of dry socks. I put them in pocket. It's only a little thing, but that's the kind of guys I had.",Negative,train,0
+945,Ses02F_script01_3_M032,Then I came back and it was incredible. There was no meaning in it here. The whole thing to them seemed like sort of a bus accident. I went to work with Dad and that rat race again.,Negative,validation,0
+946,Ses02F_script01_3_M033,"And I felt what you said, ashamed somehow 'cause nobody was changed at all. It seemed to make suckers out of a lot of guys. I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator.",Negative,train,0
+947,Ses02F_script01_3_M034,"I mean, you can take those things out of a war, but when you drive that car, you've gotta know that it came out of the love a man can have for a man. You've gotta be a little better because of it.",Negative,train,0
+948,Ses02F_script02_1_F021,Because otherwise all you have is really loot and there's blood on it. And I didn't want to take any of it. And I guess that included you.,Neutral,train,1
+949,Ses02F_script02_1_M009,About what?,Neutral,train,1
+950,Ses02F_script02_1_M010,"Oh, well sure.",Neutral,train,1
+951,Ses02F_script02_1_M020,"Right, of course. Our flashlight. Mine and yours. I mean, me flashlight is su flashlight naturally.",Neutral,train,1
+952,Ses02F_script02_1_M021,That's my point too.,Neutral,test,1
+953,Ses02F_script02_1_M031,No. No. That's not my point. The point is there's no point in coming down if we just leave. Don't you want to see it?,Neutral,train,1
+954,Ses02F_script02_2_F005,"I don't get it. The first time we came here, you said it was the best night of your life.",Negative,train,0
+955,Ses02F_script02_2_F006,"God damn it, Augie, don't ask me that. I hate it when you ask me that. You always ask me that. It's insulting.",Negative,train,0
+956,Ses02F_script02_2_F011,We just have different ideas of what this evening is supposed to look like.,Negative,validation,0
+957,Ses02F_script02_2_F015,"I mean, I feel like my whole life is gonna be spent standing on the beach with my eyes wide open and my hands clasped expectantly waiting for the fish to show up. And the fish won't show up.",Negative,train,0
+958,Ses02F_script02_2_F016,"Do you remember the first time we came to see it? It was about four years ago, right after we got married.",Negative,train,0
+959,Ses02F_script02_2_F017,"I thought I was pregnant, you had a bottle of champagne, but no glasses. You asked me to dance, so we kicked off our shoes and you popped the cork.",Negative,train,0
+960,Ses02F_script02_2_F018,"And while we were dancing, you said the softest, most intimate things to me right into my ear so that I could feel them as much as hear them.",Negative,train,0
+961,Ses02F_script02_2_F019,"And I remember thinking, this is it. You know, at last--at last I am as happy as I am supposed to be.",Negative,validation,0
+962,Ses02F_script02_2_F020,"Just dancing barefoot in the sand, drinking champagne out of the bottle.",Negative,train,0
+963,Ses02F_script02_2_F021,I'd rather not remember some things. I would rather not hope for some things.,Negative,train,0
+964,Ses02F_script02_2_F022,No.,Negative,test,0
+965,Ses02F_script02_2_F031,No.,Negative,train,0
+966,Ses02F_script02_2_F033,Well. This isn't anything like I thought anything would be like.,Negative,validation,0
+967,Ses02F_script02_2_F035,"I know that, Augie. Really, I do.",Negative,train,0
+968,Ses02F_script02_2_F038,I didn't say that.,Negative,train,0
+969,Ses02F_script02_2_F041,You're the one who probably wishes you were with someone else. Someone who--you'd rather enjoy yourself and didn't take everything so hard.,Positive,train,2
+970,Ses02F_script02_2_F042,"Augie, you brought refreshments.",Positive,train,2
+971,Ses02F_script02_2_F043,"Well, then we don't need glasses.",Positive,train,2
+972,Ses02F_script02_2_F044,No. I think you might be right. Maybe this is the spot after all.,Negative,test,0
+973,Ses02F_script02_2_F045,"Augie, I'm sorry.",Positive,train,2
+974,Ses02F_script02_2_M001,Or not.,Neutral,train,1
+975,Ses02F_script02_2_M005,What I was saying.,Neutral,train,1
+976,Ses02F_script02_2_M010,"Carla, can I ask you something? Don't take this wrong, but are you having your period?",Neutral,validation,1
+977,Ses02F_script02_2_M013,"Well, we'll see them this year.",Neutral,train,1
+978,Ses02F_script02_2_M018,It's just fish. Nothing to get traumatized about.,Neutral,train,1
+979,Ses02F_script02_2_M019,Wait a minute. I've got it.,Neutral,test,1
+980,Ses02F_script02_2_M022,"It was in the car, right? Driving past the Knickerbocker Liquor Locker, you said, ""let's get some champagne,"" and I said, ""time's a wasting"" or something like that, right?",Neutral,train,1
+981,Ses02F_script02_2_M023,You want me to go get some champagne?,Neutral,test,1
+982,Ses02F_script02_2_M029,Take off our shoes?,Negative,train,0
+983,Ses02F_script02_2_M031,"Well, welcome to the human race. Do you think this is what I had in mind when I proposed? That four years down the road, we'd be at the beach yelling at each other over fish?",Negative,validation,0
+984,Ses02F_script02_2_M034,"No, Carla, I'm just like you. I thought it was gonna be all peaches and roses and sand in our toes and wind in our hair and the fish will always come and the bills will pay themselves and we'll have three fat rosy kids and ha, ha, baby, the joke's on us",Neutral,test,1
+985,Ses02F_script02_2_M035,Right.,Negative,train,0
+986,Ses02F_script02_2_M036,"I know, me neither.",Negative,train,0
+987,Ses02F_script02_2_M037,I'm doing the best I can.,Negative,train,0
+988,Ses02F_script02_2_M038,Maybe if you were with somebody else too.,Negative,test,0
+989,Ses02F_script02_2_M041,"No, I know. But still. I know I don't make you happy.",Positive,train,2
+990,Ses02F_script02_2_M042,"I don't know. It seemed like a pretty good spot to me. I mean, look at the view you have of the moon from here.",Positive,train,2
+991,Ses02F_script02_2_M043,"Well, look what we have here.",Positive,train,2
+992,Ses02F_script02_2_M045,It's not champagne.,Positive,train,2
+993,Ses02F_script02_2_M046,Shh. If we're very quiet the fish might come.,Positive,train,2
+994,Ses02F_script03_1_F006,Or not.,Positive,train,2
+995,Ses02F_script03_1_F007,Behave exquisitely.,Positive,test,2
+996,Ses02F_script03_1_F008,"Oh, of course. I shall probably do a court curtsy.",Positive,test,2
+997,Ses02F_script03_1_F009,What's so horrible is that one can't stay happy.,Positive,validation,2
+998,Ses02F_script03_1_F010,It's true. The whole business is a very poor joke.,Positive,test,2
+999,Ses02F_script03_1_F013,"Yes, meaning just that.",Neutral,validation,1
+1000,Ses02F_script03_1_F015,"If I laugh at everything, then I must laugh at us too.",Neutral,validation,1
+1001,Ses02F_script03_1_F016,"Well, shall we always want to bicker and fight?",Neutral,train,1
+1002,Ses02F_script03_1_F019,"Oh, dear, shall we like that?",Positive,train,2
+1003,Ses02F_script03_1_F020,"Darling, I believe you're talking nonsense.",Positive,train,2
+1004,Ses02F_script03_1_F021,"Elliott, worms don't pop.",Positive,train,2
+1005,Ses02F_script03_1_F022,"Oh, thank you, dear. The same applies to you except that if I catch so much as looking at another woman, I'll kill you.",Positive,test,2
+1006,Ses02F_script03_1_F023,Which particular one?,Positive,test,2
+1007,Ses02F_script03_1_F024,Charles. That was his name. Charles. He did wriggle so beautifully.,Positive,validation,2
+1008,Ses02F_script03_1_F025,"Yes, I know you did. You threw it out of the window into the Grand Canal. I don't think I'll ever forgive you for that.",Positive,test,2
+1009,Ses02F_script03_1_F026,It went in intermittently for days.,Positive,test,2
+1010,Ses02F_script03_1_F028,It burned my comb too and all the towels in the bathroom.,Positive,validation,2
+1011,Ses02F_script03_1_M004,"The manager came in and found us rolling around on the floor, biting and scratching like panthers.",Neutral,test,1
+1012,Ses02F_script03_1_M005,I don't care then.,Neutral,train,1
+1013,Ses02F_script03_1_M010,Hello? Hello? What? Wrong number.,Neutral,train,1
+1014,Ses02F_script03_1_M012,With the most perfect poise?,Neutral,train,1
+1015,Ses02F_script03_1_M016,"Meaning that sacred and beautiful thing, love?",Neutral,train,1
+1016,Ses02F_script03_1_M017,"You mustn't be serious, my dear one. That's just what they want.",Neutral,test,1
+1017,Ses02F_script03_1_M018,Who knows.,Neutral,train,1
+1018,Ses02F_script03_1_M021,"No, that desire will fade. Along with our passion.",Neutral,train,1
+1019,Ses02F_script03_1_M024,Depends on how well we've played.,Neutral,train,1
+1020,Ses02F_script03_1_M031,So is everyone else in the long run.,Neutral,train,1
+1021,Ses02F_script03_1_M034,"I don't care what you do. See, you could paint yourself green and dance naked in the Place Vendome and rush off madly with all the men in the world and I shan't say a word. As long as you love me best.",Neutral,validation,1
+1022,Ses02F_script03_2_F011,I didn't hit you very hard.,Neutral,test,1
+1023,Ses02F_script03_2_F012,"As a matter of fact, the real cause of that row was Peter Burden.",Neutral,train,1
+1024,Ses02F_script03_2_F013,Just seems so silly to go on and on and on with such a thing.,Negative,test,0
+1025,Ses02F_script03_2_F014,"Well, it's become a habit with you.",Negative,validation,0
+1026,Ses02F_script03_2_F018,Don't be so stupid.,Negative,train,0
+1027,Ses02F_script03_2_F020,What?,Negative,train,0
+1028,Ses02F_script03_2_F025,"Oh, be quiet.",Negative,test,0
+1029,Ses02F_script03_2_F029,"Adders don't snap, they sting.",Negative,train,0
+1030,Ses02F_script03_2_F031,You're quite insufferable,Negative,train,0
+1031,Ses02F_script03_2_F034,Shut up.,Negative,train,0
+1032,Ses02F_script03_2_F035,Why?,Negative,test,0
+1033,Ses02F_script03_2_F036,"Turn it on again, please.",Negative,test,0
+1034,Ses02F_script03_2_F037,"Very well, if you insist on being boorish and idiotic.",Negative,train,0
+1035,Ses02F_script03_2_F038,You are far too temperamental. Try to control yourself.,Negative,train,0
+1036,Ses02F_script03_2_F039,Stop it. Go away. I hate you.,Negative,test,0
+1037,Ses02F_script03_2_F040,"Listen? Listen, indeed. I am sick and tired of listening to you, damn sadistic bully.",Negative,train,0
+1038,Ses02F_script03_2_F041,"I hate you. Stop it. Stop it. I hate you, do you hear? You're conceited and overbearing and utterly impossible.",Negative,train,0
+1039,Ses02F_script03_2_F042,This is the end. Finally and forever. Do you hear me? The end.,Negative,train,0
+1040,Ses02F_script03_2_F043,"Oh Yes, I am.",Negative,test,0
+1041,Ses02F_script03_2_M006,I am. Let go of me. You're a cruel fiend and I hate and loathe you.,Negative,validation,0
+1042,Ses02F_script03_2_M007,Thank God I realized what you are-- I'd never marry you again ever in my life. You're a cruel fiend and I hate you. You're a beast. You're a beast--I hate you. Stop it. Stop it.,Negative,test,0
+1043,Ses02F_script03_2_M009,I knew nothing of the sort. You took presents from him.,Neutral,test,1
+1044,Ses02F_script03_2_M013,What of it?,Negative,validation,0
+1045,Ses02F_script03_2_M027,"Well, what about me?",Negative,train,0
+1046,Ses02F_script03_2_M030,"Me, too. Bored stiff. You want some brandy?",Negative,train,0
+1047,Ses02F_script03_2_M036,"You needn't be so grand, just because you don't happen to want any yourself at the moment.",Negative,test,0
+1048,Ses02F_script03_2_M037,I'm not in the least drunk.,Negative,test,0
+1049,Ses02F_script03_2_M038,"We could get a good debate going about this, don't you think? Intemperate tots.",Negative,validation,0
+1050,Ses02F_script03_2_M039,I'll do no such thing.,Negative,train,0
+1051,Ses02F_script03_2_M041,Turn it off. It's driving me mad.,Negative,test,0
+1052,Ses02F_script03_2_M042,Turn it off.,Negative,test,0
+1053,Ses02F_script03_2_M043,"Amanda, listen. listen",Negative,validation,0
+1054,Ses02F_script03_2_M044,"You're a vile, tempered, loose living, wicked little beast and I hope to never see you again as long as I live.",Negative,train,0
+1055,Ses02F_script03_2_M045,You're not going like this.,Negative,train,0
+1056,Ses02F_script03_2_M046,You're not.,Negative,train,0
+1057,Ses02F_script03_2_M047,Shut up. Shut up.,Negative,test,0
+1058,Ses02M_impro01_F002,I wouldn't-- I wouldn't marry--,Neutral,validation,1
+1059,Ses02M_impro01_F003,I wouldn't marry you if you came in crawling on your knees,Neutral,train,1
+1060,Ses02M_impro01_F005,You're a evil vampire and I hope to God I never see you again as long as I live.,Neutral,validation,1
+1061,Ses02M_impro01_F006,do you have two forms of ID with you?,Neutral,validation,1
+1062,Ses02M_impro01_F015,"I actually need two forms of ID. I need either a passport or a birth certificate, or social security card. I'm sorry.",Neutral,train,1
+1063,Ses02M_impro01_F016,I- I can take your driver's license but I need another form of ID in order to process this paper work.,Neutral,test,1
+1064,Ses02M_impro01_M007,"Um, that you would need to go home and get another form of ID and come back.",Negative,train,0
+1065,Ses02M_impro01_M008,"I'm sorry, sir.",Negative,train,0
+1066,Ses02M_impro01_M009,there is nothing I can do.,Negative,validation,0
+1067,Ses02M_impro01_M010,"What? I- You telling me I waited in that huge line to go and sit down and get my number called, like after",Negative,train,0
+1068,Ses02M_impro01_M011,three hours and,Negative,validation,0
+1069,Ses02M_impro01_M018,Shouldn't they have like told us about that? I mean why - why would they make me go and wait three hours if I have got to go and do it again?,Negative,train,0
+1070,Ses02M_impro01_M019,"It's standard? I mean I don't work at the D.M.V. how am I supposed to know that, like, I stand in line, I get my",Negative,train,0
+1071,Ses02M_impro02_F002,"I filled out the application right, didn't I?",Negative,train,0
+1072,Ses02M_impro02_F003,You- shouldn't you have like a sign or something maybe like up on the counter when you get the applica- maybe on the application,Negative,validation,0
+1073,Ses02M_impro02_F004,"What web- I didn't go to a website - why would I need to - it's the D.M.V.. You come to the D.M.V., you wait in line for three hours, and then you go home.",Negative,train,0
+1074,Ses02M_impro02_F006,I don't want to be a single mom.,Negative,train,0
+1075,Ses02M_impro02_F007,but,Negative,validation,0
+1076,Ses02M_impro02_F009,It's dangerous; I mean how can you make sure that you'll,Negative,train,0
+1077,Ses02M_impro02_F013,I hope so.,Negative,validation,0
+1078,Ses02M_impro02_F014,It's going to be really rough.,Negative,test,0
+1079,Ses02M_impro02_M001,"Well, just promise me that you going to be safe.",Negative,validation,0
+1080,Ses02M_impro02_M008,"Our baby needs a dad; you can't leave. Okay, you can't disappear.",Negative,train,0
+1081,Ses02M_impro02_M013,I'll miss you too.,Negative,train,0
+1082,Ses02M_impro02_M017,"You won't be. I'll be back; I'll be back before you know it. All right, and",Negative,train,0
+1083,Ses02M_impro02_M018,"I hope so, because I'm not going to be able to survive without all that. I don't know what I'm going to do.",Negative,test,0
+1084,Ses02M_impro03_M010,there's people that thought it was the right thing to do so now we have to- we have to do what we have to do for our country,Positive,validation,2
+1085,Ses02M_impro03_M011,"Our baby has a dad, alright. Daddy is going to be back soon.",Positive,test,2
+1086,Ses02M_impro03_M012,"I want you to, you know, take lots of video; pictures and I can see you when I get back or while I'm there. I'm going to miss you.",Positive,train,2
+1087,Ses02M_impro03_M014,"Oh, well, it was -- you know, we were at this- at this concert and yeah",Positive,test,2
+1088,Ses02M_impro03_M015,so I-I talked to some of the crew before hand and-,Positive,validation,2
+1089,Ses02M_impro03_M017,I-I did.,Positive,validation,2
+1090,Ses02M_impro03_M021,"I know, so",Positive,train,2
+1091,Ses02M_impro03_M027,I got to freak her out.,Positive,train,2
+1092,Ses02M_impro03_M028,"Yea, that way she was guaranteed that she could not say no.",Positive,train,2
+1093,Ses02M_impro03_M031,"Oh yes, they - they you know they love her and so I mean...",Positive,test,2
+1094,Ses02M_impro04_F000,"Oh, it will, obviously you know. But I know it's something - I don't know, you never really think about it happening, like before hand.",Neutral,train,1
+1095,Ses02M_impro04_F001,"Sure. Oh, yes.",Neutral,train,1
+1096,Ses02M_impro04_F003,Hah.,Neutral,train,1
+1097,Ses02M_impro04_F007,So how you feeling?,Neutral,train,1
+1098,Ses02M_impro04_F008,"You've been doing a lot of work for it, right?",Neutral,train,1
+1099,Ses02M_impro04_F009,"you know you shouldn't give yourself a hard time for that, it's the best you can.",Negative,train,0
+1100,Ses02M_impro04_F010,You are persistence. I mean that's important. that's,Neutral,train,1
+1101,Ses02M_impro04_F016,"Well, you're talented so keep that in mind, you know, you shouldn't give yourself too hard of a time.",Neutral,train,1
+1102,Ses02M_impro04_M014,I'm sorry.,Negative,test,0
+1103,Ses02M_impro04_M019,"That's- I mean. There are more factors then just whether you're good or not, you know what I mean like",Negative,train,0
+1104,Ses02M_impro04_M022,"Maybe you should take a little break from it, but I don't think you should stop.",Negative,train,0
+1105,Ses02M_impro05_F003,"I don't know, it's just not, I don't know - I don't know what to do really, you know, I'm just thinking",Neutral,train,1
+1106,Ses02M_impro05_F005,this doesn't happen to a normal person.,Neutral,train,1
+1107,Ses02M_impro05_F006,Right. Thanks for talking to me.,Neutral,test,1
+1108,Ses02M_impro05_F007,"Actually I'm looking here at the information, the flight that you were on we had some trouble with some of the baggage, it looks like a few peoples' bags didn't make it through. Um, so-",Neutral,train,1
+1109,Ses02M_impro05_F012,"Well, sometimes it's just late baggage or misplaced baggage and it comes out but it seems to be here and just I'm reading off of this that",Neutral,validation,1
+1110,Ses02M_impro05_F013,Uh- it didn't make it into the second plane so it looks like there - they don't actually know what happened to it.,Neutral,train,1
+1111,Ses02M_impro05_F014,"Um, well, sometimes there is just difficulties with loading on to the plane. Uh- There can be a theft or uh- some sort of you know mishap with a cart or something.",Neutral,train,1
+1112,Ses02M_impro05_F017,"Sometimes it gets stolen, sometimes it gets misplaced on another plane and",Neutral,train,1
+1113,Ses02M_impro05_F023,"they - they, it gets shipped to somewhere else and then it's stuck somewhere and then we have no way of tracking that.",Neutral,train,1
+1114,Ses02M_impro05_F026,So we'll- what we'll do,Neutral,train,1
+1115,Ses02M_impro05_M002,"We have very tight security but we -uh- there are times when we just can't uh make sure there aren't absolutely no human error, you know",Neutral,train,1
+1116,Ses02M_impro05_M003,"Well, it's- it's just sort of help with the fact uh that you lost some of your possessions and we rather do that than-",Neutral,validation,1
+1117,Ses02M_impro05_M013,"we can give you fifty dollar to sort of make up for it, to compensate, and we can definitely let you know if it shows up but likely, more than likely-",Negative,train,0
+1118,Ses02M_impro05_M016,"Yes, yes, it's gone around like you know twenty times. It's been about a half hour.",Negative,test,0
+1119,Ses02M_impro05_M018,Okay. So what-what do I have to get you know,Negative,train,0
+1120,Ses02M_impro05_M025,"But we have the tags on. I mean like it wouldn't you know, if it got stuck somewhere it's like well this is nobodies bag I mean maybe you know look on the tag and",Negative,train,0
+1121,Ses02M_impro05_M026,"Theft? Don't you know like all these people that are work - you keep like an eye on them, how can they get away with-",Negative,train,0
+1122,Ses02M_impro06_F003,you don't realize the stuff that I've got in that - I really need to get the suitcase okay,Negative,train,0
+1123,Ses02M_impro06_F005,The a- what? Talking about a core they can't afford it? I mean-,Negative,test,0
+1124,Ses02M_impro06_F006,I mean you're not helping me here. What do I have to do here? Do I need to sue the airline company is that what I should do,Negative,train,0
+1125,Ses02M_impro06_F007,"Oh, man. I'm so sorry.",Negative,train,0
+1126,Ses02M_impro06_F008,Yeah.,Negative,train,0
+1127,Ses02M_impro06_F009,Totally.,Negative,train,0
+1128,Ses02M_impro06_F010,Yeah,Negative,train,0
+1129,Ses02M_impro06_F013,"Yes. Well, at least you have a lot of good memories.",Negative,train,0
+1130,Ses02M_impro06_F014,"She really cared about you, you know.",Negative,train,0
+1131,Ses02M_impro06_F015,And she was,Negative,test,0
+1132,Ses02M_impro06_F016,Are you going to be okay?,Negative,train,0
+1133,Ses02M_impro06_F017,"It's going to be okay, I promise.",Negative,validation,0
+1134,Ses02M_impro06_F018,Sure,Negative,train,0
+1135,Ses02M_impro06_M000,you shouldn't be alone,Negative,test,0
+1136,Ses02M_impro06_M001,Yes.,Negative,train,0
+1137,Ses02M_impro06_M003,Yes.,Negative,train,0
+1138,Ses02M_impro06_M004,Kathy died last night.,Negative,train,0
+1139,Ses02M_impro06_M005,"yeah, I mean, you know, it was a -",Negative,train,0
+1140,Ses02M_impro06_M008,"I mean at least she was home, she wasn't in the hospital anymore,",Negative,train,0
+1141,Ses02M_impro06_M012,"She was with- yeah She was with Gary, and he said that she was just sitting there and went to sleep, closed her eyes, and that was it.",Negative,train,0
+1142,Ses02M_impro06_M014,"Yes. I mean, it's not as rough on me as it is on him but",Negative,train,0
+1143,Ses02M_impro06_M017,"It's just that- I don't know, it's sort it's sort- of a weird thing you know",Negative,validation,0
+1144,Ses02M_impro06_M018,so loving everybody you know.,Negative,train,0
+1145,Ses02M_impro06_M019,We were all going take a trip to Europe you know.,Negative,validation,0
+1146,Ses02M_impro06_M020,"just makes it that much harder to deal 'cause as much as you want to, you know, make her better, see her not in any pain, it's like, just I don't know, just has a mind of its own.",Negative,train,0
+1147,Ses02M_impro06_M022,Then she's gone.,Negative,train,0
+1148,Ses02M_impro06_M023,"Well, you know I appreciate you coming over and talking to me, I mean it definitely helps",Negative,train,0
+1149,Ses02M_impro07_F014,to talk to somebody but,Positive,test,2
+1150,Ses02M_impro07_F015,Ah.,Positive,validation,2
+1151,Ses02M_impro07_F016,Thank you.,Positive,train,2
+1152,Ses02M_impro07_F017,No but that's an awesome school. That's so cool.,Positive,train,2
+1153,Ses02M_impro07_F018,"Oh, totally totally.",Positive,train,2
+1154,Ses02M_impro07_F019,you get to like be a part of that.,Positive,test,2
+1155,Ses02M_impro07_F020,"Like you get to be a part of that. Like the, like the- Like a cult.",Positive,train,2
+1156,Ses02M_impro07_F021,"[LAUGHTER] like a- like a- [LAUGHTER] No, but I mean like everywhere you go people know who you are.",Positive,validation,2
+1157,Ses02M_impro07_F024,So you know what you are going to do there?,Positive,train,2
+1158,Ses02M_impro07_F028,"Okay. They have a lot of good schools, right?",Positive,train,2
+1159,Ses02M_impro07_F029,"Yes, it's intimate.",Positive,validation,2
+1160,Ses02M_impro07_M009,I will do the best I can.,Positive,train,2
+1161,Ses02M_impro07_M010,"and we'll explore and you going to have such a good time, you're going to fit in so well, it's going to be awesome",Positive,test,2
+1162,Ses02M_impro07_M011,So Congratulations. That's awesome.,Positive,test,2
+1163,Ses02M_impro07_M023,it was you know I wasn't too sure I mean you know it was kind of last minute for like the application,Positive,train,2
+1164,Ses02M_impro07_M024,and everything like but,Positive,test,2
+1165,Ses02M_impro07_M025,"it was good, yeah. I mean-",Positive,train,2
+1166,Ses02M_impro07_M026,"What's that? ahh Well, you know I'm I'm thinking um I'm leaning towards like communications",Positive,validation,2
+1167,Ses02M_impro07_M030,"I-I don't know. Kind of a broad,",Positive,train,2
+1168,Ses02M_impro08_F006,"yeah, I mean a lot-a lot of good stuff oh, yeah, I mean it's- it's just a really good school; so really, whatever I pick I can't go wrong. I mean I'm just",Neutral,test,1
+1169,Ses02M_impro08_F008,"I'm looking forward to getting there. I mean, God, the campus is cool, you know it's like all just very confined I mean just you know it's a college campus you know it's like",Neutral,validation,1
+1170,Ses02M_impro08_F019,"Oh, alright.",Neutral,test,1
+1171,Ses02M_impro08_F023,"Sorry. Okay. Um-, yes",Positive,train,2
+1172,Ses02M_impro08_F024,"Uh, I don't know where it came from and it's actually quite large, and I don't have the money for it so",Positive,train,2
+1173,Ses02M_impro08_F025,I did buy one thing on ebay I don't know that might-,Neutral,validation,1
+1174,Ses02M_impro08_F028,Great.,Positive,train,2
+1175,Ses02M_impro08_F030,Yeah.,Positive,validation,2
+1176,Ses02M_impro08_M003,"Right, right.",Neutral,train,1
+1177,Ses02M_impro08_M009,Well thank you so much. You've been very helpful. I really appreciate it.,Neutral,train,1
+1178,Ses02M_impro08_M011,Thank you very much bye.,Neutral,validation,1
+1179,Ses02M_impro08_M012,"I- I'll give you a little hint, next time if it asks if you're on a rotary phone you know, just stay on the line instead of - instead of hitting one or two to say if you're like on a touch tone",Neutral,validation,1
+1180,Ses02M_impro08_M014,"All right. Well, you know that's, that's what we have all of our protection plans for and everything like that so I mean it's",Neutral,train,1
+1181,Ses02M_impro08_M019,"Yes, we'll get- we'll get rid of it right now. I mean just we're going to have to have you, um, submit something you know, we're going to have to have you mail something in for us, okay.",Neutral,validation,1
+1182,Ses02M_impro08_M020,"So- So you can um find that application. You have the Internet, you can go to our website.",Neutral,train,1
+1183,Ses02M_impro08_M021,"We could mail it to you as well, but-",Neutral,train,1
+1184,Ses02M_impro08_M027,"Uh, I mean have you been shopping around on the Internet and stuff? I mean that you gave-",Neutral,train,1
+1185,Ses02M_impro08_M029,"Uh-ha, I mean usually sites are pretty well protected but sometimes I mean information gets out, so",Neutral,train,1
+1186,Ses02M_impro08_M030,so it is a little a little hard in that situation if you want -- you know you can -um- we can- we can issue another credit card.,Neutral,train,1
+1187,Ses02M_script01_1_F023,And you know just I mean be careful in the future if um,Neutral,train,1
+1188,Ses02M_script01_1_F025,"and never you know, give it to anyone out, never even give out your number to any like unreliable company that you haven't heard of or anything like that, all right? Because, um, we want to- we definitely want to help you out, but-",Neutral,test,1
+1189,Ses02M_script01_1_F026,you know it gets- it gets difficult you know so Alright.,Negative,validation,0
+1190,Ses02M_script01_1_F027,You're a considerate fellow. There's nothing wrong with that.,Negative,test,0
+1191,Ses02M_script01_1_F032,How do you know she'll marry you? Maybe she feels the same way your father does.,Negative,train,0
+1192,Ses02M_script01_1_F033,"Trouble is you don't see enough women, you never did.",Negative,train,0
+1193,Ses02M_script01_1_F034,I just don't see why it has to be Annie.,Negative,validation,0
+1194,Ses02M_script01_1_F035,What the hell is this?,Negative,train,0
+1195,Ses02M_script01_1_F036,"What the hell is this, are you crazy?",Negative,validation,0
+1196,Ses02M_script01_1_F037,What about the business? What is this?,Negative,test,0
+1197,Ses02M_script01_1_F041,Must you be inspired?,Negative,test,0
+1198,Ses02M_script01_1_M003,"Tell me, you'd leave the business?",Negative,validation,0
+1199,Ses02M_script01_1_M004,"Well, you don't want to think like that.",Negative,validation,0
+1200,Ses02M_script01_1_M005,"Yea, I can see that.",Negative,train,0
+1201,Ses02M_script01_1_M012,I don't know. When it cracked he ran into the house and cried in the kitchen.,Negative,validation,0
+1202,Ses02M_script01_1_M013,No. I figured it was best to leave him alone.,Negative,train,0
+1203,Ses02M_script01_1_M018,I could hear him right through the floor in my room.,Neutral,validation,1
+1204,Ses02M_script01_1_M021,We've got to say it to him.,Negative,train,0
+1205,Ses02M_script01_1_M024,"For God sakes it's been three years, nobody comes back after three years, that's insane.",Negative,validation,0
+1206,Ses02M_script01_1_M025,I'm going to ask her to marry me.,Negative,validation,0
+1207,Ses02M_script01_1_M028,See it isn't just my business-,Negative,train,0
+1208,Ses02M_script01_1_M035,"I don't know why but every time I reach out for something that I really want, I have to pull back 'cause someone else will suffer. My whole bloody life, time after time after time.",Negative,test,0
+1209,Ses02M_script01_1_M036,To hell with that.,Negative,train,0
+1210,Ses02M_script01_1_M037,"I don't know, I'll find out. Then we'll trash it out with dad, right? Mom, don't avoid me.",Negative,train,0
+1211,Ses02M_script01_1_M038,"If I can't do that here well, then I'll have to get out.",Negative,train,0
+1212,Ses02M_script01_1_M039,"I'll get out. I'll get married and go live some place else, maybe New York.",Negative,train,0
+1213,Ses02M_script01_1_M041,"I've been a good son too long a good sucker, I'm through with it.",Negative,train,0
+1214,Ses02M_script01_2_F000,The business? The business doesn't inspire me.,Negative,train,0
+1215,Ses02M_script01_2_F001,"Yes, I like it and hour a day. If I'm going to grub for money all day long, at least in the evening I want it beautiful.",Negative,validation,0
+1216,Ses02M_script01_2_F002,"Yes, on this I would.",Negative,train,0
+1217,Ses02M_script01_2_F003,Why did he invite her here?,Negative,train,0
+1218,Ses02M_script01_2_F005,She's been in New York three and half years why all of a sudden-,Negative,test,0
+1219,Ses02M_script01_2_F006,Nobody comes seven hundred miles just to see.,Negative,train,0
+1220,Ses02M_script01_2_F010,He's not going to marry her.,Negative,train,0
+1221,Ses02M_script01_2_F013,What's going on here Joe?,Negative,validation,0
+1222,Ses02M_script01_2_M004,-She's not his girl Joe; she knows she's not.,Neutral,test,1
+1223,Ses02M_script01_2_M016,"I want you to act like he's coming back, both of you. Don't you think I haven't noticed since he invited her, I won't stand for any nonsense",Negative,train,0
+1224,Ses02M_script01_2_M017,I need you to believe with me; I can't stand all alone.,Negative,train,0
+1225,Ses02M_script01_3_F001,How do you know he's even thinking of it?,Positive,train,2
+1226,Ses02M_script01_3_F002,"What does that mean, me above all?",Positive,train,2
+1227,Ses02M_script01_3_F003,Look at you -- look at you shaking.,Positive,train,2
+1228,Ses02M_script01_3_F007,It's all right. It's a good thing.,Positive,validation,2
+1229,Ses02M_script01_3_F009,"You know, it's lovely here, the air is sweet.",Positive,validation,2
+1230,Ses02M_script01_3_F012,"No, not sorry. But, um. But I'm not gonna stay.",Positive,train,2
+1231,Ses02M_script01_3_F013,"I knew they would, your mother anyway.",Positive,test,2
+1232,Ses02M_script01_3_F019,I guess this is why I came.,Negative,test,0
+1233,Ses02M_script01_3_F021,"Well, you started to write me",Negative,test,0
+1234,Ses02M_script01_3_F025,Every day since.,Negative,train,0
+1235,Ses02M_script01_3_F026,"Well, what's wrong? I mean, even in your letters there was some--something ashamed.",Negative,train,0
+1236,Ses02M_script01_3_F027,It wouldn't work this way.,Negative,train,0
+1237,Ses02M_script01_3_F028,Do you still feel that way?,Positive,train,2
+1238,Ses02M_script01_3_M000,"'Cause you mustn't feel that way. Because you have a right to everything you have, Chris. Everything, you understand that? Me too.",Positive,train,2
+1239,Ses02M_script01_3_M021,"I mean, and your money, there's- there's nothing wrong with your money. I mean, your father put hundreds of planes in the air. A man should be paid for that.",Negative,test,0
+1240,Ses02M_script01_3_M022,What'll I do with a fortune?,Negative,train,0
+1241,Ses02M_script01_3_M025,"I know, it went out of style, didn't it?",Negative,train,0
+1242,Ses02M_script01_3_M026,No. Nothing like that.,Negative,train,0
+1243,Ses02M_script01_3_M027,"Yeah, I suppose I have been. But it's going from me.",Negative,train,0
+1244,Ses02M_script01_3_M028,"Well, I lost them.",Negative,train,0
+1245,Ses02M_script01_3_M029,Just about all.,Negative,test,0
+1246,Ses02M_script01_3_M030,It takes some time for a guy to toss that off. 'Cause they weren't just men.,Negative,test,0
+1247,Ses02M_script01_3_M031,"For instance, this one time, it had been raining several days and this kid came to me and gave me his last pair of dry socks. I put them in pocket. It's only a little thing, but those are the kind of guys I had.",Negative,train,0
+1248,Ses02M_script01_3_M033,"They didn't die, they killed themselves for each other. I mean that exactly. I mean, a little more selfish and they'd have been here today.",Negative,train,0
+1249,Ses02M_script02_1_F001,"I got this idea watching 'em go down. Everything was being destroyed, see, but it seemed that one new thing was made. A sort of responsibility. Man for man. You know what I mean?",Neutral,train,1
+1250,Ses02M_script02_1_F006,"To show that, to bring that onto the Earth again, like some kind of monument and everyone can feel it standing behind him and it would make a difference to him.",Neutral,test,1
+1251,Ses02M_script02_1_F016,"And I felt what you said, ashamed somehow 'cause nobody had changed at all. It seemed to make suckers out of a lot of guys. I felt wrong to be alive to open the new bank book, drive the new car, see the new refrigerator.",Negative,validation,0
+1252,Ses02M_script02_1_F018,What flashlight?,Negative,train,0
+1253,Ses02M_script02_1_F020,I'm cold.,Neutral,train,1
+1254,Ses02M_script02_2_F005,I'm just not.,Negative,train,0
+1255,Ses02M_script02_2_F006,"Last year you'll also remember our shoes got wet, I got sand in my panties, you got a sore throat, we got into a big fight over nothing, and we didn't see the Grunions.",Negative,train,0
+1256,Ses02M_script02_2_F011,That's the wind.,Negative,train,0
+1257,Ses02M_script02_2_F013,Goddamn it Augie don't ask me that. I hate it when you ask me that. You always ask me that. It's insulting.,Negative,validation,0
+1258,Ses02M_script02_2_F015,We just have different ideas of what this evening is supposed to look like.,Negative,train,0
+1259,Ses02M_script02_2_F016,I mean I feel like my whole life is going to be spent standing on the beach waiting for the fish to show up with my eyes open and my hands clasped expectantly and the fish won't show up.,Negative,train,0
+1260,Ses02M_script02_2_F017,"I did want to see them, I always do. I mean I keep thinking that this is going to be the time and it never is.",Negative,train,0
+1261,Ses02M_script02_2_F018,Do you remember the first time we came to see it? It was about four years ago right after we got married.,Negative,train,0
+1262,Ses02M_script02_2_F019,"We thought I was pregnant and we opened a bottle of champagne but no glasses, you asked me to dance, we kicked off our shoes and you popped the cork.",Negative,test,0
+1263,Ses02M_script02_2_F020,And when we were dancing you said the softest most intimate things to me right into my ears so I could feel them as much as hear them,Negative,train,0
+1264,Ses02M_script02_2_F021,"and I remember thinking that this is it you know. At last, at last I am as happy as I am supposed to be",Negative,validation,0
+1265,Ses02M_script02_2_F022,"Just dancing barefoot in the sand, drinking champagne out of the bottle.",Negative,validation,0
+1266,Ses02M_script02_2_F031,I'd rather not remember some things. I would rather not hope for some things.,Negative,train,0
+1267,Ses02M_script02_2_F034,No.,Negative,test,0
+1268,Ses02M_script02_2_F037,No.,Positive,test,2
+1269,Ses02M_script02_2_F038,"Well, but this isn't anything like I thought anything would be like.",Negative,train,0
+1270,Ses02M_script02_2_F042,"I know that you meant this to be special and nice, and there's the sand and the moon and everything but I just couldn't help thinking about being somewhere else.",Positive,train,2
+1271,Ses02M_script02_2_F044,Don't be ridiculous. I mean don't you know that?,Negative,test,0
+1272,Ses02M_script02_2_F045,"You're the one who probably wishes he was with someone else, someone who knew how to enjoy herself and didn't take everything so hard.",Positive,train,2
+1273,Ses02M_script02_2_M002,"Well, I guess we don't need glasses.",Neutral,train,1
+1274,Ses02M_script02_2_M021,"Augie, I'm sorry.",Neutral,train,1
+1275,Ses02M_script02_2_M023,Or not.,Neutral,test,1
+1276,Ses02M_script02_2_M025,Certainly it's not. Slightly exaggerated scientific fact.,Neutral,test,1
+1277,Ses02M_script02_2_M029,"Yea. Okay, sure, no. I see. Listen, you want to dance?",Negative,train,0
+1278,Ses02M_script02_2_M037,Take off our shoes?,Negative,train,0
+1279,Ses02M_script02_2_M038,Get married again?,Negative,validation,0
+1280,Ses02M_script02_2_M040,"Well welcome to the human race, all right. Do you think this is what I had in mind when I proposed? You think I had this great fantasy going that four years down the road we'd come to the beach and yell at each other over fish?",Positive,train,2
+1281,Ses02M_script02_2_M041,Maybe if you were with somebody else too.,Positive,train,2
+1282,Ses02M_script02_2_M042,"No, I know. But still, I know I don't make you happy.",Positive,train,2
+1283,Ses02M_script02_2_M045,"Now that you mention it. No, I don't.",Positive,train,2
+1284,Ses02M_script02_2_M046,I don't know it seemed like a pretty good spot to me. Look at the moon - view the moon view I got from here.,Positive,test,2
+1285,Ses02M_script03_1_F003,What have we got here?,Positive,test,2
+1286,Ses02M_script03_1_F006,"Shh, if we're very quiet the fish might come.",Positive,train,2
+1287,Ses02M_script03_1_F007,Or not.,Positive,train,2
+1288,Ses02M_script03_1_F015,Now and always sweet.,Negative,train,0
+1289,Ses02M_script03_1_F021,Behave exquisitely.,Positive,train,2
+1290,Ses02M_script03_1_F022,"Yes, I should probably to a court curtsey.",Positive,validation,2
+1291,Ses02M_script03_1_F023,"Oh dear, should we like that?",Positive,train,2
+1292,Ses02M_script03_1_F024,Which particular one?,Positive,train,2
+1293,Ses02M_script03_1_F025,"Oh Charles, that was his name Charles. It did wiggle so beautifully.",Positive,train,2
+1294,Ses02M_script03_1_F027,I know you did. You threw it out of the window into the Grand Canal; I don't think I'll ever forgive you for that.,Positive,test,2
+1295,Ses02M_script03_1_F028,It went on intermittently for days.,Positive,train,2
+1296,Ses02M_script03_1_F029,It burned my comb too and all the towels in the bathroom.,Positive,train,2
+1297,Ses02M_script03_1_M007,The manager came in and found us rolling around on the floor biting and scratching like panthers.,Positive,train,2
+1298,Ses02M_script03_1_M008,"Oh it was ridiculous, completely ridiculous.",Positive,train,2
+1299,Ses02M_script03_1_M009,And very much sillier.,Negative,train,0
+1300,Ses02M_script03_1_M010,With the most perfect poise.,Positive,validation,2
+1301,Ses02M_script03_1_M011,"Things that ought to matter dreadfully don't matter at all when one's is happy, do they?",Positive,test,2
+1302,Ses02M_script03_1_M024,Oh darling don't say that.,Positive,validation,2
+1303,Ses02M_script03_1_M029,Meaning that sacred and beautiful thing love?,Positive,validation,2
+1304,Ses02M_script03_1_M031,What does it all mean that's what I ask- that's what I ask myself in my ceaseless quest for ultimate truth? Good God what does it all mean?,Positive,train,2
+1305,Ses02M_script03_2_F002,You remember that awful scene we had in Venice?,Neutral,train,1
+1306,Ses02M_script03_2_F003,"That was a rouser, wasn't it?",Neutral,train,1
+1307,Ses02M_script03_2_F007,I'll never forget his face.,Neutral,train,1
+1308,Ses02M_script03_2_F014,No it wasn't. It was very pretty I still have it and I wear it often.,Negative,test,0
+1309,Ses02M_script03_2_F019,"No I didn't, you worked the whole thing up in your jealous imagination.",Negative,test,0
+1310,Ses02M_script03_2_F023,"Well, if you hadn't been so nosey and suspicious you never wouldn't have known anything about it.",Negative,train,0
+1311,Ses02M_script03_2_F028,What?,Negative,train,0
+1312,Ses02M_script03_2_F035,Be quiet.,Negative,train,0
+1313,Ses02M_script03_2_F036,I don't care. Do you understand? I don't care. I don't care if they bark or roll about like hoops.,Negative,train,0
+1314,Ses02M_script03_2_F037,Oh be quiet.,Negative,train,0
+1315,Ses02M_script03_2_F038,You are far too temperamental. Try to control yourself.,Negative,validation,0
+1316,Ses02M_script03_2_F039,Stop it. Stop it. I hate you.,Negative,train,0
+1317,Ses02M_script03_2_F040,"Listen indeed. I'm sick and tired of listening to you, damn sadistic bully.",Negative,validation,0
+1318,Ses02M_script03_2_F041,"Stop it. Stop it. I hate you, do you hear? You're overbearing and conceited and utterly impossible.",Negative,test,0
+1319,Ses02M_script03_2_F042,"This is the end, do you hear? The end finally and forever.",Negative,train,0
+1320,Ses02M_script03_2_M001,Oh yes I am.,Negative,train,0
+1321,Ses02M_script03_2_M003,"Yes, I am. Let go of me you're cruel fiend and I hate and loathe you. Thank God I realized who you really are before I would ever, ever marry you again. I would never marry you again. I'd rather die in torment.",Negative,train,0
+1322,Ses02M_script03_2_M005,You're a beast. I hate you. Stop it. Stop it.,Negative,validation,0
+1323,Ses02M_script03_2_M007,I knew nothing of the sort. You took presents from him.,Negative,train,0
+1324,Ses02M_script03_2_M010,You went out of your way to torture me over Peter Burden.,Neutral,train,1
+1325,Ses02M_script03_2_M026,You let him kiss you; you said you did.,Negative,train,0
+1326,Ses02M_script03_2_M027,What about me?,Negative,train,0
+1327,Ses02M_script03_2_M031,I have a little I think.,Negative,test,0
+1328,Ses02M_script03_2_M032,What riotous time you must have had.,Neutral,test,1
+1329,Ses02M_script03_2_M033,"No restraint at all, very enjoyable, never had much anyhow.",Neutral,test,1
+1330,Ses02M_script03_2_M039,"We can get a good little debate going about that, don't you think? Intemperate tots.",Negative,train,0
+1331,Ses02M_script03_2_M040,All right. I will.,Negative,test,0
+1332,Ses02M_script03_2_M041,Better turn that off I think.,Negative,train,0
+1333,Ses02M_script03_2_M042,Turn it off.,Negative,train,0
+1334,Ses02M_script03_2_M043,"Amanda, listen. Listen.",Negative,train,0
+1335,Ses02M_script03_2_M044,Very amusing indeed.,Negative,train,0
+1336,Ses02M_script03_2_M045,"You're a vile tempered, loose living, wicked little beast and I hope I never see you again as long as I live.",Negative,train,0
+1337,Ses02M_script03_2_M046,You're not going like this.,Negative,test,0
+1338,Ses02M_script03_2_M047,You're not.,Negative,validation,0
+1339,Ses03F_impro01_F002,What's wrong?,Neutral,test,1
+1340,Ses03F_impro01_M001,"Oh, um-",Neutral,train,1
+1341,Ses03F_impro01_M002,"You didn't fill this out right. All right. It says that you have to fill out the back sheet of this, but you filled out the yellow sheet of it.",Neutral,test,1
+1342,Ses03F_impro01_M004,She- she probably doesn't even work here.,Neutral,validation,1
+1343,Ses03F_impro02_F001,Yeah?,Neutral,test,1
+1344,Ses03F_impro02_F008,And Uh- Yeah. Uh- They're going to need um- more nurses on call for uh- to go overseas to help out with the war.,Negative,train,0
+1345,Ses03F_impro02_F012,yeah,Negative,test,0
+1346,Ses03F_impro02_F015,"Yeah, and uh--",Negative,test,0
+1347,Ses03F_impro02_F018,"Honey, I'm going to come back. It's not like that.",Negative,train,0
+1348,Ses03F_impro02_F019,But it- it is for a year.,Negative,train,0
+1349,Ses03F_impro02_F023,"Babe, I love you.",Negative,test,0
+1350,Ses03F_impro02_F027,"Wait, you can write me and as you know, send me pictures.",Negative,train,0
+1351,Ses03F_impro02_F028,What do you mean?,Negative,validation,0
+1352,Ses03F_impro02_F032,I will come back.,Negative,train,0
+1353,Ses03F_impro02_F034,we'll have all the money that we ever needed.,Negative,validation,0
+1354,Ses03F_impro02_F035,And- And then I'll stop working and- I'll stay home with the baby.,Negative,validation,0
+1355,Ses03F_impro02_F036,It's all I ever knew how to do. I can't quit now.,Negative,train,0
+1356,Ses03F_impro02_F038,Don't do that to me.,Negative,train,0
+1357,Ses03F_impro02_F039,"It's hard enough already, Brian, I can't.",Negative,train,0
+1358,Ses03F_impro02_F041,"I didn't expect this to happen. I never planned for this. Some things you just don't plan for, you know.",Negative,train,0
+1359,Ses03F_impro02_F043,I'm so sorry.,Negative,test,0
+1360,Ses03F_impro02_M001,She's doing fine. She just took her first steps today actually. I videotaped it for you so you can watch it.,Positive,validation,2
+1361,Ses03F_impro02_M017,You can't postpone it?,Negative,train,0
+1362,Ses03F_impro02_M018,I don't know if I can handle you going another year.,Negative,test,0
+1363,Ses03F_impro02_M020,I can't be that strong. A whole year.,Negative,train,0
+1364,Ses03F_impro02_M025,I don't want the money. I want-you here,Negative,train,0
+1365,Ses03F_impro02_M027,If your life is going to be in danger and this family is going to be in danger we don't need the job. We'll find the money.,Negative,test,0
+1366,Ses03F_impro02_M029,"How is she going to feel the first year in school, no mom.",Negative,train,0
+1367,Ses03F_impro02_M031,"All right, then.",Negative,validation,0
+1368,Ses03F_impro03_F014,He scored points.,Positive,train,2
+1369,Ses03F_impro03_F015,"Oh, yeah. Everyone--yeah. And people--friends of ours were in the audience, I didn't know about, like family members.",Positive,test,2
+1370,Ses03F_impro03_F018,"like a loser, I cried.",Positive,train,2
+1371,Ses03F_impro03_F019,"But, I don't know, I--it's so weird to think I'm marrying somebody 'cause I feel so young, you know?",Positive,test,2
+1372,Ses03F_impro03_F020,No. No plans. or any- and probably,Positive,test,2
+1373,Ses03F_impro03_F021,"like I think I want to get married--I want to have two weddings. One here, then one in Europe.",Positive,validation,2
+1374,Ses03F_impro03_M015,"No, you deserve to cry. I mean, tears of happiness.",Positive,train,2
+1375,Ses03F_impro04_F022,it's not funny. I just don't know what I'm going to do.,Negative,train,0
+1376,Ses03F_impro04_F024,Yeah,Negative,validation,0
+1377,Ses03F_impro04_M000,"Hey, you just got to keep on going.",Neutral,validation,1
+1378,Ses03F_impro04_M002,Russel Crowe wasn't forty until he got his big stuff.,Neutral,train,1
+1379,Ses03F_impro04_M003,"If you really want to do it-I mean,",Neutral,test,1
+1380,Ses03F_impro04_M006,we're just pooling our funds together.,Neutral,train,1
+1381,Ses03F_impro04_M009,"Oh my God, Anna, you're still young. Don't even think about that.",Neutral,train,1
+1382,Ses03F_impro04_M010,"You're only twenty five, okay? Some people don't start until they're thirty five.",Neutral,train,1
+1383,Ses03F_impro04_M013,See? So you can't just quit now.,Neutral,train,1
+1384,Ses03F_impro04_M014,Have you been going to auditions and stuff?,Neutral,validation,1
+1385,Ses03F_impro04_M017,Maybe you could start teaching. I don't know.,Neutral,validation,1
+1386,Ses03F_impro04_M019,"Close to thirty. Oof, it's going to be tough.",Neutral,train,1
+1387,Ses03F_impro05_F002,"Where? I don't know. The lost and found. What do you mean, lost and found?",Negative,test,0
+1388,Ses03F_impro05_F007,"What do you mean, if it shows up? No, I need it now. I have my keys, I have my wallet, I have my money. I have thousands and thousands of dollars worth of stuff in there.",Negative,train,0
+1389,Ses03F_impro05_F008,Not to mention I have my work in there.,Negative,train,0
+1390,Ses03F_impro05_F015,"No, they said I couldn't lock it.",Negative,train,0
+1391,Ses03F_impro05_F016,Give me--I'm going to talk to your supervisor. Give me your supervisor. I want to talk to your supervisor right now.,Negative,validation,0
+1392,Ses03F_impro05_M003,"Oh, not--we didn't lose it; maybe the airport lost it. Maybe someone stole it.",Neutral,train,1
+1393,Ses03F_impro05_M011,"I think that's kind of stupid, that you put a hundred thousands of dollars in the bag.",Neutral,train,1
+1394,Ses03F_impro05_M013,"Okay, let me get him.Oh, guess who the supervisor is? It's me.",Neutral,train,1
+1395,Ses03F_impro06_F000,Okay.,Negative,validation,0
+1396,Ses03F_impro06_F005,"They thought he got--would get better and he did, and then it just- things turned bad.",Negative,validation,0
+1397,Ses03F_impro06_F006,"Turned around for the worst, you know.",Negative,test,0
+1398,Ses03F_impro06_F008,I loved that boy.,Negative,train,0
+1399,Ses03F_impro06_F009,"We did everything together, you know.",Negative,validation,0
+1400,Ses03F_impro06_F010,"It's weird, I think. I feel so alone, you know? What am I going to do now? Now that he's gone.",Negative,test,0
+1401,Ses03F_impro06_F011,He's so young. It seems so--,Negative,train,0
+1402,Ses03F_impro06_F014,"Kind of a whole year. I mean, he suffered with this, this monster, this thing, this disease.",Negative,train,0
+1403,Ses03F_impro06_F015,"I know. He was, he had so much going for him.",Negative,train,0
+1404,Ses03F_impro06_F016,"So handsome, so young, so gifted.",Negative,train,0
+1405,Ses03F_impro06_F021,"It's weird, I kind of feel like part of me is gone now, you know?",Negative,validation,0
+1406,Ses03F_impro06_F023,"He was like, he was like my brother, you know.",Negative,validation,0
+1407,Ses03F_impro06_F024,He was my brother.,Negative,train,0
+1408,Ses03F_impro06_F025,"Just seems so unfair, is the way it is.",Negative,validation,0
+1409,Ses03F_impro06_F027,Kelly. Kelly Uveny.,Negative,validation,0
+1410,Ses03F_impro06_F028,They talked about getting married and--,Negative,validation,0
+1411,Ses03F_impro06_F033,"Joe, do you think he knew I loved him?",Negative,test,0
+1412,Ses03F_impro06_F034,"I never told him, I love you, but-",Negative,train,0
+1413,Ses03F_impro06_F035,I loved him so much.,Negative,train,0
+1414,Ses03F_impro06_M002,"I didn't know him, Tricia, but uh- I heard that he was a great man.",Negative,test,0
+1415,Ses03F_impro06_M003,yeah.,Neutral,validation,1
+1416,Ses03F_impro06_M005,And he just got that baseball scholarship.,Negative,test,0
+1417,Ses03F_impro06_M006,How's his parents doing?,Negative,test,0
+1418,Ses03F_impro06_M008,What was her name?,Negative,validation,0
+1419,Ses03F_impro06_M014,I don't know.,Negative,test,0
+1420,Ses03F_impro06_M015,I don't know if Benny was smart like that- but-,Negative,train,0
+1421,Ses03F_impro06_M016,I'm sure he loved you too. He just didn't know it.,Negative,train,0
+1422,Ses03F_impro07_F001,"Uh-, So I got some good news.",Positive,train,2
+1423,Ses03F_impro07_F004,I have some better news than that.,Positive,train,2
+1424,Ses03F_impro07_F005,"Yes, What would you want more than anything in this world?",Positive,validation,2
+1425,Ses03F_impro07_F012,"and so, I mean, I got in.",Positive,train,2
+1426,Ses03F_impro07_F013,So now I can stay here and now we can party. I know.,Positive,train,2
+1427,Ses03F_impro07_F017,Yeah. It's really cool.,Positive,train,2
+1428,Ses03F_impro07_F019,Top five in the nation.,Positive,train,2
+1429,Ses03F_impro07_F023,"Oh man, I'm so excited. So much to do.",Positive,train,2
+1430,Ses03F_impro07_F025,I'm just so excited to start my life.,Positive,train,2
+1431,Ses03F_impro07_F031,That's going to--that'll be reserved for somebody else.,Neutral,train,1
+1432,Ses03F_impro07_F032,[LAUGHTER] Hello? I am not.,Positive,test,2
+1433,Ses03F_impro07_F034,"[LAUGHTER]. No, you'd get used to it.",Positive,validation,2
+1434,Ses03F_impro07_F035,"[LAUGHTER]. Oh, Joe, I'm so happy.",Positive,train,2
+1435,Ses03F_impro07_M000,"Hey, Isabella.",Neutral,train,1
+1436,Ses03F_impro07_M001,I'm all right.,Neutral,validation,1
+1437,Ses03F_impro07_M003,You're not pregnant or anything.,Neutral,train,1
+1438,Ses03F_impro07_M004,"I know you've been trying to have a baby, right?",Neutral,train,1
+1439,Ses03F_impro07_M012,oh yeah.,Neutral,train,1
+1440,Ses03F_impro07_M023,Fuck Boston.,Neutral,train,1
+1441,Ses03F_impro07_M033,"Well, get used to it.",Neutral,validation,1
+1442,Ses03F_impro07_M034,"Hey, I'm already getting used to it.",Positive,test,2
+1443,Ses03F_impro07_M035,"Me too, Isabella.",Positive,test,2
+1444,Ses03F_impro08_F000,"Hello sir, can I help you?",Neutral,train,1
+1445,Ses03F_impro08_F006,"You're going to have to just be patient with us, sir, as we",Neutral,train,1
+1446,Ses03F_impro08_F008,But I'm going to definitely have to- uh--get your contact information,Neutral,validation,1
+1447,Ses03F_impro08_F010,"Sir, I'm very sorry, but this is the way it is. This- We have no control over it. It's going to take- -but you have to be patient with us. You can use a calling card. We will give you a free calling card to use.",Neutral,train,1
+1448,Ses03F_impro08_F012,"Okay, well, we will send you- We will reimburse you for the amount of minutes that you-",Neutral,train,1
+1449,Ses03F_impro08_F014,"And we will probably send you a calling card. I'm very sorry. You're just going to have to be patient, sir.",Neutral,test,1
+1450,Ses03F_impro08_F022,"I don't know, sir.",Neutral,train,1
+1451,Ses03F_impro08_F024,"Well, ten hours worth of minutes--",Neutral,train,1
+1452,Ses03F_impro08_F027,"what I would like what I'm advising you to do now is just to write down all of your problems that you-you feel that--You know, haven't been addressed, fax it to us-",Neutral,train,1
+1453,Ses03F_impro08_M000,"Hey, you stupid dumb shit machine, give me a fucking operator, huh?",Negative,validation,0
+1454,Ses03F_impro08_M006,You know what? I'm just going to- Patient? I'm a busy man.,Negative,train,0
+1455,Ses03F_impro08_M012,A free calling card?,Negative,validation,0
+1456,Ses03F_impro08_M015,"Okay, I need more than this. Are you going to give me a little bit more?",Negative,train,0
+1457,Ses03F_script01_1_F005,"He cried hard, huh?",Neutral,train,1
+1458,Ses03F_script01_1_F007,"Could he-he's acting just like he did after he died, you know?",Neutral,test,1
+1459,Ses03F_script01_1_F010,"What do you mean, dishonest?",Neutral,train,1
+1460,Ses03F_script01_1_F019,Why?,Neutral,test,1
+1461,Ses03F_script01_1_F021,"Well, that's only your business, Chris.",Neutral,test,1
+1462,Ses03F_script01_1_F030,You're a considerate fella and there's nothing wrong in that.,Neutral,train,1
+1463,Ses03F_script01_1_F046,You'd leave that business.,Neutral,train,1
+1464,Ses03F_script01_1_F050,I'm going to.,Neutral,train,1
+1465,Ses03F_script01_1_F052,"I don't know you, do I?",Neutral,validation,1
+1466,Ses03F_script01_1_M000,He saw it.,Neutral,train,1
+1467,Ses03F_script01_1_M002,"Um, about four this morning. Uh- I heard a crack and I looked out and I saw him standing there.",Neutral,test,1
+1468,Ses03F_script01_1_M004,"No, I uh-, I figured the best thing to do was to leave him alone.",Neutral,train,1
+1469,Ses03F_script01_1_M005,I could hear it right through the floor.,Neutral,train,1
+1470,Ses03F_script01_1_M007,I don't know.,Neutral,train,1
+1471,Ses03F_script01_1_M008,"But I know one thing, mom. We've made a terrible mistake with dad.",Neutral,train,1
+1472,Ses03F_script01_1_M016,"You know-you know why I asked Annie here, right?",Neutral,train,1
+1473,Ses03F_script01_1_M020,So it's all right. I'll just go ahead with it.,Neutral,test,1
+1474,Ses03F_script01_1_M022,"-Oh, you infuriate me sometimes. You know, it's not just my business too if dad throws a fit.",Negative,train,0
+1475,Ses03F_script01_1_M026,"Every time I reach out for something I have to pull back because other people will suffer. My whole entire life, time and time after time.",Negative,train,0
+1476,Ses03F_script01_1_M027,To hell with that.,Negative,train,0
+1477,Ses03F_script01_1_M029,I wanted to get this settled first.,Neutral,test,1
+1478,Ses03F_script01_1_M030,Well then I guess it's over then. But from her letters I think she's forgotten him.,Neutral,train,1
+1479,Ses03F_script01_1_M034,Because it is.,Neutral,train,1
+1480,Ses03F_script01_1_M042,I'll get out. I'll marry her somewhere else. Maybe New York.,Neutral,validation,1
+1481,Ses03F_script01_1_M048,Yes. On this I would.,Neutral,train,1
+1482,Ses03F_script01_1_M049,Then help me stay here.,Neutral,train,1
+1483,Ses03F_script01_1_M050,Okay. Just-,Neutral,train,1
+1484,Ses03F_script01_1_M053,"No, you don't. I'm a pretty tough guy.",Neutral,train,1
+1485,Ses03F_script01_2_F001,She's been in New York for three-and-a-half years. She don't just suddenly come and-,Negative,test,0
+1486,Ses03F_script01_2_F004,It's got that about it.,Negative,train,0
+1487,Ses03F_script01_2_F006,She's not Larry's girl. She knows that.,Negative,validation,0
+1488,Ses03F_script01_2_F011,"She's faithful as a rock, don't you know. In my worst moments I can think of her-",Negative,train,0
+1489,Ses03F_script01_2_F013,"Nobody in my house better ever dare-dare to challenge her faith. Maybe strangers, but not his father, not his brother.",Negative,test,0
+1490,Ses03F_script01_2_F015,"Don't, don't laugh at me, don't laugh at me.",Negative,test,0
+1491,Ses03F_script01_2_F016,"Look at it. Because why, when she came here and she slept in his room, the memorial broke into pieces. Look at it, look at it, Joe.",Negative,validation,0
+1492,Ses03F_script01_2_F018,"No, you've got to believe.",Negative,test,0
+1493,Ses03F_script01_2_F021,I can't help it.,Negative,test,0
+1494,Ses03F_script01_2_M001,"Well, maybe, maybe he just wanted to see her.",Neutral,train,1
+1495,Ses03F_script01_2_M009,Calm yourself.,Neutral,train,1
+1496,Ses03F_script01_2_M014,Huh?,Negative,train,0
+1497,Ses03F_script01_2_M015,Why me above all?,Negative,train,0
+1498,Ses03F_script01_2_M016,"Look at you, you're shaking.",Negative,train,0
+1499,Ses03F_script01_2_M018,"Huh? What the hell's the matter with you, Kate?",Negative,train,0
+1500,Ses03F_script01_3_F000,You're the only one I know that still loves his parents.,Positive,train,2
+1501,Ses03F_script01_3_F001,"No, it's all right. There's nothing wrong in that, you know.",Positive,test,2
+1502,Ses03F_script01_3_F002,It's really lovely here. The air is sweet.,Positive,train,2
+1503,Ses03F_script01_3_F008,"Well, you've been embarrassed ever since I came.",Negative,train,0
+1504,Ses03F_script01_3_F011,"Well, I mean,",Positive,train,2
+1505,Ses03F_script01_3_F012,"from her opinion, why else would I come here?",Positive,test,2
+1506,Ses03F_script01_3_F013,"Well, I guess that's why I came.",Positive,test,2
+1507,Ses03F_script01_3_F014,"I've been ready for a long, long time.",Positive,train,2
+1508,Ses03F_script01_3_F018,Every day since.,Positive,train,2
+1509,Ses03F_script01_3_F021,I don't know if I ever can forgive you for that. Why'd you wait so long? I sat in my room wondering if I was crazy for thinking about you.,Positive,test,2
+1510,Ses03F_script01_3_F023,"Like Larry's brother. Do it like you, Chris.",Positive,train,2
+1511,Ses03F_script01_3_F025,No. What is it? Is it your mother?,Negative,train,0
+1512,Ses03F_script01_3_F026,"Well then tell me what's wrong. I mean, even in your letters there's something ashamed.",Negative,train,0
+1513,Ses03F_script01_3_F027,You should tell me.,Negative,test,0
+1514,Ses03F_script01_3_F028,"But, Chris, it wouldn't work like this.",Negative,train,0
+1515,Ses03F_script01_3_F029,"Yeah, sure.",Negative,test,0
+1516,Ses03F_script01_3_F030,How many?,Negative,train,0
+1517,Ses03F_script01_3_F035,What am I going to do with a fortune?,Positive,train,2
+1518,Ses03F_script01_3_M000,"Yeah. I know. It went out of style, didn't it?",Positive,train,2
+1519,Ses03F_script01_3_M004,What?,Neutral,validation,1
+1520,Ses03F_script01_3_M006,"Oh look, um, well, the thing is, I was planning on, planning on sort of sneaking up on you over a week or so, and they-they take it for granted we're all set.",Positive,train,2
+1521,Ses03F_script01_3_M009,"I, I guess that's why I asked you to come.",Positive,train,2
+1522,Ses03F_script01_3_M010,"Oh, Annie.",Positive,train,2
+1523,Ses03F_script01_3_M011,"Annie, I love you.",Positive,test,2
+1524,Ses03F_script01_3_M012,I love you a great deal.,Positive,train,2
+1525,Ses03F_script01_3_M013,I-I love you. I have no imagination. That's all I know how to tell it.,Positive,validation,2
+1526,Ses03F_script01_3_M014,"I'm embarrassing you. I didn't want to tell you it here. I wanted to go somewhere that would be brand-new to each other. It feels wrong here, don't you? This yard and this chair.",Positive,validation,2
+1527,Ses03F_script01_3_M015,I don't want to win you from anybody. I want you to be ready for me.,Positive,test,2
+1528,Ses03F_script01_3_M018,You felt something that far back?,Positive,train,2
+1529,Ses03F_script01_3_M019,Why didn't you let me know?,Positive,train,2
+1530,Ses03F_script01_3_M020,"Give me a kiss, Annie.",Positive,train,2
+1531,Ses03F_script01_3_M021,Give me-,Positive,test,2
+1532,Ses03F_script01_3_M023,We're going to live now. I'm going to make you so happy.,Positive,validation,2
+1533,Ses03F_script01_3_M024,I kissed you.,Positive,train,2
+1534,Ses03F_script01_3_M026,"No, no, no, no. Nothing like that.",Neutral,validation,1
+1535,Ses03F_script01_3_M030,"Well, I lost them.",Negative,validation,0
+1536,Ses03F_script01_3_M032,It takes a little while to toss that off. Because they weren't just men.,Negative,validation,0
+1537,Ses03F_script01_3_M035,"And I, and I thought something watching them go down.",Negative,test,0
+1538,Ses03F_script01_3_M039,And I went to work with dad and that rat race again. And I felt what you said-ashamed somehow. Because nobody was changed at all. It seemed to make a sucker out of a lot of guys.,Negative,train,0
+1539,Ses03F_script01_3_M040,"And I felt wrong to be alive. To drive the car, to see the new checkbook, to see the new refrigerator. I mean, you can take those things out of the war. But you got to know that when you drive that car that that came out of the love a man can have for another man. And you got to be a little bit better because of that.",Negative,train,0
+1540,Ses03F_script01_3_M041,"Otherwise, what you have here is loot; and there's blood on it.",Negative,train,0
+1541,Ses03F_script01_3_M042,And I didn't want to take any of it.,Negative,train,0
+1542,Ses03F_script01_3_M045,"Annie,",Positive,test,2
+1543,Ses03F_script01_3_M046,"Annie, I'm going to make a fortune for you.",Positive,train,2
+1544,Ses03F_script02_1_F003,"I don't understand why you're always saying oh, it's mine, it's mine. It's not like it's just your flashlight. I mean, how do you think that makes me feel?",Negative,validation,0
+1545,Ses03F_script02_1_F012,Pass up what? A bunch of fish. They swim up to the beach and they flop around and they swim away and then they die.,Negative,test,0
+1546,Ses03F_script02_1_M017,Do you want my jacket?,Neutral,train,1
+1547,Ses03F_script02_1_M019,Right.,Neutral,train,1
+1548,Ses03F_script02_1_M020,"Yeah, that's my point too.",Neutral,train,1
+1549,Ses03F_script02_1_M022,"I mean, don't you want to see it?",Neutral,train,1
+1550,Ses03F_script02_1_M023,Why not?,Neutral,train,1
+1551,Ses03F_script02_1_M044,About what I just said.,Neutral,test,1
+1552,Ses03F_script02_2_F005,"Augie, Goddamn it, don't ask me that. You always ask me that. Why do you ask me that? I hate it. It's insulting.",Negative,train,0
+1553,Ses03F_script02_2_F016,Do you remember the last time we came here?,Negative,test,0
+1554,Ses03F_script02_2_F017,We thought I was pregnant.,Negative,train,0
+1555,Ses03F_script02_2_F018,You brought a bottle of champagne.,Negative,test,0
+1556,Ses03F_script02_2_F019,We took off our shoes and we danced barefoot in the sand. Under the moon.,Positive,train,2
+1557,Ses03F_script02_2_F020,And you whispered so intimately in my ear so I could feel your words.,Positive,train,2
+1558,Ses03F_script02_2_F021,"Oh, that moment-that was it.",Positive,train,2
+1559,Ses03F_script02_2_F022,"I told myself finally, this is how happy I'm supposed to be.",Negative,train,0
+1560,Ses03F_script02_2_F023,Dancing barefoot in the sand. Drinking out of a bottle of champagne.,Positive,train,2
+1561,Ses03F_script02_2_F024,I don't want to remember something.,Negative,validation,0
+1562,Ses03F_script02_2_F026,No.,Negative,train,0
+1563,Ses03F_script02_2_F035,"No, it's not. It's standing on the beach waiting and fighting.",Negative,train,0
+1564,Ses03F_script02_2_F038,it's not something else. Do you know what I'm trying to say?,Negative,train,0
+1565,Ses03F_script02_2_F040,I didn't say that.,Negative,validation,0
+1566,Ses03F_script02_2_F043,"Well, I guess we're just in the wrong spart-spot with the right person.",Positive,train,2
+1567,Ses03F_script02_2_F044,I noticed that. It's beautiful.,Positive,train,2
+1568,Ses03F_script02_2_F045,You can see right over the water.,Positive,validation,2
+1569,Ses03F_script02_2_F048,At least we won't need glasses.,Positive,train,2
+1570,Ses03F_script02_2_F050,Maybe this is the right place after all.,Positive,train,2
+1571,Ses03F_script02_2_M005,"Carla, can I ask you something? Don't take this wrong, but are you having your period?",Neutral,train,1
+1572,Ses03F_script02_2_M016,Wait a minute. I got it.,Neutral,train,1
+1573,Ses03F_script02_2_M026,"A-a back rub, some ice cream, a suicide pact. What the hell do you want, Carla?",Negative,validation,0
+1574,Ses03F_script02_2_M038,"Actually now that you mention it, no, I don't.",Positive,train,2
+1575,Ses03F_script02_2_M039,"Seemed like a pretty good spot to me. I mean, look at the view of the moon we've got from here.",Positive,train,2
+1576,Ses03F_script02_2_M040,Look what we got here.,Positive,validation,2
+1577,Ses03F_script02_2_M041,It's not champagne.,Positive,train,2
+1578,Ses03F_script02_2_M042,Are you still cold? Do you want to go home?,Neutral,validation,1
+1579,Ses03F_script02_2_M043,Shh.,Neutral,validation,1
+1580,Ses03F_script02_2_M044,If we're very quiet the fish might come.,Positive,validation,2
+1581,Ses03F_script02_2_M045,Or not.,Positive,train,2
+1582,Ses03F_script03_1_F014,"Oh dear, well, shall we want that?",Negative,train,0
+1583,Ses03F_script03_1_F021,Oh Charles. That was his name. Charles. He did wiggle so beautifully.,Positive,validation,2
+1584,Ses03F_script03_1_F025,yeah. And that was the first time you ever hit me.,Positive,train,2
+1585,Ses03F_script03_1_F026,The manager came in and found us rolling on the floor and biting and scratching like panthers. [LAUGHTER],Positive,test,2
+1586,Ses03F_script03_1_M004,"We're all right, aren't we darling? Whatever happens.",Neutral,validation,1
+1587,Ses03F_script03_1_M005,Then I don't care.,Neutral,test,1
+1588,Ses03F_script03_2_F004,"Just a little perhaps, but it was nothing serious.",Neutral,validation,1
+1589,Ses03F_script03_2_F008,"Well, it's true.",Neutral,train,1
+1590,Ses03F_script03_2_F014,Don't be so stupid.,Negative,train,0
+1591,Ses03F_script03_2_F015,What?,Negative,train,0
+1592,Ses03F_script03_2_F018,"No, it isn't.",Negative,train,0
+1593,Ses03F_script03_2_F026,You are quite insufferable. I suppose it's because you're drunk.,Negative,validation,0
+1594,Ses03F_script03_2_F037,I will not. Go away. Go away. I hate you.,Negative,train,0
+1595,Ses03F_script03_2_F041,"Oh, yes I am.",Negative,train,0
+1596,Ses03F_script03_2_F042,"Yes I am. Let go of me. I hate you and I loath you. God, I can't believe I just finally realized how you are. I am never marry you. Never. Never, never, never. I would rather die in torment.",Negative,train,0
+1597,Ses03F_script03_2_F043,"Beast or brute cad, swine beast beast brute.",Negative,train,0
+1598,Ses03F_script03_2_M000,"As a matter of fact, the real cause of that row was Peter Burden.",Negative,test,0
+1599,Ses03F_script03_2_M001,I knew nothing of the sort. You took presents from him.,Negative,train,0
+1600,Ses03F_script03_2_M002,I remember it well. Bristling with diamonds. In the worst possible taste.,Negative,test,0
+1601,Ses03F_script03_2_M009,Are you bored with this conversation?,Neutral,train,1
+1602,Ses03F_script03_2_M012,"No particular reason. Anyhow, they were very small ones.",Neutral,test,1
+1603,Ses03F_script03_2_M014,You needn't be so grand just because you don't happen to want some yourself at the moment.,Negative,test,0
+1604,Ses03F_script03_2_M016,Nothing.,Negative,train,0
+1605,Ses03F_script03_2_M024,They snap.,Negative,train,0
+1606,Ses03F_script03_2_M026,did you see much of Peter Burden after our divorce?,Negative,train,0
+1607,Ses03F_script03_2_M027,"I imagine that you let him kiss you quite a bit more then, didn't you?",Negative,train,0
+1608,Ses03F_script03_2_M028,You had a riotous-must have had a riotous time. No restraint at all. Very enjoyable. You never had much anyhow.,Negative,train,0
+1609,Ses03F_script03_2_M029,I'm not in the least bit drunk.,Negative,train,0
+1610,Ses03F_script03_2_M030,"Okay. As I mentioned before, I said I had three very minute liquor glasses. That's hardly enough to get a child of two drunk.",Negative,train,0
+1611,Ses03F_script03_2_M034,"Well, I suppose the people downstairs then.",Negative,train,0
+1612,Ses03F_script03_2_M035,This is no time of the year for Tunis.,Neutral,train,1
+1613,Ses03F_script03_2_M038,Turn it off.,Negative,train,0
+1614,Ses03F_script03_2_M039,"Oh, very amusing, indeed. Amanda, listen-",Negative,train,0
+1615,Ses03F_script03_2_M040,Very amusing indeed.,Negative,train,0
+1616,Ses03F_script03_2_M041,"You know, you're a vile, ill-tempered, wicked little beast and I hope that I never see you again as long as I live.",Negative,validation,0
+1617,Ses03F_script03_2_M043,"Oh, shut up. Shut up. Shut up.",Negative,train,0
+1618,Ses03F_script03_2_M044,"I wouldn't marry you again if you came back crawling to me on your hands and knees because you're vile. You're a mean, evil-minded little vampire and I hope to God I never set eyes on you again.",Negative,test,0
+1619,Ses03M_impro01_F000,Is that a demand sir?,Neutral,test,1
+1620,Ses03M_impro01_F022,Okay. I'm going to call security. Security!,Negative,train,0
+1621,Ses03M_impro01_M004,What are you talking about? It says fill out that part.,Negative,train,0
+1622,Ses03M_impro01_M011,I'm not going anywhere. I'm staying right here.,Negative,train,0
+1623,Ses03M_impro01_M014,"Hey, no, give me that back.",Negative,train,0
+1624,Ses03M_impro01_M015,-- No. I'm not waiting...I'm not coming back again. I don't have time to come back five days.,Negative,train,0
+1625,Ses03M_impro01_M019,Fine. Call your supervisor. Ask supervisor over,Negative,train,0
+1626,Ses03M_impro01_M023,No. I'm not going anywhere. I'm staying here-- I am filling out right now okay just calm down. I'm filling out right now-- Just take the god damn piece of paper.,Negative,test,0
+1627,Ses03M_impro01_M028,I did finish one. Take it.,Negative,train,0
+1628,Ses03M_impro01_M029,What is wrong with you?,Negative,train,0
+1629,Ses03M_impro02_F000,Um.,Positive,train,2
+1630,Ses03M_impro02_F003,Why the sad face?,Positive,validation,2
+1631,Ses03M_impro02_F013,Do this whole thing by myself?,Negative,validation,0
+1632,Ses03M_impro02_F015,It's not the same thing. It's not like having you here.,Negative,test,0
+1633,Ses03M_impro02_F022,"and watch our child grow, see her take her first steps, her first words.",Negative,train,0
+1634,Ses03M_impro02_F024,A whole year? --We're not talking about like a couple months here. I mean this is a whole year.,Negative,validation,0
+1635,Ses03M_impro02_F025,What could happen in a year?,Negative,train,0
+1636,Ses03M_impro02_F027,I don't know if that's how I want to live my life.,Negative,test,0
+1637,Ses03M_impro02_F028,"Joe I'm serious I don't want to have to have a little girl to tell...asking every day where's daddy, where's daddy and have to tell her that he's away--",Negative,test,0
+1638,Ses03M_impro02_F029,far away and he won't be here.,Negative,train,0
+1639,Ses03M_impro02_M005,For--,Negative,test,0
+1640,Ses03M_impro02_M012,Honey you're not going to be by yourself--,Negative,train,0
+1641,Ses03M_impro02_M015,"You can do it. Alright? You can, you can be strong, you can be strong for both of us alright?",Neutral,test,1
+1642,Ses03M_impro02_M026,maybe get some vacation-- --once it quiets down there.,Negative,train,0
+1643,Ses03M_impro02_M027,I know. I know. But they really need some good guys there.,Negative,train,0
+1644,Ses03M_impro03_F012,She actually asked if it was real? I would've probably asked the same thing considering you were in Chuck E. Cheese.,Positive,train,2
+1645,Ses03M_impro03_F016,"Oh god! You are damn cheap, cheap, cheap. Anyways, moving on. It's not like you're poor. I mean your dad makes... okey",Positive,train,2
+1646,Ses03M_impro03_F017,You had the mouse?,Positive,test,2
+1647,Ses03M_impro03_F018,Isn't it a rat? It's a rat. Chuck E. Cheese?,Neutral,train,1
+1648,Ses03M_impro03_F021,"Okay, that is really cheesy Joe.",Positive,validation,2
+1649,Ses03M_impro03_F022,Oh that's kind of sweet.,Positive,validation,2
+1650,Ses03M_impro03_F025,She said sure?,Positive,train,2
+1651,Ses03M_impro03_F026,Sure? Who says sure? You say yes...I don't like--,Positive,train,2
+1652,Ses03M_impro03_F027,How long have you guys been going out?,Positive,test,2
+1653,Ses03M_impro03_F033,She must be hot.,Positive,train,2
+1654,Ses03M_impro03_M012,Sara and I--,Positive,train,2
+1655,Ses03M_impro03_M014,She wanted...she always wants something spontaneous.,Positive,train,2
+1656,Ses03M_impro03_M015,"I couldn't, I couldn't afford the Red Lobster. [LAUGHTER] What anyway?",Positive,train,2
+1657,Ses03M_impro03_M016,So Okay then and.,Positive,validation,2
+1658,Ses03M_impro03_M017,"I got all the character animals to do a conga line,",Positive,validation,2
+1659,Ses03M_impro03_M018,"dim down the lights and uh, I got on one of the tables pulled her up.",Positive,train,2
+1660,Ses03M_impro03_M019,Yeah.,Positive,test,2
+1661,Ses03M_impro03_M020,"Chucky...I don't know. I don't know. Anyways, I pull her up and I go, I go Sarah",Positive,train,2
+1662,Ses03M_impro03_M021,"You're my guiding light, then they put on that song the I've had the time of my life, that song.",Positive,test,2
+1663,Ses03M_impro03_M028,About two and a half weeks.,Neutral,train,1
+1664,Ses03M_impro03_M029,Two and ... We love each other. Yeah.,Positive,train,2
+1665,Ses03M_impro03_M030,"You got to meet her, she's wonderful.",Positive,train,2
+1666,Ses03M_impro03_M031,She just graduated from high school and----she's planning to apply for colleges----and stuff.She's so great. She has so much life and energy and stuff.,Positive,train,2
+1667,Ses03M_impro03_M032,"Yeah, she is good-looking.",Positive,train,2
+1668,Ses03M_impro03_M039,Oh that's great. My mom said we can move in with her again if we run out of money.,Positive,train,2
+1669,Ses03M_impro04_F003,Well what are you looking for? I mean--,Neutral,train,1
+1670,Ses03M_impro04_F023,"Well... If you need something, I mean, you're just going to---can get a temporary thing right now and then look for something--",Neutral,test,1
+1671,Ses03M_impro04_F025,"-it's going to get better I promise you. You just got to hang in there. Everyone, I mean, you know?",Neutral,train,1
+1672,Ses03M_impro04_F031,Sixteen hundred.,Neutral,validation,1
+1673,Ses03M_impro04_M000,I'm just so tired all the time.,Negative,validation,0
+1674,Ses03M_impro04_M004,Cause I went to Harvard.,Negative,validation,0
+1675,Ses03M_impro04_M014,Oh yeah? What kind of jobs they got?,Neutral,train,1
+1676,Ses03M_impro04_M024,Yeah. It's alright. But--,Neutral,train,1
+1677,Ses03M_impro04_M026,No.,Negative,validation,0
+1678,Ses03M_impro04_M038,Same difference.,Neutral,train,1
+1679,Ses03M_impro04_M041,"Like, wow you're really smart we're going to give you an extra [GARBAGE].",Positive,test,2
+1680,Ses03M_impro05a_F000,Can I help you sir?,Neutral,validation,1
+1681,Ses03M_impro05a_F001,"Well, let me just check on that for you. Where are you coming--?",Neutral,validation,1
+1682,Ses03M_impro05a_F002,"Sir, yes it's in Maryland. It's okay...well, I'm...just let me check here.",Neutral,train,1
+1683,Ses03M_impro05a_F005,Okay and this is direct flight?,Neutral,train,1
+1684,Ses03M_impro05a_F012,I'm very sorry but let's check on this immediately. This is definitely an emergency. It seems--,Neutral,train,1
+1685,Ses03M_impro05a_F021,"Please, please",Neutral,train,1
+1686,Ses03M_impro05a_F028,What is your name?,Negative,train,0
+1687,Ses03M_impro05a_M000,Yes you can help me. Where is my luggage?,Negative,test,0
+1688,Ses03M_impro05a_M001,Yeah. You do that. I'm coming from Baltimore. You know where that is?,Negative,validation,0
+1689,Ses03M_impro05a_M002,I had eight hundred pounds of luggage.,Negative,train,0
+1690,Ses03M_impro05a_M003,Okay. Check.,Negative,test,0
+1691,Ses03M_impro05a_M005,Yes.,Negative,test,0
+1692,Ses03M_impro05a_M010,Okay. What do you want?,Negative,test,0
+1693,Ses03M_impro05a_M011,Eight. And they're all gone.,Negative,train,0
+1694,Ses03M_impro05a_M013,It's my mother's funeral tomorrow and the urn is in the suitcase.,Negative,train,0
+1695,Ses03M_impro05a_M016,"Oh, oh, that's a good deduction.",Negative,test,0
+1696,Ses03M_impro05a_M017,"Sherlock Holmes. God, where's my luggage?",Negative,train,0
+1697,Ses03M_impro05a_M018,Calm down? It's my mother's funeral tomorrow. I'm the one responsible for this.,Negative,train,0
+1698,Ses03M_impro05a_M020,What is the matter with you?,Negative,validation,0
+1699,Ses03M_impro05a_M021,Don't yell at me.,Negative,train,0
+1700,Ses03M_impro05a_M022,Oh my God. I think a blood vessel burst in my head.,Negative,train,0
+1701,Ses03M_impro05a_M023,What?,Negative,validation,0
+1702,Ses03M_impro05a_M024,What? Are you kidding me?,Negative,test,0
+1703,Ses03M_impro05a_M026,"You're the manager? You don't know where you work for, you don't know where you're at and you're the manager?",Negative,validation,0
+1704,Ses03M_impro05a_M027,Whose daughter are you?,Negative,train,0
+1705,Ses03M_impro05a_M028,Sir. Sir. Sir. Sir,Negative,train,0
+1706,Ses03M_impro05a_M029,My name is Brent Caption.,Negative,train,0
+1707,Ses03M_impro05b_F004,Okay. Well you um-...,Neutral,train,1
+1708,Ses03M_impro05b_F009,"Like the luggage, the luggage on the flight.",Neutral,train,1
+1709,Ses03M_impro05b_F012,For tonight- For tonight sir. Would you need to stay somewhere tonight?,Neutral,train,1
+1710,Ses03M_impro05b_F013,We can do Holiday Inn or...?,Neutral,train,1
+1711,Ses03M_impro05b_F014,Sir I understand that but just--,Neutral,train,1
+1712,Ses03M_impro05b_F015,Did you have your name tags on the luggage?,Neutral,validation,1
+1713,Ses03M_impro05b_F016,"Okay. So if you can just give me your name, your name and your address and your phone number I can contact you as soon as we find out more information.",Neutral,train,1
+1714,Ses03M_impro05b_F019,"Okay. Sir? I am sorry to tell you this but this does happen. Uh- This is not uh- really,",Neutral,train,1
+1715,Ses03M_impro05b_F020,"I mean, our airline's fault. I don't know what happened, misplaced, something happened but we will get you--",Neutral,train,1
+1716,Ses03M_impro05b_F021,"Well, the entire flight, sir, the luggage was placed on another plane that never actually left Baltimore.",Neutral,test,1
+1717,Ses03M_impro05b_F022,Uh no I'm not.,Neutral,train,1
+1718,Ses03M_impro05b_F023,"Well we have some people back there that need some firing so, but I would just really appreciate--",Neutral,validation,1
+1719,Ses03M_impro05b_F028,We can have them direct your luggage to San Diego.,Neutral,validation,1
+1720,Ses03M_impro05b_F030,Some refreshments in the lobby?,Neutral,train,1
+1721,Ses03M_impro05b_M008,Most of the...,Negative,train,0
+1722,Ses03M_impro05b_M011,I'm going to San Diego tomorrow to stay with my family. What do I need hotel lodging for hmmm? Can you tell me that?,Negative,validation,0
+1723,Ses03M_impro05b_M015,Of course I had my name tags on the luggage.,Negative,train,0
+1724,Ses03M_impro05b_M016,Soon as you...that's not good enough okay?,Negative,train,0
+1725,Ses03M_impro05b_M020,"You misplace a lot of, eight pieces of luggage.",Negative,train,0
+1726,Ses03M_impro05b_M022,Who are you going to fire because of that?,Negative,test,0
+1727,Ses03M_impro05b_M025,This is the worst customer service I've ever gotten before.,Negative,train,0
+1728,Ses03M_impro05b_M026,Okay. Get on the phone and figure out where my luggage is and tell me when it's going to get there alright?,Negative,train,0
+1729,Ses03M_impro05b_M027,"And and, in about...",Negative,train,0
+1730,Ses03M_impro05b_M029,Can you get it to the San Diego airport? You get someone to drive it to my place alright? Then I get a refund for some...I get a free flight alright? I get free whatever.,Negative,train,0
+1731,Ses03M_impro05b_M032,"Thanks you, thank you I don't have my luggage so you gave me a Holiday Inn stay and peanuts. Wow. You know what?",Negative,test,0
+1732,Ses03M_impro06_F000,How's it going? How are you feeling?,Negative,train,0
+1733,Ses03M_impro06_F001,Hanging in there?,Negative,train,0
+1734,Ses03M_impro06_F002,So sad.,Negative,test,0
+1735,Ses03M_impro06_F003,Yeah.,Negative,test,0
+1736,Ses03M_impro06_F005,I'm so sorry.,Negative,test,0
+1737,Ses03M_impro06_F008,Oh man.,Negative,train,0
+1738,Ses03M_impro06_F009,How are they?,Negative,train,0
+1739,Ses03M_impro06_F010,Yeah. Like I mean if you need anyone to talk to or anything I'm here for you okay?,Negative,train,0
+1740,Ses03M_impro06_F011,We're all here for you.,Negative,test,0
+1741,Ses03M_impro06_F012,I know.,Negative,train,0
+1742,Ses03M_impro06_F015,I'm so sorry.,Negative,train,0
+1743,Ses03M_impro06_F016,"Well now you can follow his footsteps, you know? Carry out what he wanted to do.",Negative,validation,0
+1744,Ses03M_impro06_F018,Yeah.,Negative,train,0
+1745,Ses03M_impro06_F019,I would've loved to.,Negative,validation,0
+1746,Ses03M_impro06_M000,I ah--,Negative,train,0
+1747,Ses03M_impro06_M003,It just feels like I was talking to him yesterday.,Negative,train,0
+1748,Ses03M_impro06_M007,Yeah.,Negative,train,0
+1749,Ses03M_impro06_M010,You know a stupid case of drunk driving it's just...,Negative,test,0
+1750,Ses03M_impro06_M011,"and the worst part of it is that he was in the car with his girlfriend,",Negative,train,0
+1751,Ses03M_impro06_M013,And the car that he hit was his family.,Negative,train,0
+1752,Ses03M_impro06_M014,The mother and father died--,Negative,validation,0
+1753,Ses03M_impro06_M016,and just going to the funeral it's-,Negative,train,0
+1754,Ses03M_impro06_M018,I was supposed to see him last summer,Negative,train,0
+1755,Ses03M_impro06_M019,then I got busy with work and stuff and three years go by,Negative,train,0
+1756,Ses03M_impro06_M021,I mean I haven't even talked to him on the phone for the past three months.,Negative,validation,0
+1757,Ses03M_impro06_M022,He's supposed to be my best friend.,Negative,test,0
+1758,Ses03M_impro06_M028,Working for corporate America? Wow.,Negative,train,0
+1759,Ses03M_impro06_M029,He actually wanted to do something.,Negative,train,0
+1760,Ses03M_impro06_M030,I can't do that.,Negative,test,0
+1761,Ses03M_impro06_M031,You should've met him.,Negative,train,0
+1762,Ses03M_impro07_F000,Hey. How's it going? I haven't seen you in awhile.,Positive,train,2
+1763,Ses03M_impro07_F001,What's going on Joe?,Positive,test,2
+1764,Ses03M_impro07_F008,Yeah. Hopefully it won't be like high school.,Positive,train,2
+1765,Ses03M_impro07_F010,Oh man.,Positive,test,2
+1766,Ses03M_impro07_F011,Did you say yes yet? I mean have you sent in your answer?,Positive,validation,2
+1767,Ses03M_impro07_F012,All right.,Positive,train,2
+1768,Ses03M_impro07_F013,"This is so great, you know, because I gone fit on downtown so I'm going to be like right here. I think I'm going to be living at City Lights downtown.",Positive,validation,2
+1769,Ses03M_impro07_F014,"Yeah, it really is.",Positive,train,2
+1770,Ses03M_impro07_F017,"Well, I'm happy for you but I'm happy for me cause that means you're going to stay.",Positive,train,2
+1771,Ses03M_impro07_F019,Mmmm some miso soup.,Positive,test,2
+1772,Ses03M_impro07_M014,Yeah. This is so crazy. I mean I didn't get into any other school but I got into the school I wanted.,Positive,train,2
+1773,Ses03M_impro07_M025,"It took them, oh man, it took them like, I mean what it's like April now and any letters that come in April are usually the rejection letters so I was just like...",Positive,train,2
+1774,Ses03M_impro08a_F004,two two six six.,Neutral,validation,1
+1775,Ses03M_impro08a_F014,I want to talk to a supervisor,Negative,train,0
+1776,Ses03M_impro08a_F021,"I am a realtor and this is my business. People are calling me all the time but you know, and I don't have a land line. I can't afford to have a land line",Negative,train,0
+1777,Ses03M_impro08a_F022,That you better be sorry.,Negative,train,0
+1778,Ses03M_impro08a_M000,Hello. This is Viacom Services. How can I help you?,Neutral,train,1
+1779,Ses03M_impro08a_M003,Okay. And your name is?,Neutral,test,1
+1780,Ses03M_impro08a_M004,Olivia. Um. Okay. So how long has this problem been?,Neutral,validation,1
+1781,Ses03M_impro08a_M006,Um- I think part of it has to do with the network being down. It's been having some trouble the last few weeks--,Neutral,train,1
+1782,Ses03M_impro08a_M012,"Um- Let me connect you to my supervisor. Actually, he's out right now so I'm supervisor until he comes back. Um-",Neutral,train,1
+1783,Ses03M_impro08a_M013,"So you could----speak with me some more, you could call back later on maybe.",Neutral,train,1
+1784,Ses03M_impro08a_M017,don't you-,Neutral,train,1
+1785,Ses03M_impro08a_M020,I'm sorry it has to do with an electrical power outage and stuff--,Neutral,train,1
+1786,Ses03M_impro08a_M025,My name is Sara.,Neutral,test,1
+1787,Ses03M_impro08a_M026,Sara Brown.,Neutral,train,1
+1788,Ses03M_impro08b_F005,"Yeah, yeah, yeah you better be sorry.",Negative,train,0
+1789,Ses03M_impro08b_F006,No I did not drop my phone in water. I'm not five years old and just dropped my phone anywhere I see it. Okay this is my business.,Negative,validation,0
+1790,Ses03M_impro08b_F024,Alright Thanks.,Neutral,train,1
+1791,Ses03M_impro08b_M001,I'm sorry ma'am. What's the nature of your problem? But first can I get you to tell me your first and last name?,Neutral,train,1
+1792,Ses03M_impro08b_M005,"Um- well it's probably easy. Can you any more symptoms either you're not receiving calls----ok, you're not receiving calls, not getting calls.",Neutral,train,1
+1793,Ses03M_impro08b_M007,"Well, um- okay. Your sim card is in- didn't fall out-",Neutral,test,1
+1794,Ses03M_impro08b_M009,you might have an older phone where we would use sim cards but probably not.,Neutral,train,1
+1795,Ses03M_impro08b_M012,Tell them my name. My name is Brent Backersen.,Neutral,train,1
+1796,Ses03M_impro08b_M013,Okay. Tell them my - my ID number is two one three five.,Neutral,train,1
+1797,Ses03M_impro08b_M014,"Tell them that. You can go in, get a brand new phone, they'll hook you up with service even give you a free three months--",Neutral,test,1
+1798,Ses03M_impro08b_M016,"Go in there, yeah, go in there. Tell them Brent Backersen sent you.",Neutral,train,1
+1799,Ses03M_impro08b_M019,"Okay. They can figure out pink for you. So go in there and just tell them that and they'll hook you up with other goodies, stuff like that free service, no contract, no nothing. Just for being a good customer",Neutral,test,1
+1800,Ses03M_impro08b_M021,Yes. You just tell them Brent Backersen sent you.,Neutral,train,1
+1801,Ses03M_impro08b_M022,Alright? Great. Have a nice evening.,Neutral,train,1
+1802,Ses03M_script01_1_F016,No. It's his god damned newspapers is what it is. Now every month there's a new boy comes home and Larry's going to be the next one.,Negative,validation,0
+1803,Ses03M_script01_1_F017,Why?,Negative,validation,0
+1804,Ses03M_script01_1_F038,You're just going to leave the business? You have a business here. You can't do that.,Negative,train,0
+1805,Ses03M_script01_1_F046,Yeah. I can see that.,Negative,train,0
+1806,Ses03M_script01_1_M000,He saw it.,Negative,train,0
+1807,Ses03M_script01_1_M001,He was out there when it happened.,Negative,test,0
+1808,Ses03M_script01_1_M003,I don't know. But after it cracked he ran back into the house and he cried in the kitchen.,Negative,train,0
+1809,Ses03M_script01_1_M005,I could hear it right through the floor.,Negative,train,0
+1810,Ses03M_script01_1_M011,"Why shouldn't he walk around and dream at him at night. Walk around. Why shouldn't he walk around? Why shouldn't he dream of him, walk around at night waiting for him? Do we contradict him? Do we say flat out that we don't have anymore hope?",Negative,train,0
+1811,Ses03M_script01_1_M022,Oh see then it's just not my business. God you infuriate me sometimes. Isn't my business too if dad throws a fit? Huh? God you have such a talent for ignoring things.,Negative,validation,0
+1812,Ses03M_script01_1_M029,Then I guess that's the end of it.,Neutral,validation,1
+1813,Ses03M_script01_1_M030,But from her letters I think she's forgotten him. I'll find out.,Negative,train,0
+1814,Ses03M_script01_1_M031,"And then we'll thrash it out with dad right? Mom, don't avoid me.",Neutral,train,1
+1815,Ses03M_script01_1_M037,But if I can't have that here I'll get out.,Neutral,train,1
+1816,Ses03M_script01_1_M038,I'll get out. I'll marry her somewhere else. Maybe New York.,Neutral,validation,1
+1817,Ses03M_script01_1_M039,I've been a good son too long. A good sucker and I'm through with it.,Negative,validation,0
+1818,Ses03M_script01_1_M040,The business doesn't inspire me.,Negative,test,0
+1819,Ses03M_script01_1_M043,Yes. On this I would.,Neutral,train,1
+1820,Ses03M_script01_1_M046,I am thinking like that.,Negative,test,0
+1821,Ses03M_script01_1_M047,No you don't. I'm a pretty tough guy.,Negative,train,0
+1822,Ses03M_script01_2_F000,Why did he invite her here?,Negative,train,0
+1823,Ses03M_script01_2_F006,No. She's not his girl Joe and she knows that.,Negative,train,0
+1824,Ses03M_script01_2_F009,"I mean, her faith is stronger than a rock.",Negative,test,0
+1825,Ses03M_script01_2_M005,"Well, so what?",Neutral,train,1
+1826,Ses03M_script01_2_M008,How do you know why she's waited? Hmmm?,Neutral,validation,1
+1827,Ses03M_script01_2_M014,"Alright, alright, calm yourself okay? Calm yourself. Wait, wait. What do you mean, me above all?",Negative,train,0
+1828,Ses03M_script01_2_M015,"Wait, what does that mean? Me above all?",Negative,test,0
+1829,Ses03M_script01_2_M017,What do I got to hide? Huh? What the hell's the matter with you Kate?,Negative,validation,0
+1830,Ses03M_script01_3_F006,"Look,",Negative,validation,0
+1831,Ses03M_script01_3_F007,"you saw the way that she acted and then well, I mean, you, you were acting kind of...",Negative,train,0
+1832,Ses03M_script01_3_F008,"Well, I don't know, embarrassed of her since I came.",Negative,train,0
+1833,Ses03M_script01_3_F011,"Well,",Positive,validation,2
+1834,Ses03M_script01_3_F012,I guess that's why I came.,Positive,train,2
+1835,Ses03M_script01_3_F013,"Look, I've been ready for a long, long time now.",Positive,train,2
+1836,Ses03M_script01_3_F014,"Look, I almost got married two years ago.",Positive,train,2
+1837,Ses03M_script01_3_F015,You started to write me.,Positive,train,2
+1838,Ses03M_script01_3_F016,Every day since.,Positive,validation,2
+1839,Ses03M_script01_3_F017,"I was waiting for you Chris, I mean, till then you never wrote and then when you did what did you say?",Positive,train,2
+1840,Ses03M_script01_3_F018,You'd always be so ambiguous.,Positive,train,2
+1841,Ses03M_script01_3_F019,I'll never forgive you for that.,Positive,test,2
+1842,Ses03M_script01_3_F020,"I mean, Why did you wait all these years? There I was sitting around and wondering if I was crazy for thinking about you.",Positive,validation,2
+1843,Ses03M_script01_3_F021,Not like that you're not.,Positive,train,2
+1844,Ses03M_script01_3_F031,And you still feel that way?,Negative,test,0
+1845,Ses03M_script01_3_F033,"that includes me too, I mean and the money, you have right to that money. Your father put planes up in the air, good planes and he deserves it, you should be proud of that. A man should be paid for that.",Negative,train,0
+1846,Ses03M_script01_3_F034,What am I going to do with a fortune?,Positive,validation,2
+1847,Ses03M_script01_3_M008,"I mean, that's the reason why I asked you here.",Positive,validation,2
+1848,Ses03M_script01_3_M010,I love you.,Positive,train,2
+1849,Ses03M_script01_3_M016,You felt something that far back.,Positive,train,2
+1850,Ses03M_script01_3_M018,"Give me a kiss Ann, just give me...",Positive,train,2
+1851,Ses03M_script01_3_M021,We're going to live now. I'm going to make you so happy.,Positive,validation,2
+1852,Ses03M_script01_3_M023,"Nothing. Hey, let's drive somewhere. I want to be alone with you.",Negative,train,0
+1853,Ses03M_script01_3_M027,You remember overseas I was in command of a company?,Negative,train,0
+1854,Ses03M_script01_3_M028,Well I lost them.,Negative,test,0
+1855,Ses03M_script01_3_M029,Just about all.,Negative,validation,0
+1856,Ses03M_script01_3_M031,"For instance, one time this...it had been raining several days and this one kid, he came up to me, he gave me his last pair of dry socks, put them in my pocket.",Negative,train,0
+1857,Ses03M_script01_3_M036,And then I came here and it was incredible. There was no meaning in it here. The whole thing to them was a kind of bus accident.,Negative,train,0
+1858,Ses03M_script01_3_M037,"And I went to work with dad and that rat race again and I felt what you said, ashamed. Somehow because nobody was changed at all.",Negative,train,0
+1859,Ses03M_script01_3_M038,"It seemed to make a sucker out of a lot of guys. I felt wrong to be alive. I felt wrong to have that new checkbook,",Negative,train,0
+1860,Ses03M_script01_3_M041,Otherwise what you have is loot and there's blood on it.,Negative,validation,0
+1861,Ses03M_script01_3_M045,Annie I'm going to make a fortune for you.,Positive,train,2
+1862,Ses03M_script01_3_M046,Buy some hats?,Positive,train,2
+1863,Ses03M_script02_2_F001,It's ridiculous.,Negative,validation,0
+1864,Ses03M_script02_2_F004,"Look, I'm sorry but it's still just fish to me.",Negative,train,0
+1865,Ses03M_script02_2_F016,"No we won't. I mean, God, this isn't about the fish Augie.",Negative,validation,0
+1866,Ses03M_script02_2_F023,I'd rather not remember something...,Negative,train,0
+1867,Ses03M_script02_2_F024,Rather not hope for something.,Negative,validation,0
+1868,Ses03M_script02_2_F031,I want things to turn out the way that they're supposed to be.,Negative,test,0
+1869,Ses03M_script02_2_F033,Cause everything isn't anything like I thought it would be.,Negative,train,0
+1870,Ses03M_script02_2_F034,This is just this. You know? I mean it's a lot and everything but it isn't somewhere else. Do you know what I'm trying to say?,Negative,train,0
+1871,Ses03M_script02_2_F035,I know you are Augie. I know you wanted this evening to be nice.,Negative,train,0
+1872,Ses03M_script02_2_F036,I can't help thinking about being somewhere else.,Negative,train,0
+1873,Ses03M_script02_2_F041,"Well, I guess this is the wrong spot for the right people.",Negative,test,0
+1874,Ses03M_script02_2_F042,Yeah. I noticed that. It's real pretty on the water.,Positive,train,2
+1875,Ses03M_script02_2_F044,Oh you brought refreshments.,Positive,train,2
+1876,Ses03M_script02_2_F046,No I'm beginning to think you might be right.,Positive,validation,2
+1877,Ses03M_script02_2_F047,I think this may be the place for us after all.,Positive,test,2
+1878,Ses03M_script02_2_F048,I am sorry Augie.,Positive,train,2
+1879,Ses03M_script02_2_F049,Or not.,Positive,validation,2
+1880,Ses03M_script02_2_M017,"Let's see I took a shower, you were watching the news, you said hey, hey the Grunions are running tonight and I said great let's go, I feel lucky tonight.",Neutral,train,1
+1881,Ses03M_script02_2_M028,Welcome to the human race.,Negative,test,0
+1882,Ses03M_script02_2_M030,I was just like you. I thought it was going to be all peaches and roses and everything great and the sand in our toes and the wind in our hair and the fish will always come and the bills will pay themselves and we'd have three big fat rosy kids...,Negative,test,0
+1883,Ses03M_script02_2_M031,...and you know? Baby the jokes on us. Because you know what you get? Do you know what you get Carla? You get this.,Negative,train,0
+1884,Ses03M_script02_2_M033,Right.,Negative,train,0
+1885,Ses03M_script02_2_M037,I know. But I know I don't make you happy.,Negative,train,0
+1886,Ses03M_script02_2_M041,I mean look at the view of the moon we got from here.,Positive,validation,2
+1887,Ses03M_script02_2_M042,"Hey, look what we got here.",Positive,test,2
+1888,Ses03M_script02_2_M045,Shh. If we're very quiet the fish might come.,Positive,test,2
+1889,Ses03M_script02_2_M046,Or not.,Positive,train,2
+1890,Ses03M_script03_1_M035,I didn't hit you very hard.,Neutral,train,1
+1891,Ses03M_script03_2_F001,Presents? A trivial little broach.,Negative,test,0
+1892,Ses03M_script03_2_F003,No I didn't. You made up the whole thing in your jealous imagination.,Neutral,train,1
+1893,Ses03M_script03_2_F010,I don't know why you want it. You've already had two glasses.,Negative,test,0
+1894,Ses03M_script03_2_F011,I don't see what you have to go on and on with this kind of thing.,Negative,validation,0
+1895,Ses03M_script03_2_F012,It's become a habit with you.,Neutral,train,1
+1896,Ses03M_script03_2_F014,What?,Negative,train,0
+1897,Ses03M_script03_2_F024,"Adders don't snap, they sting.",Negative,validation,0
+1898,Ses03M_script03_2_F025,They sting.,Negative,test,0
+1899,Ses03M_script03_2_F029,You're quite insufferable. I expect it's because you're drunk.,Negative,train,0
+1900,Ses03M_script03_2_F032,Shut up.,Negative,validation,0
+1901,Ses03M_script03_2_F033,"Not very funny dear. In fact, maybe you better have some more brandy.",Negative,train,0
+1902,Ses03M_script03_2_F038,Very well. If you insist on being a boorish and idiotic.,Negative,train,0
+1903,Ses03M_script03_2_F039,You are far too temperamental. Try to control yourself.,Negative,train,0
+1904,Ses03M_script03_2_F040,Go away. Go away. I hate you.,Negative,test,0
+1905,Ses03M_script03_2_F041,"I hate you. Listen I'm sick and tired of listening to you, you sadistic bully.",Negative,test,0
+1906,Ses03M_script03_2_F045,Beast. Brute. Cad. Swine. Beast. Beast. Brute. Devil. Sorry.,Negative,test,0
+1907,Ses03M_script03_2_M000,Yes. The real cause of that rile was Peter Burden.,Neutral,train,1
+1908,Ses03M_script03_2_M004,You must admit he was in love with you.,Negative,validation,0
+1909,Ses03M_script03_2_M006,And what about me?,Negative,train,0
+1910,Ses03M_script03_2_M007,"Oh, that's a nice point of view I must say.",Negative,validation,0
+1911,Ses03M_script03_2_M008,"Yeah, so am I. Bored stiff.",Negative,test,0
+1912,Ses03M_script03_2_M012,Oh my...just because I just...okay...,Negative,train,0
+1913,Ses03M_script03_2_M014,You needn't be so grand just because you don't happen to want any yourself at the moment.,Negative,train,0
+1914,Ses03M_script03_2_M020,Yes it is.,Neutral,train,1
+1915,Ses03M_script03_2_M021,I think that,Neutral,test,1
+1916,Ses03M_script03_2_M030,"Okay, like I mentioned before I had three very small, minute liquor glasses of brandy. That's not even enough to get a child of two drunk.",Negative,validation,0
+1917,Ses03M_script03_2_M032,We might be able to bring up a splendid little debate about this intemperate tots.,Negative,train,0
+1918,Ses03M_script03_2_M034,You better turn that off.,Negative,train,0
+1919,Ses03M_script03_2_M040,Turn it--Turn it off.,Negative,train,0
+1920,Ses03M_script03_2_M041,Very amusing indeed.,Negative,train,0
+1921,Ses03M_script03_2_M042,"You know what? You're a vile, little, evil-minded, little, wicked beast and I never want to see you again.",Negative,train,0
+1922,Ses03M_script03_2_M043,You're not going nowhere. No you're not.,Negative,train,0
+1923,Ses03M_script03_2_M044,Just shut up.,Negative,test,0
